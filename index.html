@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Headphone Price Tracker</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎧</text></svg>">
+<style>
+  :root {
+    --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+    --hairline: #e1e0d9; --axis: #c3c2b7; --series-1: #2a78d6; --series-2: #eb6834;
+    --good: #006300; --good-bg: #e3f3e3; --warn: #8a5a00; --warn-bg: #fdf1d6; --link: #1c5cab;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+      --hairline: #2c2c2a; --axis: #383835; --series-1: #3987e5; --series-2: #d95926;
+      --good: #0ca30c; --good-bg: #10300f; --warn: #fab219; --warn-bg: #3a2c08; --link: #86b6ef;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: var(--link); text-decoration: none; } a:hover { text-decoration: underline; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 20px 16px 60px; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-bottom: 18px; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; } h1 a { color: inherit; }
+  h2 { font-size: 16px; margin: 28px 0 8px; }
+  .meta { color: var(--ink-2); font-size: 13px; }
+  .spacer { flex: 1; }
+  label.toggle { font-size: 13px; color: var(--ink-2); display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+  .card { background: var(--surface); border: 1px solid var(--hairline); border-radius: 10px; }
+
+  /* overview rows */
+  .row { display: grid; grid-template-columns: minmax(180px, 1.2fr) 2.4fr 110px; gap: 4px 18px; padding: 14px 16px; border-bottom: 1px solid var(--hairline); align-items: center; }
+  .row:last-child { border-bottom: 0; }
+  .row .name > a { font-weight: 600; font-size: 16px; color: var(--ink); }
+  .row .name .sub { color: var(--muted); font-size: 12.5px; }
+  .line { display: grid; grid-template-columns: 128px 86px 1fr auto; gap: 10px; align-items: baseline; padding: 2px 0; }
+  .line .kind { white-space: nowrap; }
+  .line .kind { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+  .line .price { font-weight: 650; font-size: 17px; font-variant-numeric: tabular-nums; }
+  .line.other .price { font-weight: 500; font-size: 15px; color: var(--ink-2); }
+  .line .where { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .line .delta { font-size: 13px; color: var(--ink-2); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .badge { display: inline-block; font-size: 11.5px; font-weight: 650; border-radius: 999px; padding: 1px 8px; white-space: nowrap; vertical-align: 1px; }
+  .badge.buy { background: var(--good-bg); color: var(--good); }
+  .badge.tag { background: var(--hairline); color: var(--ink-2); font-weight: 500; }
+  .badge.warn { background: var(--warn-bg); color: var(--warn); font-weight: 500; }
+  .none { color: var(--muted); }
+  .spark { width: 110px; height: 34px; display: block; }
+
+  /* detail */
+  .back { font-size: 13px; display: inline-block; margin-bottom: 8px; }
+  .why { color: var(--ink-2); max-width: 70ch; margin: 4px 0 16px; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+  .tile { padding: 12px 14px; }
+  .tile .k { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .tile .v { font-size: 26px; font-weight: 650; font-variant-numeric: tabular-nums; letter-spacing: -0.01em; }
+  .tile .s { font-size: 13px; color: var(--ink-2); }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th { text-align: left; font-weight: 500; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; padding: 8px 10px; border-bottom: 1px solid var(--hairline); }
+  td { padding: 9px 10px; border-bottom: 1px solid var(--hairline); vertical-align: top; }
+  tr:last-child td { border-bottom: 0; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  td.total { font-weight: 650; }
+  tr.oos td { opacity: .55; }
+  tr.best td { background: color-mix(in srgb, var(--good-bg) 55%, transparent); }
+  .t-title { color: var(--ink-2); font-size: 12.5px; max-width: 46ch; }
+  .t-notes { color: var(--muted); font-size: 12px; max-width: 60ch; margin-top: 2px; }
+  .tablewrap { overflow-x: auto; }
+  .links { display: flex; flex-wrap: wrap; gap: 8px; }
+  .links a { border: 1px solid var(--hairline); background: var(--surface); border-radius: 8px; padding: 6px 10px; font-size: 13.5px; }
+  .errs { color: var(--muted); font-size: 12.5px; margin-top: 10px; }
+
+  /* chart */
+  .chart { padding: 12px 14px 8px; position: relative; }
+  .legend { display: flex; gap: 16px; font-size: 12.5px; color: var(--ink-2); margin-bottom: 4px; flex-wrap: wrap; }
+  .legend i { display: inline-block; width: 14px; height: 2px; vertical-align: middle; margin-right: 6px; border-radius: 1px; }
+  .legend i.dash { background: repeating-linear-gradient(90deg, var(--muted) 0 4px, transparent 4px 7px); }
+  .chart svg { width: 100%; height: 240px; display: block; }
+  .chart text { fill: var(--muted); font-size: 11px; }
+  .tip { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--axis); border-radius: 8px; padding: 6px 9px; font-size: 12.5px; box-shadow: 0 4px 14px rgba(0,0,0,.12); display: none; white-space: nowrap; z-index: 2; }
+  .tip b { font-variant-numeric: tabular-nums; } .tip .d { color: var(--muted); }
+  .tip i { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
+  details { margin-top: 6px; font-size: 13px; color: var(--ink-2); } details table { font-size: 12.5px; }
+  footer { margin-top: 36px; color: var(--muted); font-size: 12.5px; }
+
+  @media (max-width: 760px) {
+    .row { grid-template-columns: 1fr; }
+    .row .sparkcell { display: none; }
+    .line { grid-template-columns: auto 1fr; gap: 0 10px; padding: 6px 0; }
+    .line .kind, .line .delta { grid-column: 1 / -1; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1><a href="#/">🎧 Headphone Price Tracker</a></h1>
+    <span class="meta" id="updated"></span>
+    <span class="spacer"></span>
+    <label class="toggle"><input type="checkbox" id="gst"> Show prices with 5% GST</label>
+  </header>
+  <main id="app"><p class="meta">Loading prices…</p></main>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  var app = document.getElementById('app');
+  var gstBox = document.getElementById('gst');
+  try { gstBox.checked = localStorage.getItem('gst') === '1'; } catch (e) {}
+  gstBox.addEventListener('change', function () { try { localStorage.setItem('gst', gstBox.checked ? '1' : '0'); } catch (e) {} render(); });
+
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function gst() { return gstBox.checked ? 1 + (window.PRICE_DATA.gstRate || 0.05) : 1; }
+  function money(v) { return v == null ? '–' : '$' + (v * gst()).toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+  function money0(v) { return '$' + Math.round(v).toLocaleString('en-CA'); }
+  function ago(iso) {
+    var m = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+    if (m < 2) return 'just now'; if (m < 90) return m + ' min ago';
+    var h = Math.round(m / 60); if (h < 36) return h + ' h ago'; return Math.round(h / 24) + ' days ago';
+  }
+  function isNew(o) { return o.condition === 'new'; }
+  function best(hp, wantNew) {
+    return hp.offers.filter(function (o) { return o.inStock && isNew(o) === wantNew; }).sort(function (a, b) { return a.total - b.total; })[0] || null;
+  }
+  function tags(o) {
+    var t = '';
+    if (!isNew(o)) t += ' <span class="badge tag">' + esc(o.condition) + '</span>';
+    if (o.requires) t += ' <span class="badge tag" title="' + esc(o.requires) + '">student</span>';
+    if (o.crossBorder) t += ' <span class="badge warn">cross-border</span>';
+    if (o.inStore) t += ' <span class="badge tag" title="Can be bought or picked up in person in Edmonton">in-store</span>';
+    if (o.stale) t += ' <span class="badge warn" title="This store could not be reached on the last refresh">last seen ' + esc(ago(o.lastSeen)) + '</span>';
+    return t;
+  }
+  function deltaHtml(o, hp) {
+    var d = o.total - hp.target;   // targets are pre-tax, so compare pre-tax
+    if (d <= 0) return '<span class="badge buy" title="At or below your no-brainer line">✓ BUY · ' + money0(-d) + ' under line</span>';
+    return money0(d) + ' above your ' + money0(hp.target) + ' line';
+  }
+
+  function lineHtml(hp, o, kind) {
+    var label = kind === 'new' ? 'New' : 'Open-box / refurb';
+    if (!o) return '<div class="line ' + (kind === 'new' ? '' : 'other') + '"><span class="kind">' + label + '</span><span class="none">–</span><span class="none">' + (kind === 'new' ? 'No in-stock listings found' : 'None available') + '</span><span></span></div>';
+    return '<div class="line ' + (kind === 'new' ? '' : 'other') + '"><span class="kind">' + label + '</span>' +
+      '<span class="price">' + money(o.total) + '</span>' +
+      '<span class="where"><a href="' + esc(o.url) + '" target="_blank" rel="noopener">' + esc(o.retailerName) + '</a>' +
+      (o.shipping > 0 ? ' <span class="meta">incl. ' + money(o.shipping) + ' shipping</span>' : '') + tags(o) + '</span>' +
+      '<span class="delta">' + deltaHtml(o, hp) + '</span></div>';
+  }
+
+  function sparkline(series) {
+    var pts = series.filter(function (p) { return p.n != null; });
+    if (pts.length < 2) return '';
+    var w = 110, h = 34, pad = 3, min = Infinity, max = -Infinity;
+    pts.forEach(function (p) { min = Math.min(min, p.n); max = Math.max(max, p.n); });
+    if (max === min) { max += 1; min -= 1; }
+    var t0 = +new Date(pts[0].t), t1 = +new Date(pts[pts.length - 1].t) || t0 + 1;
+    var d = pts.map(function (p, i) {
+      var x = pad + (w - 2 * pad) * ((+new Date(p.t) - t0) / Math.max(1, t1 - t0));
+      var y = pad + (h - 2 * pad) * (1 - (p.n - min) / (max - min));
+      return (i ? 'L' : 'M') + x.toFixed(1) + ' ' + y.toFixed(1);
+    }).join('');
+    return '<svg class="spark" viewBox="0 0 ' + w + ' ' + h + '" role="img" aria-label="Recent price trend (new)"><path d="' + d + '" fill="none" stroke="var(--series-1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg>';
+  }
+
+  function renderList(data, hist) {
+    var rows = data.headphones.map(function (hp) {
+      return '<div class="row"><div class="name"><a href="#/h/' + esc(hp.id) + '">' + esc(hp.name) + '</a>' +
+        '<div class="sub">' + hp.offers.length + ' listing' + (hp.offers.length === 1 ? '' : 's') + ' · typical ' + money0(hp.typical) + ' · <a href="#/h/' + esc(hp.id) + '">all options →</a></div></div>' +
+        '<div>' + lineHtml(hp, best(hp, true), 'new') + lineHtml(hp, best(hp, false), 'other') + '</div>' +
+        '<div class="sparkcell">' + sparkline(hist[hp.id] || []) + '</div></div>';
+    }).join('');
+    app.innerHTML = '<div class="card">' + rows + '</div>' +
+      '<p class="meta" style="margin-top:12px">Prices are the cheapest in-stock total (item + shipping to ' + esc(data.location) + ') before GST unless toggled. “Your line” is the no-brainer price for each headphone. Click a headphone for every buying option, including in-person stores.</p>';
+  }
+
+  function offerTable(hp, offers, bestOffer) {
+    if (!offers.length) return '<p class="none">Nothing found right now.</p>';
+    var sorted = offers.slice().sort(function (a, b) { return (b.inStock - a.inStock) || (a.total - b.total); });
+    return '<div class="card tablewrap"><table><thead><tr><th>Store</th><th>Listing</th><th class="num">Price</th><th class="num">Shipping</th><th class="num">Total</th><th>vs your line</th></tr></thead><tbody>' +
+      sorted.map(function (o) {
+        var cls = (o.inStock ? '' : 'oos') + (o === bestOffer ? ' best' : '');
+        return '<tr class="' + cls + '"><td><a href="' + esc(o.url) + '" target="_blank" rel="noopener">' + esc(o.retailerName) + '</a>' +
+          (o.seller && o.seller !== o.retailerName && !/^(Best Buy|Amazon|Newegg)$/.test(o.seller) ? '<div class="t-notes">Seller: ' + esc(o.seller) + '</div>' : '') +
+          '<div>' + tags(o) + (o.inStock ? '' : ' <span class="badge tag">out of stock</span>') + '</div></td>' +
+          '<td><div class="t-title">' + esc(o.title) + '</div>' + (o.requires ? '<div class="t-notes">Requires: ' + esc(o.requires) + '</div>' : '') +
+          (o.notes && o.notes.length ? '<div class="t-notes">' + o.notes.map(esc).join(' ') + '</div>' : '') + '</td>' +
+          '<td class="num">' + money(o.priceCad) + (o.currency !== 'CAD' ? '<div class="t-notes">' + esc(o.currency) + ' ' + o.price.toFixed(2) + '</div>' : '') + '</td>' +
+          '<td class="num">' + (o.shipping > 0 ? (o.shippingEstimated ? '~' : '') + money(o.shipping) : (o.shippingEstimated ? '~free' : 'free')) + '</td>' +
+          '<td class="num total">' + money(o.total) + '</td><td>' + (o.inStock ? deltaHtml(o, hp) : '<span class="none">–</span>') + '</td></tr>';
+      }).join('') + '</tbody></table></div>';
+  }
+
+  function chartHtml(hp, series) {
+    var pts = series.filter(function (p) { return p.n != null || p.o != null; });
+    if (!pts.length) return '<p class="none">No history yet.</p>';
+    var W = 1000, H = 240, L = 46, R = 104, T = 12, B = 24;
+    var vals = [hp.target]; pts.forEach(function (p) { if (p.n != null) vals.push(p.n); if (p.o != null) vals.push(p.o); });
+    var min = Math.min.apply(null, vals), max = Math.max.apply(null, vals), padv = Math.max(5, (max - min) * 0.12); min -= padv; max += padv;
+    var t0 = +new Date(pts[0].t), t1 = +new Date(pts[pts.length - 1].t); if (t1 === t0) { t0 -= 36e5; t1 += 36e5; }
+    function X(t) { return L + (W - L - R) * ((+new Date(t) - t0) / (t1 - t0)); }
+    function Y(v) { return T + (H - T - B) * (1 - (v - min) / (max - min)); }
+    function path(key) { var d = '', pen = false; pts.forEach(function (p) { if (p[key] == null) { pen = false; return; } d += (pen ? 'L' : 'M') + X(p.t).toFixed(1) + ' ' + Y(p[key]).toFixed(1); pen = true; }); return d; }
+    var grid = '', step = niceStep((max - min) / 4);
+    for (var v = Math.ceil(min / step) * step; v <= max; v += step) grid += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + Y(v) + '" y2="' + Y(v) + '" stroke="var(--hairline)"/><text x="' + (L - 8) + '" y="' + (Y(v) + 4) + '" text-anchor="end">$' + v + '</text>';
+    var fmt = function (t) { return new Date(t).toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }); };
+    var dots = pts.length <= 2 ? pts.map(function (p) { return (p.n != null ? '<circle cx="' + X(p.t) + '" cy="' + Y(p.n) + '" r="4" fill="var(--series-1)" stroke="var(--surface)" stroke-width="2"/>' : '') + (p.o != null ? '<circle cx="' + X(p.t) + '" cy="' + Y(p.o) + '" r="4" fill="var(--series-2)" stroke="var(--surface)" stroke-width="2"/>' : ''); }).join('') : '';
+    var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" role="img" aria-label="Cheapest price over time for ' + esc(hp.name) + '">' + grid +
+      '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + Y(hp.target) + '" y2="' + Y(hp.target) + '" stroke="var(--muted)" stroke-dasharray="5 4"/>' +
+      '<text x="' + (W - R + 6) + '" y="' + (Y(hp.target) + 4) + '">Your line $' + hp.target + '</text>' +
+      '<path d="' + path('o') + '" fill="none" stroke="var(--series-2)" stroke-width="2" stroke-linejoin="round"/>' +
+      '<path d="' + path('n') + '" fill="none" stroke="var(--series-1)" stroke-width="2" stroke-linejoin="round"/>' + dots +
+      '<text x="' + L + '" y="' + (H - 6) + '">' + fmt(pts[0].t) + '</text><text x="' + (W - R) + '" y="' + (H - 6) + '" text-anchor="end">' + fmt(pts[pts.length - 1].t) + '</text>' +
+      '<line id="xh" y1="' + T + '" y2="' + (H - B) + '" stroke="var(--axis)" style="display:none"/></svg>';
+    var table = '<details><summary>Show as table</summary><div class="tablewrap"><table><thead><tr><th>When</th><th class="num">New</th><th>Store</th><th class="num">Open-box / refurb</th><th>Store</th></tr></thead><tbody>' +
+      pts.slice().reverse().slice(0, 120).map(function (p) { return '<tr><td>' + new Date(p.t).toLocaleString('en-CA', { dateStyle: 'medium', timeStyle: 'short' }) + '</td><td class="num">' + (p.n != null ? '$' + p.n.toFixed(2) : '–') + '</td><td>' + esc(p.nr || '') + '</td><td class="num">' + (p.o != null ? '$' + p.o.toFixed(2) : '–') + '</td><td>' + esc(p.or || '') + '</td></tr>'; }).join('') + '</tbody></table></div></details>';
+    return '<div class="card chart" id="chart"><div class="legend"><span><i style="background:var(--series-1)"></i>Cheapest new</span><span><i style="background:var(--series-2)"></i>Cheapest open-box / refurbished</span><span><i class="dash"></i>Your no-brainer line</span></div>' + svg + '<div class="tip" id="tip"></div>' +
+      (pts.length < 3 ? '<p class="meta">History builds up as the tracker runs (every 6 hours). Pre-tax totals incl. shipping.</p>' : '<p class="meta">Pre-tax totals incl. shipping.</p>') + table + '</div>';
+  }
+  function niceStep(raw) { var p = Math.pow(10, Math.floor(Math.log10(raw))), f = raw / p; return Math.max(1, (f < 1.5 ? 1 : f < 3.5 ? 2 : f < 7.5 ? 5 : 10) * p); }
+
+  function wireChart(series) {
+    var box = document.getElementById('chart'); if (!box) return;
+    var svg = box.querySelector('svg'), tip = document.getElementById('tip'), xh = document.getElementById('xh');
+    var pts = series.filter(function (p) { return p.n != null || p.o != null; });
+    var t0 = +new Date(pts[0].t), t1 = +new Date(pts[pts.length - 1].t); if (t1 === t0) { t0 -= 36e5; t1 += 36e5; }
+    var W = 1000, L = 46, R = 104;
+    svg.addEventListener('mousemove', function (ev) {
+      var r = svg.getBoundingClientRect(), fx = (ev.clientX - r.left) / r.width * W;
+      var t = t0 + (t1 - t0) * Math.min(1, Math.max(0, (fx - L) / (W - L - R)));
+      var p = pts.reduce(function (a, b) { return Math.abs(+new Date(b.t) - t) < Math.abs(+new Date(a.t) - t) ? b : a; });
+      var x = L + (W - L - R) * ((+new Date(p.t) - t0) / (t1 - t0));
+      xh.setAttribute('x1', x); xh.setAttribute('x2', x); xh.style.display = '';
+      tip.innerHTML = '<div class="d">' + new Date(p.t).toLocaleString('en-CA', { dateStyle: 'medium', timeStyle: 'short' }) + '</div>' +
+        (p.n != null ? '<div><i style="background:var(--series-1)"></i>New <b>$' + p.n.toFixed(2) + '</b> · ' + esc(p.nr) + '</div>' : '') +
+        (p.o != null ? '<div><i style="background:var(--series-2)"></i>Open-box / refurb <b>$' + p.o.toFixed(2) + '</b> · ' + esc(p.or) + '</div>' : '');
+      tip.style.display = 'block';
+      var px = x / W * r.width; tip.style.left = Math.min(r.width - tip.offsetWidth - 4, Math.max(4, px + 12)) + 'px'; tip.style.top = '34px';
+    });
+    svg.addEventListener('mouseleave', function () { tip.style.display = 'none'; xh.style.display = 'none'; });
+  }
+
+  function renderDetail(data, hist, id) {
+    var hp = data.headphones.filter(function (h) { return h.id === id; })[0];
+    if (!hp) { location.hash = '#/'; return; }
+    var bn = best(hp, true), bo = best(hp, false);
+    function tile(k, o) { return '<div class="card tile"><div class="k">' + k + '</div><div class="v">' + (o ? money(o.total) : '–') + '</div><div class="s">' + (o ? '<a href="' + esc(o.url) + '" target="_blank" rel="noopener">' + esc(o.retailerName) + '</a> · ' + deltaHtml(o, hp) : 'None in stock right now') + '</div></div>'; }
+    app.innerHTML = '<a class="back" href="#/">← All headphones</a><h1 style="font-size:24px;margin:0">' + esc(hp.name) + '</h1><p class="why">' + esc(hp.why) + '</p>' +
+      '<div class="tiles">' + tile('Cheapest new', bn) + tile('Cheapest open-box / refurbished', bo) +
+      '<div class="card tile"><div class="k">Your no-brainer line</div><div class="v">' + money0(hp.target) + '</div><div class="s">Typical price ' + money0(hp.typical) + ' · pre-tax</div></div></div>' +
+      '<h2>Price history</h2>' + chartHtml(hp, hist[hp.id] || []) +
+      '<h2>New — every option</h2>' + offerTable(hp, hp.offers.filter(isNew), bn) +
+      '<h2>Open-box &amp; refurbished</h2>' + offerTable(hp, hp.offers.filter(function (o) { return !isNew(o); }), bo) +
+      '<h2>Stores to check yourself</h2><p class="meta" style="margin:0 0 8px">These stores block automated price checks, so open them directly. Those marked in-store have Edmonton locations.</p><div class="links">' +
+      hp.manualLinks.map(function (l) { return '<a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.name) + (l.inStore ? ' · in-store' : '') + ' ↗</a>'; }).join('') + '</div>' +
+      (hp.errors && hp.errors.length ? '<div class="errs">Couldn’t reach on the last refresh: ' + hp.errors.map(function (e) { return esc(e.retailer); }).join(', ') + '. Last known prices are shown where available.</div>' : '');
+    if ((hist[hp.id] || []).length) wireChart(hist[hp.id]);
+  }
+
+  function render() {
+    var data = window.PRICE_DATA, hist = window.PRICE_HISTORY || {};
+    if (!data) { app.innerHTML = '<p class="meta">No price data yet — run the scraper once.</p>'; return; }
+    document.getElementById('updated').textContent = 'Updated ' + ago(data.generatedAt) + ' · ' + data.location;
+    document.getElementById('updated').title = new Date(data.generatedAt).toLocaleString();
+    document.getElementById('foot').textContent = 'Refreshes every 6 hours. USD→CAD ' + data.fx.usdCad + ' (' + data.fx.source + '). Totals include shipping; GST is the same 5% everywhere so it never changes the ranking. Always confirm the final price at checkout.';
+    var m = location.hash.match(/^#\/h\/(.+)$/);
+    if (m) renderDetail(data, hist, decodeURIComponent(m[1])); else renderList(data, hist);
+  }
+
+  function loadData(cb) {
+    var left = 2, done = function () { if (--left === 0) cb(); };
+    ['data/prices.js', 'data/history.js'].forEach(function (src) {
+      var s = document.createElement('script'); s.src = src + '?t=' + Date.now(); s.onload = done; s.onerror = done; document.head.appendChild(s);
+    });
+  }
+  window.addEventListener('hashchange', function () { render(); window.scrollTo(0, 0); });
+  loadData(render);
+  setInterval(function () { loadData(render); }, 15 * 60 * 1000);
+  document.addEventListener('visibilitychange', function () { if (!document.hidden) loadData(render); });
+})();
+</script>
+</body>
+</html>
