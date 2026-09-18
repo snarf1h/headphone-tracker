@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-09-18T18:28:33Z",
+    "generatedAt":  "2026-09-18T18:39:32Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -2203,6 +2203,7 @@ window.PRICE_DATA = {
                            "typical":  120,
                            "target":  100,
                            "why":  "At $100 there\u0027s no reason to consider any other budget option.",
+                           "targetOther":  80,
                            "offers":  [
                                           {
                                               "sourceKey":  "aliexpress|aliexpress|3",
@@ -2225,7 +2226,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model, seller rating and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
+                                              "lastSeen":  "2026-09-18T18:39:32Z",
                                               "stale":  false
                                           },
                                           {
@@ -2249,7 +2250,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model, seller rating and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
+                                              "lastSeen":  "2026-09-18T18:39:32Z",
                                               "stale":  false
                                           },
                                           {
@@ -2273,273 +2274,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model, seller rating and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "Wanmo Direct",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow-Pro Noise Cancelling Headphones - HQ51 Over Ear Bluetooth Earphones, LDAC, Hi-Res Wireless Audio, 100H Playtime, Bluetooth 5.4, 42dB ANC, Comfortable Fit, Clear Calls (Brown)",
-                                              "price":  109.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  109.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  109.99,
-                                              "url":  "https://www.amazon.ca/dp/B0F1CL7LTD",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                            "Sold by third-party seller \u0027Wanmo Direct\u0027 - check seller rating and warranty."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow-Pro Noise Cancelling Headphones - HQ51 Over Ear Bluetooth Earphones, LDAC, Hi-Res Wireless Audio, 100H Playtime, Bluetooth 5.4, 42dB ANC, Comfortable Fit, Clear Calls Matte Gray",
-                                              "price":  119.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  119.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  119.99,
-                                              "url":  "https://www.amazon.ca/dp/B0DPQC8PX5",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro HQ51 Active Noise Cancelling Headphones, 4X Voice Reduction, LDAC Hi-Res Audio, 12 Custom EQ, 100H Playtime, Bluetooth 5.4, Comfort Fit Over Ear Headset for Home Office Travel",
-                                              "price":  119.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  119.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  119.99,
-                                              "url":  "https://www.amazon.ca/dp/B0DHCXG2WX",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow-Pro Noise Cancelling Headphones - HQ51 Over Ear Bluetooth Headphones with LDAC for Hi-Res Wireless Audio, 100H Playtime, Bluetooth 5.4, QuietMax 42dB ANC, Comfortable Fit, Clear Calls",
-                                              "price":  135.27,
-                                              "currency":  "CAD",
-                                              "priceCad":  135.27,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  135.27,
-                                              "url":  "https://www.amazon.ca/dp/B0DBZW1TMT",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  136.53,
-                                              "currency":  "CAD",
-                                              "priceCad":  136.53,
-                                              "shipping":  6.76,
-                                              "shippingEstimated":  false,
-                                              "total":  143.29,
-                                              "url":  "https://www.amazon.ca/dp/B0GX9VGFG8",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  136.75,
-                                              "currency":  "CAD",
-                                              "priceCad":  136.75,
-                                              "shipping":  6.86,
-                                              "shippingEstimated":  false,
-                                              "total":  143.61,
-                                              "url":  "https://www.amazon.ca/dp/B0GX9W8Y8R",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-us|4",
-                                              "retailer":  "amazon-us",
-                                              "retailerName":  "Amazon.com (US)",
-                                              "seller":  "Wanmo Direct",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow-Pro Noise Cancelling Headphones - HQ51 Over Ear Bluetooth Headphones with LDAC for Hi-Res Wireless Audio,100H Playtime, Bluetooth 5.4, QuietMax ANC, Comfortable Fit (Mocha Brown)",
-                                              "price":  102.24,
-                                              "currency":  "USD",
-                                              "priceCad":  146.59,
-                                              "shipping":  16.79,
-                                              "shippingEstimated":  true,
-                                              "total":  163.38,
-                                              "url":  "https://www.amazon.com/dp/B0F1CL7LTD",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  true,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Cross-border: converted from USD incl. 2.5% card FX fee and est. US$12 shipping. GST is collected at import. US warranty may not be honoured in Canada.",
-                                                            "Sold by third-party seller \u0027Wanmo Direct\u0027 - check seller rating and warranty."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-us|4",
-                                              "retailer":  "amazon-us",
-                                              "retailerName":  "Amazon.com (US)",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow-Pro Noise Cancelling Headphones - HQ51 Over Ear Bluetooth Headphones with LDAC for Hi-Res Wireless Audio,100H Playtime,Bluetooth 5.4,QuietMax ANC, Comfortable Fit,Clear Calls",
-                                              "price":  123.26,
-                                              "currency":  "USD",
-                                              "priceCad":  176.73,
-                                              "shipping":  16.79,
-                                              "shippingEstimated":  true,
-                                              "total":  193.52,
-                                              "url":  "https://www.amazon.com/dp/B0DBZW1TMT",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  true,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Cross-border: converted from USD incl. 2.5% card FX fee and est. US$12 shipping. GST is collected at import. US warranty may not be honoured in Canada."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-us|4",
-                                              "retailer":  "amazon-us",
-                                              "retailerName":  "Amazon.com (US)",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  126.06,
-                                              "currency":  "USD",
-                                              "priceCad":  180.74,
-                                              "shipping":  16.79,
-                                              "shippingEstimated":  true,
-                                              "total":  197.53,
-                                              "url":  "https://www.amazon.com/dp/B0GX9VGFG8",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  true,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Cross-border: converted from USD incl. 2.5% card FX fee and est. US$12 shipping. GST is collected at import. US warranty may not be honoured in Canada."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-us|4",
-                                              "retailer":  "amazon-us",
-                                              "retailerName":  "Amazon.com (US)",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  126.06,
-                                              "currency":  "USD",
-                                              "priceCad":  180.74,
-                                              "shipping":  16.79,
-                                              "shippingEstimated":  true,
-                                              "total":  197.53,
-                                              "url":  "https://www.amazon.com/dp/B0GX9W8Y8R",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  true,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Cross-border: converted from USD incl. 2.5% card FX fee and est. US$12 shipping. GST is collected at import. US warranty may not be honoured in Canada."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-us|4",
-                                              "retailer":  "amazon-us",
-                                              "retailerName":  "Amazon.com (US)",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  126.06,
-                                              "currency":  "USD",
-                                              "priceCad":  180.74,
-                                              "shipping":  16.79,
-                                              "shippingEstimated":  true,
-                                              "total":  197.53,
-                                              "url":  "https://www.amazon.com/dp/B0GXB324JZ",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  true,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Cross-border: converted from USD incl. 2.5% card FX fee and est. US$12 shipping. GST is collected at import. US warranty may not be honoured in Canada."
-                                                        ],
-                                              "lastSeen":  "2026-09-18T18:28:33Z",
+                                              "lastSeen":  "2026-09-18T18:39:32Z",
                                               "stale":  false
                                           }
                                       ],
