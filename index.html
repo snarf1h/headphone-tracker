@@ -124,12 +124,13 @@
   }
   function isNew(o) { return o.condition === 'new'; }
   function best(hp, wantNew) {
-    return hp.offers.filter(function (o) { return o.inStock && isNew(o) === wantNew; }).sort(function (a, b) { return a.total - b.total; })[0] || null;
+    return hp.offers.filter(function (o) { return o.inStock && !o.newCustomerOnly && isNew(o) === wantNew; }).sort(function (a, b) { return a.total - b.total; })[0] || null;
   }
   function tags(o) {
     var t = '';
     if (!isNew(o)) t += ' <span class="badge tag">' + esc(o.condition) + '</span>';
-    if (o.requires) t += ' <span class="badge tag" title="' + esc(o.requires) + '">student</span>';
+    if (o.newCustomerOnly) t += ' <span class="badge warn" title="' + esc(o.requires) + '">new accounts only</span>';
+    else if (o.requires) t += ' <span class="badge tag" title="' + esc(o.requires) + '">student</span>';
     if (o.crossBorder) t += ' <span class="badge warn">cross-border</span>';
     if (o.inStore) t += ' <span class="badge tag" title="Can be bought or picked up in person in Edmonton">in-store</span>';
     if (o.stale) t += ' <span class="badge warn" title="This store could not be reached on the last refresh">last seen ' + esc(ago(o.lastSeen)) + '</span>';
@@ -192,7 +193,7 @@
           (o.notes && o.notes.length ? '<div class="t-notes">' + o.notes.map(esc).join(' ') + '</div>' : '') + '</td>' +
           '<td class="num">' + money(o.priceCad) + (o.currency !== 'CAD' ? '<div class="t-notes">' + esc(o.currency) + ' ' + o.price.toFixed(2) + '</div>' : '') + '</td>' +
           '<td class="num">' + (o.shipping > 0 ? (o.shippingEstimated ? '~' : '') + money(o.shipping) : (o.shippingEstimated ? '~free' : 'free')) + '</td>' +
-          '<td class="num total">' + money(o.total) + '</td><td>' + (o.inStock ? deltaHtml(o, hp) : '<span class="none">–</span>') + '</td></tr>';
+          '<td class="num total">' + money(o.total) + '</td><td>' + (o.inStock && !o.newCustomerOnly ? deltaHtml(o, hp) : '<span class="none">–</span>') + '</td></tr>';
       }).join('') + '</tbody></table></div>';
   }
 
