@@ -1,10 +1,10 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-09-24T19:39:49Z",
+    "generatedAt":  "2026-09-24T23:15:22Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
-               "usdCad":  1.4096,
-               "source":  "Bank of Canada 2026-09-23"
+               "usdCad":  1.4136,
+               "source":  "Bank of Canada 2026-09-24"
            },
     "headphones":  [
                        {
@@ -1803,7 +1803,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false,
                                               "newCustomerOnly":  true,
                                               "stars":  4.7,
@@ -1830,7 +1830,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false,
                                               "stars":  4.7,
                                               "sold":  818
@@ -1857,7 +1857,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027Wanmo Direct\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false
                                           },
                                           {
@@ -1881,7 +1881,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false
                                           },
                                           {
@@ -1905,7 +1905,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false
                                           },
                                           {
@@ -1929,7 +1929,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false
                                           },
                                           {
@@ -1953,7 +1953,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false
                                           },
                                           {
@@ -1977,7 +1977,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T19:39:49Z",
+                                              "lastSeen":  "2026-09-24T23:15:22Z",
                                               "stale":  false
                                           }
                                       ],
