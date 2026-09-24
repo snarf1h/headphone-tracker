@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-09-24T04:32:19Z",
+    "generatedAt":  "2026-09-24T04:38:29Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -2021,7 +2021,7 @@ window.PRICE_DATA = {
                            "id":  "sonoflow-pro",
                            "name":  "1More SonoFlow Pro HQ51",
                            "typical":  120,
-                           "target":  100,
+                           "target":  85,
                            "why":  "At $100 there\u0027s no reason to consider any other budget option.",
                            "targetOther":  70,
                            "offers":  [
@@ -2047,7 +2047,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Seller not established enough to trust (no rating, no sales yet); needs 4.5+ stars and 100+ sold."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false,
                                               "newCustomerOnly":  true,
                                               "stars":  null,
@@ -2075,7 +2075,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false,
                                               "stars":  4.7,
                                               "sold":  817
@@ -2102,7 +2102,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027Wanmo Direct\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false
                                           },
                                           {
@@ -2127,7 +2127,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Seller not established enough to trust (4.2 stars, 22 sold); needs 4.5+ stars and 100+ sold."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false,
                                               "stars":  4.2,
                                               "sold":  22,
@@ -2154,7 +2154,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false
                                           },
                                           {
@@ -2178,7 +2178,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false
                                           },
                                           {
@@ -2202,7 +2202,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false
                                           },
                                           {
@@ -2226,7 +2226,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false
                                           },
                                           {
@@ -2250,7 +2250,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T04:32:19Z",
+                                              "lastSeen":  "2026-09-24T04:38:29Z",
                                               "stale":  false
                                           }
                                       ],
