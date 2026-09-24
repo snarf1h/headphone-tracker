@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-09-24T05:06:08Z",
+    "generatedAt":  "2026-09-24T05:15:26Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -244,33 +244,9 @@ window.PRICE_DATA = {
                            "name":  "Sonos Ace Ultra",
                            "typical":  600,
                            "target":  530,
-                           "why":  "Launches September 29, 2026 at $599. Listings from every store appear here automatically as they go live.",
+                           "why":  "Not released yet - launches September 29, 2026 at $599. Prices shown before then are pre-orders.",
                            "targetOther":  370,
                            "offers":  [
-                                          {
-                                              "sourceKey":  "shopify|simplycontrolled|4",
-                                              "retailer":  "simplycontrolled",
-                                              "retailerName":  "Simply Controlled (Calgary)",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sonos Ace Ultra | ACEUL (Black, White, Agave)",
-                                              "price":  454.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  454.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  454.99,
-                                              "url":  "https://www.simplycontrolled.ca/products/sonos-ace-ultra-aceul",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Authorized Sonos dealer in Calgary. Free shipping over $300, otherwise $24.95; free pickup at their Calgary warehouse."
-                                                        ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
-                                              "stale":  false
-                                          },
                                           {
                                               "sourceKey":  "page|sonos|3",
                                               "retailer":  "sonos",
@@ -292,55 +268,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "Amazon",
-                                              "condition":  "new",
-                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - White",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.amazon.ca/dp/B0H8T13J4Q",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-black/20116310",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free store pickup at Edmonton locations for items sold by Best Buy."
-                                                        ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
+                                              "lastSeen":  "2026-09-24T05:15:26Z",
                                               "stale":  false
                                           },
                                           {
@@ -364,7 +292,55 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
+                                              "lastSeen":  "2026-09-24T05:15:26Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "Amazon",
+                                              "condition":  "new",
+                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - White",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.amazon.ca/dp/B0H8T13J4Q",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-09-24T05:15:26Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Black",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-black/20116310",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free store pickup at Edmonton locations for items sold by Best Buy."
+                                                        ],
+                                              "lastSeen":  "2026-09-24T05:15:26Z",
                                               "stale":  false
                                           },
                                           {
@@ -388,7 +364,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free store pickup at Edmonton locations for items sold by Best Buy."
                                                         ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
+                                              "lastSeen":  "2026-09-24T05:15:26Z",
                                               "stale":  false
                                           },
                                           {
@@ -412,7 +388,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free store pickup at Edmonton locations for items sold by Best Buy."
                                                         ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
+                                              "lastSeen":  "2026-09-24T05:15:26Z",
                                               "stale":  false
                                           },
                                           {
@@ -436,7 +412,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-24T05:06:08Z",
+                                              "lastSeen":  "2026-09-24T05:15:26Z",
                                               "stale":  false
                                           }
                                       ],
