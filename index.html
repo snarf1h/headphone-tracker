@@ -267,7 +267,13 @@
   }
 
   function render() {
-    var data = window.PRICE_DATA, hist = window.PRICE_HISTORY || {};
+    var data = window.PRICE_DATA, hist = {};
+    // Defensive: only numeric prices are plotted; anything else (null, {}, a string) counts as "no price".
+    Object.keys(window.PRICE_HISTORY || {}).forEach(function (k) {
+      hist[k] = (window.PRICE_HISTORY[k] || []).map(function (p) {
+        return { t: p.t, n: typeof p.n === 'number' ? p.n : null, nr: p.nr || '', o: typeof p.o === 'number' ? p.o : null, or: p.or || '' };
+      });
+    });
     if (!data) { app.innerHTML = '<p class="meta">No price data yet — run the scraper once.</p>'; return; }
     document.getElementById('updated').textContent = 'Updated ' + ago(data.generatedAt) + ' · ' + data.location;
     document.getElementById('updated').title = new Date(data.generatedAt).toLocaleString();
