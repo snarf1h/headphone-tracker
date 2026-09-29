@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-09-29T12:46:24Z",
+    "generatedAt":  "2026-09-29T18:46:24Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -15,30 +15,6 @@ window.PRICE_DATA = {
                            "why":  "Below this, the Bose Ultra and Sonos stop making sense; at $400 it wipes out the whole mid tier.",
                            "targetOther":  320,
                            "offers":  [
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "Amazon",
-                                              "condition":  "new",
-                                              "title":  "Momentum 5 Wireless Headphones, ANC, 56 Hr Battery, White",
-                                              "price":  569.95,
-                                              "currency":  "CAD",
-                                              "priceCad":  569.95,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  569.95,
-                                              "url":  "https://www.amazon.ca/dp/B0H1Y91MCQ",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
-                                              "stale":  false
-                                          },
                                           {
                                               "sourceKey":  "shopify|sennheiser|3",
                                               "retailer":  "sennheiser",
@@ -60,14 +36,14 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
                                               "sourceKey":  "amazon|amazon-ca|2",
                                               "retailer":  "amazon-ca",
                                               "retailerName":  "Amazon.ca",
-                                              "seller":  "",
+                                              "seller":  "Amazon",
                                               "condition":  "new",
                                               "title":  "Momentum 5 Wireless Headphones, ANC, 56 Hr Battery, Black",
                                               "price":  569.95,
@@ -84,7 +60,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Momentum 5 Wireless Headphones, ANC, 56 Hr Battery, White",
+                                              "price":  569.97,
+                                              "currency":  "CAD",
+                                              "priceCad":  569.97,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  569.97,
+                                              "url":  "https://www.amazon.ca/dp/B0H1Y91MCQ",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,31 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sennheiser Momentum 5 Over-Ear Noise Cancelling Bluetooth Headphones - White",
-                                              "price":  569.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  569.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  569.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sennheiser-momentum-5-over-ear-noise-cancelling-bluetooth-headphones-white/19893377",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +156,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sennheiser Momentum 5 Over-Ear Noise Cancelling Bluetooth Headphones - White",
+                                              "price":  569.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  569.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  569.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sennheiser-momentum-5-over-ear-noise-cancelling-bluetooth-headphones-white/19893377",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -268,7 +268,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -292,7 +292,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -316,7 +316,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -340,7 +340,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -364,7 +364,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -388,7 +388,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -412,7 +412,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -476,7 +476,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -500,7 +500,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -509,14 +509,14 @@ window.PRICE_DATA = {
                                               "retailerName":  "Amazon.ca",
                                               "seller":  "Luna Electronics",
                                               "condition":  "new",
-                                              "title":  "Momentum 4 Wireless Headphones, ANC, 60 Hr Battery, Brown",
+                                              "title":  "MOMENTUM 4 Wireless Headphones, ANC, 60 Hr Battery, White",
                                               "price":  279.95,
                                               "currency":  "CAD",
                                               "priceCad":  279.95,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  279.95,
-                                              "url":  "https://www.amazon.ca/dp/B0FKCZVX5B",
+                                              "url":  "https://www.amazon.ca/dp/B0B6G9TPNQ",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
@@ -525,7 +525,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027Luna Electronics\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -549,7 +549,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -573,7 +573,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -597,7 +597,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -621,7 +621,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -645,7 +645,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -669,7 +669,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -693,7 +693,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Canadian specialist store. Free shipping over $300; below that the courier rate is quoted at checkout (estimated here)."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -717,7 +717,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -741,7 +741,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -765,7 +765,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -789,7 +789,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -813,7 +813,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -837,7 +837,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -861,7 +861,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -885,7 +885,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -909,7 +909,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -933,7 +933,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -957,7 +957,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -981,7 +981,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1005,7 +1005,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1029,7 +1029,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1093,7 +1093,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1117,7 +1117,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1141,7 +1141,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1165,7 +1165,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1189,7 +1189,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1213,7 +1213,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1237,7 +1237,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1261,7 +1261,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1285,7 +1285,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1309,7 +1309,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1333,7 +1333,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1357,7 +1357,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1381,7 +1381,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1405,7 +1405,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1429,7 +1429,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1453,7 +1453,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1477,7 +1477,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1501,7 +1501,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1565,7 +1565,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1589,7 +1589,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1613,7 +1613,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1637,7 +1637,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1662,7 +1662,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.8,
                                               "sold":  3000
@@ -1689,7 +1689,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.9,
                                               "sold":  1000
@@ -1755,7 +1755,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.7,
                                               "sold":  800
@@ -1782,7 +1782,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false,
                                               "newCustomerOnly":  true,
                                               "stars":  4.7,
@@ -1809,7 +1809,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1833,7 +1833,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1857,7 +1857,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1881,7 +1881,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1891,12 +1891,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  138.1,
+                                              "price":  148.62,
                                               "currency":  "CAD",
-                                              "priceCad":  138.1,
+                                              "priceCad":  148.62,
                                               "shipping":  6.76,
                                               "shippingEstimated":  false,
-                                              "total":  144.86,
+                                              "total":  155.38,
                                               "url":  "https://www.amazon.ca/dp/B0GX9VGFG8",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -1905,7 +1905,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1915,12 +1915,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  138.45,
+                                              "price":  149,
                                               "currency":  "CAD",
-                                              "priceCad":  138.45,
+                                              "priceCad":  149,
                                               "shipping":  6.86,
                                               "shippingEstimated":  false,
-                                              "total":  145.31,
+                                              "total":  155.86,
                                               "url":  "https://www.amazon.ca/dp/B0GX9W8Y8R",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -1929,7 +1929,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1993,7 +1993,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Official Canadian FiiO store. Free shipping over $99, otherwise $4.99."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2017,7 +2017,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.5,
                                               "sold":  150
@@ -2043,7 +2043,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Ships from Hong Kong, 7-15 days, duties included in the price. Store prices are converted from USD so they move with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2068,7 +2068,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.7,
                                               "sold":  101
@@ -2094,7 +2094,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-09-29T12:46:24Z",
+                                              "lastSeen":  "2026-09-29T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.6,
                                               "sold":  168
@@ -2131,5 +2131,695 @@ window.PRICE_DATA = {
 
                                       ]
                        }
-                   ]
+                   ],
+    "minipcs":  {
+                    "title":  "Mini PCs — always-on home server",
+                    "intro":  "Needs: CPU at least as fast as an Intel N150, 16 GB RAM, 512 GB+ NVMe SSD, wired Ethernet, Windows 11 (Pro preferred), about 15 W or less at idle.",
+                    "benchmark":  {
+                                      "name":  "Geekbench 6 multi-core",
+                                      "detail":  "Linux averages from gadgetversus.com, the only readable source that covers every CPU here and the Raspberry Pi 5"
+                                  },
+                    "electricity":  {
+                                        "hours":  26280,
+                                        "perKwh":  0.20,
+                                        "label":  "3 years always on (26,280 h) at $0.20/kWh"
+                                    },
+                    "reference":  {
+                                      "name":  "Raspberry Pi 5 16 GB setup",
+                                      "price":  705.28,
+                                      "idleW":  3.1,
+                                      "gb6":  1507,
+                                      "detail":  "Pi 5 16 GB + Raspberry Pi SSD Kit 512 GB + M.2 HAT+ Compact + 27 W power supply + official case with fan, delivered from DigiKey.ca (checked 2026-09-28). Idle 3.1 W booted from NVMe (sbc.compare).",
+                                      "url":  "https://www.digikey.ca/en/products/detail/raspberry-pi/SC1113/25862713"
+                                  },
+                    "items":  [
+                                  {
+                                      "id":  "minix-nr660",
+                                      "name":  "MINIX NGC-NR660",
+                                      "typical":  609,
+                                      "target":  539,
+                                      "why":  "Best value of the shortlist: 6-core Ryzen 5 6600H, dual 2.5G LAN, room to grow. Target = lowest Amazon.ca price since 1 Dec 2025 ($539, 1 Dec 2025 - ~7 Jan 2026, Keepa).",
+                                      "targetOther":  431,
+                                      "offers":  [
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "MINIX Technology Limited",
+                                                         "condition":  "new",
+                                                         "title":  "MINIX NGC-NR660 Mini PC, AMD Ryzen 5 6600H, 16GB DDR5, 512GB PCIe 3.0 SSD, Compact Windows 11 Pro Micro Desktop Computer, Dual 2.5G LAN,Triple 4K Display, USB-C 4.0, WiFi 6E for Home/Office/Gaming",
+                                                         "price":  608.9,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  608.9,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  608.9,
+                                                         "url":  "https://www.amazon.ca/dp/B0DSPM6ZZL",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     }
+                                                 ],
+                                      "manualLinks":  [
+                                                          {
+                                                              "name":  "Memory Express",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=MINIX%20NGC-NR660"
+                                                          },
+                                                          {
+                                                              "name":  "Walmart.ca",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.walmart.ca/en/search?q=MINIX%20NGC-NR660"
+                                                          },
+                                                          {
+                                                              "name":  "Staples",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.staples.ca/search?query=MINIX%20NGC-NR660"
+                                                          },
+                                                          {
+                                                              "name":  "Canada Computers",
+                                                              "inStore":  false,
+                                                              "url":  "https://www.canadacomputers.com/en/search?s=MINIX%20NGC-NR660"
+                                                          }
+                                                      ],
+                                      "errors":  [
+
+                                                 ],
+                                      "specs":  {
+                                                    "cpu":  "AMD Ryzen 5 6600H (6 cores / 12 threads)",
+                                                    "ram":  "16 GB DDR5, 2 slots, up to 64 GB",
+                                                    "storage":  "512 GB NVMe (PCIe 3.0) + spare M.2 2280 PCIe 4.0 slot",
+                                                    "lan":  "2 x 2.5G Ethernet",
+                                                    "os":  "Windows 11 Pro",
+                                                    "powerOn":  "Not verified"
+                                                },
+                                      "gb6":  8361,
+                                      "idleW":  11,
+                                      "idleNote":  "estimate - no measurement for this model; other Ryzen 5 6600H mini PCs idle at 10-11 W"
+                                  },
+                                  {
+                                      "id":  "geekom-a5-7430u",
+                                      "name":  "Geekom A5 (Ryzen 5 7430U)",
+                                      "typical":  629,
+                                      "target":  530,
+                                      "why":  "Lowest idle power of the shortlist (6 W), 3-year warranty, ships from a Canadian warehouse. Target set to $530 (29 Sep 2026); the lowest price recorded since 1 Dec 2025 is $570 at geekom.ca on 28 Sep 2026.",
+                                      "targetOther":  424,
+                                      "offers":  [
+                                                     {
+                                                         "sourceKey":  "page|geekom|1",
+                                                         "retailer":  "geekom",
+                                                         "retailerName":  "Geekom Canada",
+                                                         "seller":  "",
+                                                         "condition":  "new",
+                                                         "title":  "GEEKOM A5 R5-7430U 16GB RAM+512GB SSD",
+                                                         "price":  570,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  570,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  570,
+                                                         "url":  "https://www.geekom.ca/flash-sale-geekom-a5-2025-edition-mini-pc/",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|3",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "GEEKOM US Store",
+                                                         "condition":  "new",
+                                                         "title":  "GEEKOM A5 Mini PC, AMD Ryzen 5 7430U (Beats 5500U), 16GB RAM 1TB NVME SSD",
+                                                         "price":  629,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  629,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  629,
+                                                         "url":  "https://www.amazon.ca/dp/B0H2XMJFTM",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027GEEKOM US Store\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "page|geekom|1",
+                                                         "retailer":  "geekom",
+                                                         "retailerName":  "Geekom Canada",
+                                                         "seller":  "",
+                                                         "condition":  "new",
+                                                         "title":  "GEEKOM A5 R5-7430U 16GB RAM+1TB SSD",
+                                                         "price":  664,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  664,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  664,
+                                                         "url":  "https://www.geekom.ca/geekom-a5-mini-pc/",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|3",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "Amazon",
+                                                         "condition":  "new",
+                                                         "title":  "GEEKOM A5 2026 Mini PC, AMD Ryzen 5 7430U, 16GB RAM 1TB SSD Desktop",
+                                                         "price":  705.45,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  705.45,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  705.45,
+                                                         "url":  "https://www.amazon.ca/dp/B0D4QHSSTS",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|3",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "Amazon",
+                                                         "condition":  "new",
+                                                         "title":  "GEEKOM A5 2025 Edition Mini PC with AMD Ryzen 5 7430U, 16GB RAM \u0026 1TB M.2 NVMe SSD, Mini Desktop Computer Windows 11 Pro Support 8K UHD 4 Display/Wi-Fi 6/BT 5.2/2 x HDMI 2.0/2 x USB 3.2",
+                                                         "price":  729.18,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  729.18,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  729.18,
+                                                         "url":  "https://www.amazon.ca/dp/B0FJS6N8M3",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|3",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "",
+                                                         "condition":  "new",
+                                                         "title":  "A5 Pro Mini PC,AMD Ryzen 5 7430U(6C/12T, up to 4.3GHz), 16GB DDR4 RAM, 512GB NVMe SSD, Win11 Pro Desktop Computer, USB4/5K UHD/Wi-Fi 6E/BT 5.2 Geekom mini Computer",
+                                                         "price":  848.86,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  848.86,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  848.86,
+                                                         "url":  "https://www.amazon.ca/dp/B0DRPD97GF",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     }
+                                                 ],
+                                      "manualLinks":  [
+                                                          {
+                                                              "name":  "Memory Express",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=GEEKOM%20A5%207430U"
+                                                          },
+                                                          {
+                                                              "name":  "Walmart.ca",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.walmart.ca/en/search?q=GEEKOM%20A5%207430U"
+                                                          },
+                                                          {
+                                                              "name":  "Staples",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.staples.ca/search?query=GEEKOM%20A5%207430U"
+                                                          },
+                                                          {
+                                                              "name":  "Canada Computers",
+                                                              "inStore":  false,
+                                                              "url":  "https://www.canadacomputers.com/en/search?s=GEEKOM%20A5%207430U"
+                                                          }
+                                                      ],
+                                      "errors":  [
+
+                                                 ],
+                                      "specs":  {
+                                                    "cpu":  "AMD Ryzen 5 7430U (6 cores / 12 threads)",
+                                                    "ram":  "16 GB DDR4, 2 slots, up to 64 GB",
+                                                    "storage":  "512 GB NVMe (PCIe 4.0) + spare M.2 2242 SATA slot + 2.5\" bay",
+                                                    "lan":  "1 x 2.5G Ethernet",
+                                                    "os":  "Windows 11 Pro",
+                                                    "powerOn":  "Yes - needs Geekom\u0027s BIOS unlock tool"
+                                                },
+                                      "gb6":  6476,
+                                      "idleW":  6,
+                                      "idleNote":  "measured at the wall (MightyGadget, A5 2025 Edition); about 4 W under Proxmox (VirtualizationHowTo)"
+                                  },
+                                  {
+                                      "id":  "geekom-a5-5825u",
+                                      "name":  "Geekom A5 (Ryzen 7 5825U)",
+                                      "typical":  729,
+                                      "target":  566,
+                                      "why":  "8-core version of the A5, same chassis and warranty. Target = lowest Amazon.ca price since 1 Dec 2025 (~$566, ~9-23 Sep 2026, Keepa).",
+                                      "targetOther":  453,
+                                      "offers":  [
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|3",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "GEEKOM US Store",
+                                                         "condition":  "new",
+                                                         "title":  "GEEKOM A5 Mini PC AMD Ryzen 7 5825U (Beats 5400U/7330U), 16GB RAM 512GB SSD",
+                                                         "price":  729,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  729,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  729,
+                                                         "url":  "https://www.amazon.ca/dp/B0FX9PFWVZ",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027GEEKOM US Store\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "page|geekom|1",
+                                                         "retailer":  "geekom",
+                                                         "retailerName":  "Geekom Canada",
+                                                         "seller":  "",
+                                                         "condition":  "new",
+                                                         "title":  "GEEKOM A5 R7-5825U 16GB RAM + 512GB SSD",
+                                                         "price":  769,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  769,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  769,
+                                                         "url":  "https://www.geekom.ca/geekom-a5-mini-pc/",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     }
+                                                 ],
+                                      "manualLinks":  [
+                                                          {
+                                                              "name":  "Memory Express",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=GEEKOM%20A5%205825U"
+                                                          },
+                                                          {
+                                                              "name":  "Walmart.ca",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.walmart.ca/en/search?q=GEEKOM%20A5%205825U"
+                                                          },
+                                                          {
+                                                              "name":  "Staples",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.staples.ca/search?query=GEEKOM%20A5%205825U"
+                                                          },
+                                                          {
+                                                              "name":  "Canada Computers",
+                                                              "inStore":  false,
+                                                              "url":  "https://www.canadacomputers.com/en/search?s=GEEKOM%20A5%205825U"
+                                                          }
+                                                      ],
+                                      "errors":  [
+
+                                                 ],
+                                      "specs":  {
+                                                    "cpu":  "AMD Ryzen 7 5825U (8 cores / 16 threads)",
+                                                    "ram":  "16 GB DDR4, 2 slots, up to 64 GB",
+                                                    "storage":  "512 GB NVMe (PCIe 4.0) + spare M.2 2242 SATA slot + 2.5\" bay",
+                                                    "lan":  "1 x 2.5G Ethernet",
+                                                    "os":  "Windows 11 Pro",
+                                                    "powerOn":  "Yes - needs Geekom\u0027s BIOS unlock tool"
+                                                },
+                                      "gb6":  8130,
+                                      "idleW":  6,
+                                      "idleNote":  "estimate - same chassis as the 7430U version, which idles at 6 W; not measured for this CPU"
+                                  },
+                                  {
+                                      "id":  "minix-nuc355",
+                                      "name":  "MINIX NUC-355",
+                                      "typical":  696,
+                                      "target":  534,
+                                      "why":  "8-core Intel Core 3 N355, about 1.9x an N150. Target = lowest Amazon.ca price since 1 Dec 2025 (~$534, Dec 2025 - ~15 Jan 2026, Keepa); since the January price spike the low was ~$691.",
+                                      "targetOther":  427,
+                                      "offers":  [
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "MINIX Technology Limited",
+                                                         "condition":  "new",
+                                                         "title":  "MINIX NUC355 Mini PC, Intel Core 3 N355, 16GB DDR5, 512GB PCIe SSD, Triple 4K Display, WiFi 6, BT5.2, 2.5G LAN, Windows 11 Pro, USB-C/HDMI, for Business, Office, Education \u0026 Digital Signage",
+                                                         "price":  695.9,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  695.9,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  695.9,
+                                                         "url":  "https://www.amazon.ca/dp/B0FDQSD213",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     }
+                                                 ],
+                                      "manualLinks":  [
+                                                          {
+                                                              "name":  "Memory Express",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=MINIX%20NUC-355"
+                                                          },
+                                                          {
+                                                              "name":  "Walmart.ca",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.walmart.ca/en/search?q=MINIX%20NUC-355"
+                                                          },
+                                                          {
+                                                              "name":  "Staples",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.staples.ca/search?query=MINIX%20NUC-355"
+                                                          },
+                                                          {
+                                                              "name":  "Canada Computers",
+                                                              "inStore":  false,
+                                                              "url":  "https://www.canadacomputers.com/en/search?s=MINIX%20NUC-355"
+                                                          }
+                                                      ],
+                                      "errors":  [
+
+                                                 ],
+                                      "specs":  {
+                                                    "cpu":  "Intel Core 3 N355 (8 cores)",
+                                                    "ram":  "16 GB DDR5, 1 slot, up to 32 GB",
+                                                    "storage":  "512 GB NVMe (PCIe 3.0 x4) + spare M.2 2242 slot",
+                                                    "lan":  "1 x 2.5G Ethernet",
+                                                    "os":  "Windows 11 Pro",
+                                                    "powerOn":  "Not verified"
+                                                },
+                                      "gb6":  5633,
+                                      "idleW":  10,
+                                      "idleNote":  "estimate - no measurement for this model; the ASUS NUC 14 Essential with the same CPU idles at about 10 W on Windows"
+                                  },
+                                  {
+                                      "id":  "gmktec-g10",
+                                      "name":  "GMKtec G10 (Ryzen 5 3500U)",
+                                      "typical":  439,
+                                      "target":  350,
+                                      "why":  "Cheapest box that meets every requirement, but the CPU only ties an N150 (7% faster on Linux, 5% slower on Windows) and it can throttle in performance mode. Target set to $350 (29 Sep 2026); the lowest Amazon.ca price since 1 Dec 2025 is $389 (~26-30 Jun 2026, Keepa; listed since May 2026).",
+                                      "targetOther":  280,
+                                      "offers":  [
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "GMK-XINXTEC",
+                                                         "condition":  "new",
+                                                         "title":  "GMKtec G10 Mini PC W11 Pro, AMD Ryzen 5 3500U(Beats 3200U) 16GB RAM 512GB",
+                                                         "price":  395,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  395,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  395,
+                                                         "url":  "https://www.amazon.ca/dp/B0GWZY7FJ8",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027GMK-XINXTEC\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "GMKtec-CA",
+                                                         "condition":  "new",
+                                                         "title":  "GMKtec G10 Mini PC, AMD Ryzen 5 3500U, 16GB DDR4 512GB SSD Sliver",
+                                                         "price":  439,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  439,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  439,
+                                                         "url":  "https://www.amazon.ca/dp/B0H7WF2VQW",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027GMKtec-CA\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "Amazon",
+                                                         "condition":  "new",
+                                                         "title":  "GMKtec G10 Mini PC Ryzen 5 3500U (Beats N150/N97), 16GB RAM 512GB SSD, 2.5GbE LAN for Desktop Office Home Business HTPC Proxmox, Triple 4K Display, WiFi, BT, USB-C, DP, HDMI 2.1 (Black)",
+                                                         "price":  485.65,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  485.65,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  485.65,
+                                                         "url":  "https://www.amazon.ca/dp/B0FRFGG614",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "",
+                                                         "condition":  "new",
+                                                         "title":  "GMKtec Mini PC Ryzen 5 3500U 1TB NVMe SSD 16GB DDR4 2.5GbE NIC LAN Office Home Desktop Computers, HTPC Proxmox, HDMI 2.1, USB-C, DP Triple 4K Display Nucbox G10",
+                                                         "price":  514.38,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  514.38,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  514.38,
+                                                         "url":  "https://www.amazon.ca/dp/B0FDG2XJZ3",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "",
+                                                         "condition":  "new",
+                                                         "title":  "GMKtec G10 Mini PC Ryzen 5 3500U 1TB SSD 16GB DDR4 Triple 4K Display",
+                                                         "price":  528.07,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  528.07,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  528.07,
+                                                         "url":  "https://www.amazon.ca/dp/B0FSXDC7NR",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     }
+                                                 ],
+                                      "manualLinks":  [
+                                                          {
+                                                              "name":  "Memory Express",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=GMKtec%20G10%203500U"
+                                                          },
+                                                          {
+                                                              "name":  "Walmart.ca",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.walmart.ca/en/search?q=GMKtec%20G10%203500U"
+                                                          },
+                                                          {
+                                                              "name":  "Staples",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.staples.ca/search?query=GMKtec%20G10%203500U"
+                                                          },
+                                                          {
+                                                              "name":  "Canada Computers",
+                                                              "inStore":  false,
+                                                              "url":  "https://www.canadacomputers.com/en/search?s=GMKtec%20G10%203500U"
+                                                          }
+                                                      ],
+                                      "errors":  [
+
+                                                 ],
+                                      "specs":  {
+                                                    "cpu":  "AMD Ryzen 5 3500U (4 cores / 8 threads)",
+                                                    "ram":  "16 GB DDR4, 2 slots, up to 64 GB",
+                                                    "storage":  "512 GB NVMe + spare M.2 2280 slot",
+                                                    "lan":  "1 x 2.5G Ethernet",
+                                                    "os":  "Windows 11 Pro",
+                                                    "powerOn":  "Not verified"
+                                                },
+                                      "gb6":  3244,
+                                      "idleW":  11.5,
+                                      "idleNote":  "Lon.TV measured 11-12 W; one owner measured 6.5 W on Linux Mint"
+                                  },
+                                  {
+                                      "id":  "minix-nuc150",
+                                      "name":  "MINIX NUC150",
+                                      "typical":  531,
+                                      "target":  419,
+                                      "why":  "The best-equipped N150 box: upgradable DDR5, two spare M.2 slots, 2.5G LAN, sold by MINIX. Target = lowest Amazon.ca price since 1 Dec 2025 (~$419, 1 Dec 2025 - ~7 Jan 2026, Keepa); it then jumped to ~$780 until late August.",
+                                      "targetOther":  335,
+                                      "offers":  [
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "MINIX Technology Limited",
+                                                         "condition":  "new",
+                                                         "title":  "MINIX NUC150 Mini PC Intel N150, 16GB DDR5 RAM, 512GB SSD, 4K Triple Display, USB-C, 2.5G Ethernet, Wi-Fi 6, BT5.2, Windows 11 Pro mini Computer,Ideal for Business, Remote Work \u0026 Education",
+                                                         "price":  530.9,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  530.9,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  530.9,
+                                                         "url":  "https://www.amazon.ca/dp/B0FDWRZ1DP",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-09-29T18:46:24Z",
+                                                         "stale":  false
+                                                     }
+                                                 ],
+                                      "manualLinks":  [
+                                                          {
+                                                              "name":  "Memory Express",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=MINIX%20NUC150"
+                                                          },
+                                                          {
+                                                              "name":  "Walmart.ca",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.walmart.ca/en/search?q=MINIX%20NUC150"
+                                                          },
+                                                          {
+                                                              "name":  "Staples",
+                                                              "inStore":  true,
+                                                              "url":  "https://www.staples.ca/search?query=MINIX%20NUC150"
+                                                          },
+                                                          {
+                                                              "name":  "Canada Computers",
+                                                              "inStore":  false,
+                                                              "url":  "https://www.canadacomputers.com/en/search?s=MINIX%20NUC150"
+                                                          }
+                                                      ],
+                                      "errors":  [
+
+                                                 ],
+                                      "specs":  {
+                                                    "cpu":  "Intel N150 (4 cores)",
+                                                    "ram":  "16 GB DDR5, 1 slot, up to 32 GB",
+                                                    "storage":  "512 GB NVMe (PCIe 3.0 x4) + spare M.2 2280 and M.2 2242 slots",
+                                                    "lan":  "1 x 2.5G Ethernet",
+                                                    "os":  "Windows 11 Pro",
+                                                    "powerOn":  "Not verified"
+                                                },
+                                      "gb6":  3022,
+                                      "idleW":  9.3,
+                                      "idleNote":  "estimate - no measurement for this model; Jeff Geerling measured 9.3 W at the wall on another N150 mini PC (GMKtec G3 Plus)"
+                                  }
+                              ]
+                }
 };
