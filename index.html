@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Headphone Price Tracker</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎧</text></svg>">
+<title>Price Tracker</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏷️</text></svg>">
 <style>
   :root {
     --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
@@ -33,6 +33,7 @@
   /* overview rows */
   .row { display: grid; grid-template-columns: minmax(180px, 1.2fr) 2.4fr 110px; gap: 4px 18px; padding: 14px 16px; border-bottom: 1px solid var(--hairline); align-items: center; }
   .row:last-child { border-bottom: 0; }
+  .row > div { min-width: 0; }   /* let long store names shrink (with an ellipsis) instead of widening the page */
   .row .name > a { font-weight: 600; font-size: 16px; color: var(--ink); }
   .row .name .sub { color: var(--muted); font-size: 12.5px; }
   .line { display: grid; grid-template-columns: 128px 86px 1fr auto; gap: 10px; align-items: baseline; padding: 2px 0; }
@@ -85,6 +86,14 @@
   details { margin-top: 6px; font-size: 13px; color: var(--ink-2); } details table { font-size: 12.5px; }
   footer { margin-top: 36px; color: var(--muted); font-size: 12.5px; }
 
+  /* sections */
+  h2.sec { font-size: 18px; margin: 30px 0 10px; letter-spacing: -0.01em; }
+  section:first-child h2.sec { margin-top: 4px; }
+  .valueline { font-size: 12.5px; color: var(--ink-2); margin-top: 6px; font-variant-numeric: tabular-nums; }
+  .refcard { padding: 10px 16px; margin-bottom: 10px; font-size: 13.5px; color: var(--ink-2); }
+  table.spec th { text-transform: none; letter-spacing: 0; font-size: 13px; color: var(--ink-2); width: 34%; border-bottom: 1px solid var(--hairline); vertical-align: top; }
+  table.spec td { font-variant-numeric: tabular-nums; }
+
   @media (max-width: 760px) {
     .row { grid-template-columns: 1fr; }
     .row .sparkcell { display: none; }
@@ -96,7 +105,7 @@
 <body>
 <div class="wrap">
   <header>
-    <h1><a href="#/">🎧 Headphone Price Tracker</a></h1>
+    <h1><a href="#/">🏷️ Price Tracker</a></h1>
     <span class="meta" id="updated"></span>
     <span class="spacer"></span>
     <label class="toggle"><input type="checkbox" id="gst"> Show prices with 5% GST</label>
@@ -141,7 +150,7 @@
   function lineFor(hp, o) { return isNew(o) ? hp.target : otherLine(hp); }   // open-box / refurbished has its own, lower line
   function deltaHtml(o, hp) {
     var line = lineFor(hp, o), d = o.total - line;   // targets are pre-tax, so compare pre-tax
-    if (d <= 0) return '<span class="badge buy" title="At or below your no-brainer line">✓ BUY · ' + money0(-d) + ' under line</span>';
+    if (d <= 0) return '<span class="badge buy" title="At or below your no-brainer line">✓ BUY · ' + (Math.round(-d) > 0 ? money0(-d) + ' under line' : 'at your line') + '</span>';
     return money0(d) + ' above your ' + money0(line) + ' line';
   }
 
@@ -170,15 +179,58 @@
     return '<svg class="spark" viewBox="0 0 ' + w + ' ' + h + '" role="img" aria-label="Recent price trend (new)"><path d="' + d + '" fill="none" stroke="var(--series-1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg>';
   }
 
-  function renderList(data, hist) {
-    var rows = data.headphones.map(function (hp) {
-      return '<div class="row"><div class="name"><a href="#/h/' + esc(hp.id) + '">' + esc(hp.name) + '</a>' +
-        '<div class="sub">' + hp.offers.length + ' listing' + (hp.offers.length === 1 ? '' : 's') + ' · typical ' + money0(hp.typical) + ' · <a href="#/h/' + esc(hp.id) + '">all options →</a></div></div>' +
-        '<div>' + lineHtml(hp, best(hp, true), 'new') + lineHtml(hp, best(hp, false), 'other') + '</div>' +
-        '<div class="sparkcell">' + sparkline(hist[hp.id] || []) + '</div></div>';
+  function itemRow(hp, hist, subPrefix, extraBody) {
+    return '<div class="row"><div class="name"><a href="#/h/' + esc(hp.id) + '">' + esc(hp.name) + '</a>' +
+      '<div class="sub">' + (subPrefix || '') + hp.offers.length + ' listing' + (hp.offers.length === 1 ? '' : 's') + ' · typical ' + money0(hp.typical) + ' · <a href="#/h/' + esc(hp.id) + '">all options →</a></div></div>' +
+      '<div>' + lineHtml(hp, best(hp, true), 'new') + lineHtml(hp, best(hp, false), 'other') + (extraBody || '') + '</div>' +
+      '<div class="sparkcell">' + sparkline(hist[hp.id] || []) + '</div></div>';
+  }
+
+  // Mini PC value: price + electricity for 3 years always on at idle, per 1,000 benchmark points (pre-tax; lower is better).
+  function powerCost(mp, watts) { return (watts || 0) * mp.electricity.hours / 1000 * mp.electricity.perKwh; }
+  function valueFor(mp, pc, price) {
+    if (price == null || !pc.gb6) return null;
+    var total = price + powerCost(mp, pc.idleW);
+    return { total: total, per1k: total / pc.gb6 * 1000 };
+  }
+  function valueText(v) { return money0(v.total) + ' over 3 years · <b>' + money0(v.per1k) + '</b> per 1,000 pts'; }
+
+  function miniSection(mp, hist) {
+    var ref = mp.reference, refV = valueFor(mp, ref, ref.price);
+    var ranked = mp.items.map(function (pc) { var b = best(pc, true); return { pc: pc, v: b ? valueFor(mp, pc, b.total) : null }; })
+      .sort(function (a, b) { return (a.v ? a.v.per1k : Infinity) - (b.v ? b.v.per1k : Infinity); });
+    var rows = ranked.map(function (x) {
+      var pc = x.pc, cpu = pc.specs && pc.specs.cpu ? pc.specs.cpu.replace(/\s*\(.*\)$/, '') + ' · ' : '';
+      var body = '<div class="valueline">' + (x.v ? valueText(x.v) + ' <span class="meta">(incl. ' + money0(powerCost(mp, pc.idleW)) + ' power at ' + pc.idleW + ' W idle)</span>'
+        : 'No in-stock new price, so no value score yet') + '</div>';
+      return itemRow(pc, hist, esc(cpu), body);
     }).join('');
-    app.innerHTML = '<div class="card">' + rows + '</div>' +
-      '<p class="meta" style="margin-top:12px">Prices are the cheapest in-stock total (item + shipping to ' + esc(data.location) + ') before GST unless toggled. “Your line” is the no-brainer price for each headphone. Click a headphone for every buying option, including in-person stores.</p>';
+    return '<section><h2 class="sec">🖥️ ' + esc(mp.title) + '</h2>' +
+      '<p class="meta" style="margin:0 0 10px">' + esc(mp.intro) + ' Ranked by value right now: cheapest new price plus ' + esc(mp.electricity.label) +
+      ', per 1,000 ' + esc(mp.benchmark.name) + ' points (pre-tax; lower is better).</p>' +
+      '<div class="card refcard">For comparison: <a href="' + esc(ref.url) + '" target="_blank" rel="noopener" title="' + esc(ref.detail) + '">' + esc(ref.name) + '</a>, ' +
+      money0(ref.price) + ' delivered · ' + valueText(refV) + '</div>' +
+      '<div class="card">' + rows + '</div></section>';
+  }
+
+  function renderList(data, hist) {
+    var html = '<section><h2 class="sec">🎧 Headphones</h2><div class="card">' + data.headphones.map(function (hp) { return itemRow(hp, hist); }).join('') + '</div></section>';
+    if (data.minipcs && data.minipcs.items && data.minipcs.items.length) html += miniSection(data.minipcs, hist);
+    app.innerHTML = html +
+      '<p class="meta" style="margin-top:12px">Prices are the cheapest in-stock total (item + shipping to ' + esc(data.location) + ') before GST unless toggled. “Your line” is the no-brainer price for each item. Click an item for every buying option, including in-person stores.</p>';
+  }
+
+  function specsHtml(mp, pc, bn) {
+    var s = pc.specs || {};
+    var rows = [['CPU', s.cpu], ['Memory', s.ram], ['Storage', s.storage], ['Network', s.lan], ['Windows', s.os], ['Power on after an outage', s.powerOn],
+      ['Idle power', pc.idleW + ' W (' + pc.idleNote + ')'], [mp.benchmark.name, pc.gb6.toLocaleString('en-CA') + ' (' + mp.benchmark.detail + ')']];
+    var vNow = bn ? valueFor(mp, pc, bn.total) : null, vLine = valueFor(mp, pc, pc.target), vRef = valueFor(mp, mp.reference, mp.reference.price);
+    var html = rows.map(function (r) { return '<tr><th scope="row">' + esc(r[0]) + '</th><td>' + esc(r[1]) + '</td></tr>'; }).join('') +
+      '<tr><th scope="row">Value at today\'s best price</th><td>' + (vNow ? valueText(vNow) : 'No in-stock new price') + '</td></tr>' +
+      '<tr><th scope="row">Value at your line (' + money0(pc.target) + ')</th><td>' + valueText(vLine) + '</td></tr>' +
+      '<tr><th scope="row">' + esc(mp.reference.name) + '</th><td>' + valueText(vRef) + '</td></tr>';
+    return '<h2>Specs and value</h2><div class="card tablewrap"><table class="spec"><tbody>' + html + '</tbody></table></div>' +
+      '<p class="meta">3-year cost = price + ' + esc(mp.electricity.label) + '. Pre-tax.</p>';
   }
 
   function offerTable(hp, offers, bestOffer) {
@@ -250,13 +302,15 @@
   }
 
   function renderDetail(data, hist, id) {
-    var hp = data.headphones.filter(function (h) { return h.id === id; })[0];
+    var hp = data.headphones.filter(function (h) { return h.id === id; })[0], mp = data.minipcs, isPc = false;
+    if (!hp && mp && mp.items) { hp = mp.items.filter(function (h) { return h.id === id; })[0]; isPc = !!hp; }
     if (!hp) { location.hash = '#/'; return; }
     var bn = best(hp, true), bo = best(hp, false);
     function tile(k, o) { return '<div class="card tile"><div class="k">' + k + '</div><div class="v">' + (o ? money(o.total) : '–') + '</div><div class="s">' + (o ? '<a href="' + esc(o.url) + '" target="_blank" rel="noopener">' + esc(o.retailerName) + '</a> · ' + deltaHtml(o, hp) : 'None in stock right now') + '</div></div>'; }
-    app.innerHTML = '<a class="back" href="#/">← All headphones</a><h1 style="font-size:24px;margin:0">' + esc(hp.name) + '</h1><p class="why">' + esc(hp.why) + '</p>' +
+    app.innerHTML = '<a class="back" href="#/">← All items</a><h1 style="font-size:24px;margin:0">' + esc(hp.name) + '</h1><p class="why">' + esc(hp.why) + '</p>' +
       '<div class="tiles">' + tile('Cheapest new', bn) + tile('Cheapest open-box / refurbished', bo) +
       '<div class="card tile"><div class="k">Your no-brainer lines</div><div class="v">' + money0(hp.target) + ' <span style="font-size:15px;font-weight:500;color:var(--ink-2)">new</span></div><div class="s">' + money0(otherLine(hp)) + ' open-box / refurbished · typical ' + money0(hp.typical) + ' · pre-tax</div></div></div>' +
+      (isPc ? specsHtml(mp, hp, bn) : '') +
       '<h2>Price history</h2>' + chartHtml(hp, hist[hp.id] || []) +
       '<h2>New — every option</h2>' + offerTable(hp, hp.offers.filter(isNew), bn) +
       '<h2>Open-box &amp; refurbished</h2>' + offerTable(hp, hp.offers.filter(function (o) { return !isNew(o); }), bo) +
