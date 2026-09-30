@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-09-30T18:46:24Z",
+    "generatedAt":  "2026-09-30T18:58:45Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -460,30 +460,6 @@ window.PRICE_DATA = {
                            "targetOther":  175,
                            "offers":  [
                                           {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Momentum 4 Wireless Over-Ear Headphones Denim",
-                                              "price":  219.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  219.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  219.99,
-                                              "url":  "https://www.amazon.ca/dp/B0CJL1QQN6",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
                                               "sourceKey":  "shopify-catalog|sennheiser|4",
                                               "retailer":  "sennheiser",
                                               "retailerName":  "Sennheiser Canada",
@@ -504,7 +480,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -552,7 +528,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -576,7 +552,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -600,7 +576,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -624,14 +600,14 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
                                               "sourceKey":  "amazon|amazon-ca|2",
                                               "retailer":  "amazon-ca",
                                               "retailerName":  "Amazon.ca",
-                                              "seller":  "",
+                                              "seller":  "Amazon",
                                               "condition":  "new",
                                               "title":  "MOMENTUM 4 Wireless Headphones, ANC, 60 Hr Battery, Graphite",
                                               "price":  356.44,
@@ -648,7 +624,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -672,7 +648,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -696,31 +672,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "shopify-catalog|sennheiser|4",
-                                              "retailer":  "sennheiser",
-                                              "retailerName":  "Sennheiser Canada",
-                                              "seller":  "",
-                                              "condition":  "refurbished",
-                                              "title":  "MOMENTUM 4 Wireless Denim Refurbished",
-                                              "price":  399.95,
-                                              "currency":  "CAD",
-                                              "priceCad":  399.95,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  399.95,
-                                              "url":  "https://ca.sennheiser-hearing.com/products/momentum-4-wireless-denim-refurbished",
-                                              "inStock":  false,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
-                                                        ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -748,6 +700,30 @@ window.PRICE_DATA = {
                                               "stale":  true
                                           },
                                           {
+                                              "sourceKey":  "shopify-catalog|sennheiser|4",
+                                              "retailer":  "sennheiser",
+                                              "retailerName":  "Sennheiser Canada",
+                                              "seller":  "",
+                                              "condition":  "refurbished",
+                                              "title":  "MOMENTUM 4 Wireless Denim Refurbished",
+                                              "price":  399.95,
+                                              "currency":  "CAD",
+                                              "priceCad":  399.95,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  399.95,
+                                              "url":  "https://ca.sennheiser-hearing.com/products/momentum-4-wireless-denim-refurbished",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
+                                                        ],
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
+                                              "stale":  false
+                                          },
+                                          {
                                               "sourceKey":  "discover|newegg|9",
                                               "retailer":  "newegg",
                                               "retailerName":  "Newegg.ca",
@@ -768,7 +744,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -792,7 +768,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -820,51 +796,27 @@ window.PRICE_DATA = {
                                               "stale":  true
                                           },
                                           {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
+                                              "sourceKey":  "discover|canadacomputers|10",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Momentum 4 Wireless Headphones, ANC, 60 Hr Battery, Brown",
-                                              "price":  499.95,
-                                              "currency":  "CAD",
-                                              "priceCad":  499.95,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  499.95,
-                                              "url":  "https://www.amazon.ca/dp/B0FKCZVX5B",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|9",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Sennheiser Momentum 4 Wireless Noise Cancelling Headphones - Bluetooth Headset for Crystal-Clear Calls with Adaptive Noise Cancellation, Over-Ear Headphones, 60h Battery Life, Folding Design, Black",
+                                              "title":  "SENNHEISER Momentum 4 ANC Over-Ear Wireless Headphones, Black",
                                               "price":  499.99,
                                               "currency":  "CAD",
                                               "priceCad":  499.99,
                                               "shipping":  0,
                                               "shippingEstimated":  true,
                                               "total":  499.99,
-                                              "url":  "https://www.newegg.ca/sennheiser-momentum-4-black-over-the-ear/p/N82E16826106921",
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/224578/sennheiser-momentum-4-anc-over-ear-wireless-headphones-black-509266.html",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                            "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -888,31 +840,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "discover|canadacomputers|10",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
-                                              "seller":  "",
+                                              "sourceKey":  "discover|newegg|9",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
                                               "condition":  "new",
-                                              "title":  "SENNHEISER Momentum 4 ANC Over-Ear Wireless Headphones, Black",
+                                              "title":  "Sennheiser Momentum 4 Wireless Noise Cancelling Headphones - Bluetooth Headset for Crystal-Clear Calls with Adaptive Noise Cancellation, Over-Ear Headphones, 60h Battery Life, Folding Design, Black",
                                               "price":  499.99,
                                               "currency":  "CAD",
                                               "priceCad":  499.99,
                                               "shipping":  0,
                                               "shippingEstimated":  true,
                                               "total":  499.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/224578/sennheiser-momentum-4-anc-over-ear-wireless-headphones-black-509266.html",
+                                              "url":  "https://www.newegg.ca/sennheiser-momentum-4-black-over-the-ear/p/N82E16826106921",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "No Edmonton store; shipping estimated."
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -936,7 +888,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -960,7 +912,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -984,7 +936,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -1008,7 +960,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -1032,7 +984,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           },
                                           {
@@ -1056,7 +1008,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-09-30T18:46:24Z",
+                                              "lastSeen":  "2026-09-30T18:58:45Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1091,12 +1043,12 @@ window.PRICE_DATA = {
                                           {
                                               "retailer":  "Sennheiser Canada",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-09-30T18:46:24Z"
+                                              "at":  "2026-09-30T18:58:45Z"
                                           },
                                           {
                                               "retailer":  "Headphones.ca",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-09-30T18:46:24Z"
+                                              "at":  "2026-09-30T18:58:45Z"
                                           }
                                       ]
                        },
