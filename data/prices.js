@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-01T16:29:56Z",
+    "generatedAt":  "2026-10-01T18:46:24Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -15,30 +15,6 @@ window.PRICE_DATA = {
                            "why":  "Below this, the Bose Ultra and Sonos stop making sense; at $400 it wipes out the whole mid tier.",
                            "targetOther":  320,
                            "offers":  [
-                                          {
-                                              "sourceKey":  "shopify|sennheiser|3",
-                                              "retailer":  "sennheiser",
-                                              "retailerName":  "Sennheiser Canada",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "MOMENTUM 5 Wireless (Black, Bronze, Denim, Lavender, White)",
-                                              "price":  569.95,
-                                              "currency":  "CAD",
-                                              "priceCad":  569.95,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  569.95,
-                                              "url":  "https://ca.sennheiser-hearing.com/products/momentum-5-wireless",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T18:46:24Z",
-                                              "stale":  true
-                                          },
                                           {
                                               "sourceKey":  "amazon|amazon-ca|2",
                                               "retailer":  "amazon-ca",
@@ -60,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,31 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|canadacomputers|5",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SENNHEISER MOMENTUM 5 Adaptive NC Wireless Headphones, Black",
-                                              "price":  569.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  569.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  569.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/289694/sennheiser-momentum-5-adaptive-nc-wireless-headphones-black-800078.html",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "No Edmonton store; shipping estimated."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +84,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SENNHEISER MOMENTUM 5 Adaptive NC Wireless Headphones, Black",
+                                              "price":  569.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  569.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  569.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/289694/sennheiser-momentum-5-adaptive-nc-wireless-headphones-black-800078.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -239,7 +215,7 @@ window.PRICE_DATA = {
                                           {
                                               "retailer":  "Sennheiser Canada",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-10-01T16:29:56Z"
+                                              "at":  "2026-10-01T18:46:24Z"
                                           }
                                       ]
                        },
@@ -272,127 +248,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - Agave",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.amazon.ca/dp/B0H8TDT37X",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "Amazon",
-                                              "condition":  "new",
-                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - White",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.amazon.ca/dp/B0H8T13J4Q",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Agave",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-agave/20116309",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-black/20116310",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, White",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-white/20116308",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -416,7 +272,127 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "Amazon",
+                                              "condition":  "new",
+                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - White",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.amazon.ca/dp/B0H8T13J4Q",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Agave",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-agave/20116309",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Black",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-black/20116310",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, White",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-white/20116308",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - Agave",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.amazon.ca/dp/B0H8TDT37X",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -480,32 +456,8 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "shopify|sennheiser|3",
-                                              "retailer":  "sennheiser",
-                                              "retailerName":  "Sennheiser Canada",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "MOMENTUM 4 Wireless 80th Anniversary Special Edition",
-                                              "price":  279.95,
-                                              "currency":  "CAD",
-                                              "priceCad":  279.95,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  279.95,
-                                              "url":  "https://ca.sennheiser-hearing.com/products/momentum-4-wireless-80th-anniversary-special-edition",
-                                              "inStock":  false,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T18:46:24Z",
-                                              "stale":  true
                                           },
                                           {
                                               "sourceKey":  "amazon|amazon-ca|2",
@@ -529,7 +481,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027Luna Electronics\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -553,7 +505,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -577,7 +529,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -601,7 +553,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -625,7 +577,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -635,12 +587,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "Sennheiser Momentum 4 wireless headphones",
-                                              "price":  338.49,
+                                              "price":  337.99,
                                               "currency":  "CAD",
-                                              "priceCad":  338.49,
+                                              "priceCad":  337.99,
                                               "shipping":  19.49,
                                               "shippingEstimated":  true,
-                                              "total":  357.98,
+                                              "total":  357.48,
                                               "url":  "https://www.tradeinn.com/dressinn/en/sennheiser-momentum-4-wireless-headphones/141862940/p",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -649,7 +601,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -673,32 +625,8 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "shopify|headphonesca|7",
-                                              "retailer":  "headphonesca",
-                                              "retailerName":  "Headphones.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sennheiser Momentum 4 Headphones (Black, White)",
-                                              "price":  399.95,
-                                              "currency":  "CAD",
-                                              "priceCad":  399.95,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  399.95,
-                                              "url":  "https://headphones.ca/products/sennheiser-momentum-4-headphones",
-                                              "inStock":  false,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Canadian specialist store. Free shipping over $300; below that the courier rate is quoted at checkout (estimated here)."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T18:46:24Z",
-                                              "stale":  true
                                           },
                                           {
                                               "sourceKey":  "shopify-catalog|sennheiser|4",
@@ -721,7 +649,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -745,7 +673,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -769,32 +697,8 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "shopify|sennheiser|3",
-                                              "retailer":  "sennheiser",
-                                              "retailerName":  "Sennheiser Canada",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "MOMENTUM 4 Wireless (Brown, Copper, Teal, White)",
-                                              "price":  499.95,
-                                              "currency":  "CAD",
-                                              "priceCad":  499.95,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  499.95,
-                                              "url":  "https://ca.sennheiser-hearing.com/products/momentum-4-wireless",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T18:46:24Z",
-                                              "stale":  true
                                           },
                                           {
                                               "sourceKey":  "discover|newegg|9",
@@ -817,7 +721,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -841,7 +745,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -865,7 +769,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -889,7 +793,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -913,7 +817,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -937,7 +841,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -961,7 +865,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -985,7 +889,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1009,7 +913,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1044,12 +948,12 @@ window.PRICE_DATA = {
                                           {
                                               "retailer":  "Sennheiser Canada",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-10-01T16:29:56Z"
+                                              "at":  "2026-10-01T18:46:24Z"
                                           },
                                           {
                                               "retailer":  "Headphones.ca",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-10-01T16:29:56Z"
+                                              "at":  "2026-10-01T18:46:24Z"
                                           }
                                       ]
                        },
@@ -1082,7 +986,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1106,7 +1010,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1130,7 +1034,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1154,7 +1058,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1178,7 +1082,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1202,7 +1106,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1226,7 +1130,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1250,7 +1154,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1274,55 +1178,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Midnight Violet",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-midnight-violet/19390528",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|5",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Desert Gold",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/3176370-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-desert-gold",
-                                              "inStock":  false,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1346,7 +1202,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|5",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Desert Gold",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.staples.ca/products/3176370-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-desert-gold",
+                                              "inStock":  false,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1355,14 +1235,14 @@ window.PRICE_DATA = {
                                               "retailerName":  "Best Buy",
                                               "seller":  "Best Buy",
                                               "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Midnight Violet",
                                               "price":  599.99,
                                               "currency":  "CAD",
                                               "priceCad":  599.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-midnight-violet/19390528",
                                               "inStock":  true,
                                               "inStore":  true,
                                               "crossBorder":  false,
@@ -1370,7 +1250,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1394,7 +1274,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1418,7 +1322,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1442,7 +1346,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1466,7 +1370,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1490,7 +1394,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1514,7 +1418,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1578,7 +1482,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|tradeinn|4",
+                                              "retailer":  "tradeinn",
+                                              "retailerName":  "Tradeinn / Dressinn (Spain)",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Baseus Inspire xh1 headphones",
+                                              "price":  176.49,
+                                              "currency":  "CAD",
+                                              "priceCad":  176.49,
+                                              "shipping":  19.49,
+                                              "shippingEstimated":  true,
+                                              "total":  195.98,
+                                              "url":  "https://www.tradeinn.com/dressinn/en/baseus-inspire-xh1-headphones/143411164/p",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  true,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
+                                                        ],
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1602,7 +1530,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1612,36 +1540,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "Baseus Inspire xh1 headphones",
-                                              "price":  176.99,
+                                              "price":  198.99,
                                               "currency":  "CAD",
-                                              "priceCad":  176.99,
+                                              "priceCad":  198.99,
                                               "shipping":  19.49,
                                               "shippingEstimated":  true,
-                                              "total":  196.48,
-                                              "url":  "https://www.tradeinn.com/dressinn/en/baseus-inspire-xh1-headphones/143411164/p",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  true,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
-                                                        ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "page|tradeinn|4",
-                                              "retailer":  "tradeinn",
-                                              "retailerName":  "Tradeinn / Dressinn (Spain)",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Baseus Inspire xh1 headphones",
-                                              "price":  199.49,
-                                              "currency":  "CAD",
-                                              "priceCad":  199.49,
-                                              "shipping":  19.49,
-                                              "shippingEstimated":  true,
-                                              "total":  218.98,
+                                              "total":  218.48,
                                               "url":  "https://www.tradeinn.com/dressinn/en/baseus-inspire-xh1-headphones/143411165/p",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -1650,7 +1554,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1675,7 +1579,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.8,
                                               "sold":  3000
@@ -1702,7 +1606,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.9,
                                               "sold":  1000
@@ -1768,7 +1672,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false,
                                               "newCustomerOnly":  true,
                                               "stars":  4.7,
@@ -1781,12 +1685,12 @@ window.PRICE_DATA = {
                                               "seller":  "Amazon",
                                               "condition":  "new",
                                               "title":  "SonoFlow-Pro Noise Cancelling Headphones - HQ51 Over Ear Bluetooth Earphones, LDAC, Hi-Res Wireless Audio, 100H Playtime, Bluetooth 5.4, 42dB ANC, Comfortable Fit, Clear Calls (Brown)",
-                                              "price":  116.5,
+                                              "price":  117.9,
                                               "currency":  "CAD",
-                                              "priceCad":  116.5,
+                                              "priceCad":  117.9,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  116.5,
+                                              "total":  117.9,
                                               "url":  "https://www.amazon.ca/dp/B0F1CL7LTD",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -1795,7 +1699,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1819,7 +1723,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1843,7 +1747,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1867,7 +1771,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1891,7 +1795,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1901,12 +1805,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  148.9,
+                                              "price":  138.36,
                                               "currency":  "CAD",
-                                              "priceCad":  148.9,
+                                              "priceCad":  138.36,
                                               "shipping":  6.86,
                                               "shippingEstimated":  false,
-                                              "total":  155.76,
+                                              "total":  145.22,
                                               "url":  "https://www.amazon.ca/dp/B0GX9W8Y8R",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -1915,7 +1819,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1959,30 +1863,6 @@ window.PRICE_DATA = {
                            "targetOther":  48,
                            "offers":  [
                                           {
-                                              "sourceKey":  "shopify|fiiocanada|3",
-                                              "retailer":  "fiiocanada",
-                                              "retailerName":  "FiiO Canada",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "FiiO Air Link Lossless Bluetooth Transmitter - Bluetooth 6 and apt-x Lossless (Silver, Black)",
-                                              "price":  64.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  64.99,
-                                              "shipping":  4.99,
-                                              "shippingEstimated":  false,
-                                              "total":  69.98,
-                                              "url":  "https://www.fiiocanada.ca/products/fiio-air-link-lossless-bluetooth-transmitter",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Official Canadian FiiO store. Free shipping over $99, otherwise $4.99."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T18:46:24Z",
-                                              "stale":  true
-                                          },
-                                          {
                                               "sourceKey":  "aliexpress|aliexpress|5",
                                               "retailer":  "aliexpress",
                                               "retailerName":  "AliExpress",
@@ -2003,34 +1883,10 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.5,
                                               "sold":  150
-                                          },
-                                          {
-                                              "sourceKey":  "shopify|thehificat|4",
-                                              "retailer":  "thehificat",
-                                              "retailerName":  "The HiFi Cat (HK)",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "FiiO Air Link Type-C Bluetooth Transmitter BT6.0 for Mobile / Game Player (silver)",
-                                              "price":  77,
-                                              "currency":  "CAD",
-                                              "priceCad":  77,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  77,
-                                              "url":  "https://thehificat.com/products/fiio-air-link",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  true,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Ships from Hong Kong, 7-15 days, duties included in the price. Store prices are converted from USD so they move with the exchange rate."
-                                                        ],
-                                              "lastSeen":  "2026-09-29T18:46:24Z",
-                                              "stale":  true
                                           },
                                           {
                                               "sourceKey":  "aliexpress|aliexpress|5",
@@ -2053,7 +1909,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.6,
                                               "sold":  168
@@ -2080,7 +1936,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-01T16:29:56Z",
+                                              "lastSeen":  "2026-10-01T18:46:24Z",
                                               "stale":  false,
                                               "stars":  4.8,
                                               "sold":  1000
@@ -2117,12 +1973,12 @@ window.PRICE_DATA = {
                                           {
                                               "retailer":  "FiiO Canada",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-10-01T16:29:56Z"
+                                              "at":  "2026-10-01T18:46:24Z"
                                           },
                                           {
                                               "retailer":  "The HiFi Cat (HK)",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-10-01T16:29:56Z"
+                                              "at":  "2026-10-01T18:46:24Z"
                                           }
                                       ]
                        }
@@ -2178,7 +2034,7 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2203,7 +2059,7 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      }
                                                  ],
@@ -2273,7 +2129,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2298,7 +2154,7 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027GEEKOM US Store\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2322,7 +2178,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2346,7 +2202,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Free shipping with Prime on Amazon-fulfilled items."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2370,7 +2226,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Free shipping with Prime on Amazon-fulfilled items."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      }
                                                  ],
@@ -2441,7 +2297,7 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027GEEKOM US Store\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2465,7 +2321,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      }
                                                  ],
@@ -2536,7 +2392,7 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      }
                                                  ],
@@ -2607,7 +2463,7 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027GMK-XINXTEC\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2632,14 +2488,39 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027GMKtec-CA\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
                                                          "sourceKey":  "amazon|amazon-ca|2",
                                                          "retailer":  "amazon-ca",
                                                          "retailerName":  "Amazon.ca",
-                                                         "seller":  "Amazon",
+                                                         "seller":  "GMK-XINXTEC",
+                                                         "condition":  "new",
+                                                         "title":  "GMKtec Mini PC G10, AMD Ryzen 5 3500U (Beats 3200U) 16GB RAM 1TB",
+                                                         "price":  489,
+                                                         "currency":  "CAD",
+                                                         "priceCad":  489,
+                                                         "shipping":  0,
+                                                         "shippingEstimated":  false,
+                                                         "total":  489,
+                                                         "url":  "https://www.amazon.ca/dp/B0GQGWG8NJ",
+                                                         "inStock":  true,
+                                                         "inStore":  false,
+                                                         "crossBorder":  false,
+                                                         "requires":  "",
+                                                         "notes":  [
+                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                       "Sold by third-party seller \u0027GMK-XINXTEC\u0027 - check their return policy and warranty before buying."
+                                                                   ],
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
+                                                         "stale":  false
+                                                     },
+                                                     {
+                                                         "sourceKey":  "amazon|amazon-ca|2",
+                                                         "retailer":  "amazon-ca",
+                                                         "retailerName":  "Amazon.ca",
+                                                         "seller":  "",
                                                          "condition":  "new",
                                                          "title":  "GMKtec G10 Mini PC Ryzen 5 3500U (Beats N150/N97), 16GB RAM 512GB SSD, 2.5GbE LAN for Desktop Office Home Business HTPC Proxmox, Triple 4K Display, WiFi, BT, USB-C, DP, HDMI 2.1 (Black)",
                                                          "price":  491.52,
@@ -2656,7 +2537,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Free shipping with Prime on Amazon-fulfilled items."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2666,12 +2547,12 @@ window.PRICE_DATA = {
                                                          "seller":  "",
                                                          "condition":  "new",
                                                          "title":  "GMKtec Mini PC Ryzen 5 3500U 1TB NVMe SSD 16GB DDR4 2.5GbE NIC LAN Office Home Desktop Computers, HTPC Proxmox, HDMI 2.1, USB-C, DP Triple 4K Display Nucbox G10",
-                                                         "price":  514.38,
+                                                         "price":  520.6,
                                                          "currency":  "CAD",
-                                                         "priceCad":  514.38,
+                                                         "priceCad":  520.6,
                                                          "shipping":  0,
                                                          "shippingEstimated":  false,
-                                                         "total":  514.38,
+                                                         "total":  520.6,
                                                          "url":  "https://www.amazon.ca/dp/B0FDG2XJZ3",
                                                          "inStock":  true,
                                                          "inStore":  false,
@@ -2680,7 +2561,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Free shipping with Prime on Amazon-fulfilled items."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      },
                                                      {
@@ -2704,7 +2585,7 @@ window.PRICE_DATA = {
                                                          "notes":  [
                                                                        "Free shipping with Prime on Amazon-fulfilled items."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      }
                                                  ],
@@ -2775,7 +2656,7 @@ window.PRICE_DATA = {
                                                                        "Free shipping with Prime on Amazon-fulfilled items.",
                                                                        "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
                                                                    ],
-                                                         "lastSeen":  "2026-10-01T16:29:56Z",
+                                                         "lastSeen":  "2026-10-01T18:46:24Z",
                                                          "stale":  false
                                                      }
                                                  ],
