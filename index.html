@@ -93,8 +93,18 @@
   .refcard { padding: 10px 16px; margin-bottom: 10px; font-size: 13.5px; color: var(--ink-2); }
   table.spec th { text-transform: none; letter-spacing: 0; font-size: 13px; color: var(--ink-2); width: 34%; border-bottom: 1px solid var(--hairline); vertical-align: top; }
   table.spec td { font-variant-numeric: tabular-nums; }
+  table.deals td { vertical-align: middle; }
+  table.deals .t-title { max-width: 60ch; }
+  table.deals .rank { color: var(--muted); width: 1%; }
+  table.deals .narrow { display: none; }
 
   @media (max-width: 760px) {
+    table.deals .rank, table.deals .t-title, table.deals .wide { display: none; }
+    table.deals .narrow { display: inline; }
+    table.deals { font-size: 13px; }
+    table.deals th, table.deals td { padding: 8px 5px; }
+    table.deals th:nth-child(2), table.deals td:nth-child(2) { padding-left: 12px; }
+    table.deals .badge { padding: 1px 6px; }
     .row { grid-template-columns: 1fr; }
     .row .sparkcell { display: none; }
     .line { grid-template-columns: auto 1fr; gap: 0 10px; padding: 6px 0; }
@@ -213,11 +223,33 @@
       '<div class="card">' + rows + '</div></section>';
   }
 
+  // Brand list (data.lists): every Amazon listing of one brand's product, ranked by discount. No targets or alerts.
+  function listSection(list) {
+    var items = list.items || [];
+    var rows = items.map(function (it, i) {
+      var off = it.discountPct > 0;
+      return '<tr' + (it.stale ? ' class="oos"' : '') + '><td class="num rank">' + (i + 1) + '</td>' +
+        '<td><a href="' + esc(it.url) + '" target="_blank" rel="noopener"><b>' + esc(it.model) + '</b></a>' +
+        (it.deal ? ' <span class="badge tag">' + esc(it.deal) + '</span>' : '') + (it.coupon ? ' <span class="badge tag">' + esc(it.coupon) + '</span>' : '') +
+        (it.stale ? ' <span class="badge warn" title="Not in Amazon\'s results on the last check">last seen ' + esc(ago(it.lastSeen)) + '</span>' : '') +
+        '<div class="t-title">' + esc(it.title) + '</div></td>' +
+        '<td class="num total">' + money(it.price) + '</td>' +
+        '<td class="num">' + (off ? '<span class="t-notes wide">' + esc(it.refLabel) + ' </span>' + money(it.refPrice) : '<span class="none">–</span>') + '</td>' +
+        '<td class="num">' + (off ? '<span class="badge ' + (it.discountPct >= 20 ? 'buy' : 'tag') + '">' + (+it.discountPct.toFixed(1)) + '% off</span>' : '<span class="none">none</span>') + '</td></tr>';
+    }).join('');
+    return '<section><h2 class="sec">🌬️ ' + esc(list.title) + '</h2>' +
+      '<p class="meta" style="margin:0 0 10px">' + esc(list.note || '') + ' Checked ' + esc(ago(list.updatedAt)) + '.' +
+      (list.error ? ' Amazon could not be read on the last check, so these are the last known prices.' : '') + '</p>' +
+      (items.length ? '<div class="card tablewrap"><table class="deals"><thead><tr><th class="num rank">#</th><th>Model</th><th class="num">Price</th><th class="num"><span class="wide">Amazon’s reference</span><span class="narrow">Was</span></th><th class="num">Discount</th></tr></thead><tbody>' + rows + '</tbody></table></div>'
+        : '<p class="none">No listings found yet.</p>') + '</section>';
+  }
+
   function renderList(data, hist) {
     var html = '<section><h2 class="sec">🎧 Headphones</h2><div class="card">' + data.headphones.map(function (hp) { return itemRow(hp, hist); }).join('') + '</div></section>';
     if (data.minipcs && data.minipcs.items && data.minipcs.items.length) html += miniSection(data.minipcs, hist);
-    app.innerHTML = html +
-      '<p class="meta" style="margin-top:12px">Prices are the cheapest in-stock total (item + shipping to ' + esc(data.location) + ') before GST unless toggled. “Your line” is the no-brainer price for each item. Click an item for every buying option, including in-person stores.</p>';
+    html += '<p class="meta" style="margin-top:12px">Prices are the cheapest in-stock total (item + shipping to ' + esc(data.location) + ') before GST unless toggled. “Your line” is the no-brainer price for each item. Click an item for every buying option, including in-person stores.</p>';
+    (data.lists || []).forEach(function (list) { if (list) html += listSection(list); });
+    app.innerHTML = html;
   }
 
   function specsHtml(mp, pc, bn) {
