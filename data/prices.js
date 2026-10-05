@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-05T06:15:05Z",
+    "generatedAt":  "2026-10-05T06:46:24Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -36,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -60,7 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,7 +84,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -268,7 +268,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -277,14 +277,14 @@ window.PRICE_DATA = {
                                               "retailerName":  "Amazon.ca",
                                               "seller":  "",
                                               "condition":  "refurbished",
-                                              "title":  "WH1000XM6 Noise Cancelling Wireless Earphones, Platinum Silver [2025] - Premium Audio, High-Resolution Sound with Multiple Noise Sensor Technology, Premium Folding (Renewed)",
+                                              "title":  "WH1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black (Renewed)",
                                               "price":  459.99,
                                               "currency":  "CAD",
                                               "priceCad":  459.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  459.99,
-                                              "url":  "https://www.amazon.ca/dp/B0H51M9WZF",
+                                              "url":  "https://www.amazon.ca/dp/B0FFN93877",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
@@ -292,7 +292,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -301,14 +301,14 @@ window.PRICE_DATA = {
                                               "retailerName":  "Amazon.ca",
                                               "seller":  "Amazon",
                                               "condition":  "new",
-                                              "title":  "WH-1000XM6 The Best Wireless Noise Cancelling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, 30-Hour Battery, Olive Grey",
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Silver",
                                               "price":  478,
                                               "currency":  "CAD",
                                               "priceCad":  478,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  478,
-                                              "url":  "https://www.amazon.ca/dp/B0H9B4W7MW",
+                                              "url":  "https://www.amazon.ca/dp/B0F3QJLD3B",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
@@ -316,7 +316,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -340,7 +340,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -364,7 +364,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -388,7 +388,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -412,7 +412,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -436,7 +436,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -460,7 +460,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -484,7 +484,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -508,7 +508,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -532,7 +532,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -556,7 +556,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -580,7 +580,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -604,7 +604,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -628,7 +628,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -652,7 +652,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -676,7 +676,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -700,7 +700,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -724,7 +724,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -748,7 +748,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -772,7 +772,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -796,7 +796,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -820,7 +820,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -844,7 +844,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -868,7 +868,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -892,7 +892,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -916,7 +916,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -980,7 +980,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T06:09:08Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1004,7 +1004,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T06:09:08Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1028,7 +1028,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T06:09:08Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1052,7 +1052,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T06:09:08Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1076,7 +1076,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T06:09:08Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1100,7 +1100,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T06:09:08Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1124,7 +1124,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T06:09:08Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1188,7 +1188,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1212,7 +1212,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1236,7 +1236,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1260,7 +1260,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1284,7 +1284,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1308,7 +1308,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1332,7 +1332,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1356,7 +1356,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1380,7 +1380,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1404,7 +1404,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1428,7 +1428,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Canadian specialist store. Free shipping over $300; below that the courier rate is quoted at checkout (estimated here)."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1452,7 +1452,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1476,7 +1476,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1500,7 +1500,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1524,7 +1524,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1548,7 +1548,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1572,7 +1572,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1596,7 +1596,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1620,7 +1620,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1644,7 +1644,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1668,7 +1668,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1692,7 +1692,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1716,7 +1716,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1780,7 +1780,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1804,7 +1804,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1828,7 +1828,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1852,7 +1852,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1876,7 +1876,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1900,7 +1900,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1924,7 +1924,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1948,7 +1948,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1972,7 +1972,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1996,7 +1996,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2020,7 +2020,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2044,7 +2044,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2068,7 +2068,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2092,7 +2092,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2116,7 +2116,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2140,7 +2140,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2164,7 +2164,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2188,7 +2188,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -2252,7 +2252,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2276,7 +2276,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2300,7 +2300,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2324,7 +2324,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2334,12 +2334,12 @@ window.PRICE_DATA = {
                                               "seller":  "BASEUS Co.,Ltd. Store (4.8 stars, 3,000+ sold, 97.4% positive feedback)",
                                               "condition":  "new",
                                               "title":  "Baseus Inspire XH1 Sound by Bose ANC Wireless Headphone Bluetooth 6.1 48dB Adaptive Noise Cancellation Headset Hi-Res LDAC 100Hr",
-                                              "price":  231.06,
+                                              "price":  231.6,
                                               "currency":  "CAD",
-                                              "priceCad":  231.06,
+                                              "priceCad":  231.6,
                                               "shipping":  12,
                                               "shippingEstimated":  true,
-                                              "total":  243.06,
+                                              "total":  243.6,
                                               "url":  "https://www.aliexpress.com/item/1005009462893635.html",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -2349,7 +2349,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false,
                                               "stars":  4.8,
                                               "sold":  3000
@@ -2361,12 +2361,12 @@ window.PRICE_DATA = {
                                               "seller":  "BASEUS Co.,Ltd. Store (4.9 stars, 1,000+ sold, 97.4% positive feedback)",
                                               "condition":  "new",
                                               "title":  "Baseus Inspire XH1 ANC Wireless Headphone Bluetooth 6.1 48dB Adaptive Noise Cancellation Headset Hi-Res LDAC 100Hr Sound by Bose",
-                                              "price":  239.99,
+                                              "price":  240.68,
                                               "currency":  "CAD",
-                                              "priceCad":  239.99,
+                                              "priceCad":  240.68,
                                               "shipping":  12,
                                               "shippingEstimated":  true,
-                                              "total":  251.99,
+                                              "total":  252.68,
                                               "url":  "https://www.aliexpress.com/item/1005010152877921.html",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -2376,7 +2376,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false,
                                               "stars":  4.9,
                                               "sold":  1000
@@ -2428,12 +2428,12 @@ window.PRICE_DATA = {
                                               "seller":  "1MORE Official Store (4.7 stars, 800+ sold, 96.6% positive feedback)",
                                               "condition":  "new",
                                               "title":  "1MORE SonoFlow Pro Wireless Headphone HQ51 Active Noise Cancelling Bluetooth Headset 100H Playtime Hi-Res Audio Clear Call",
-                                              "price":  92.09,
+                                              "price":  92.31,
                                               "currency":  "CAD",
-                                              "priceCad":  92.09,
+                                              "priceCad":  92.31,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  92.09,
+                                              "total":  92.31,
                                               "url":  "https://www.aliexpress.com/item/1005008036362309.html",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -2442,7 +2442,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false,
                                               "newCustomerOnly":  true,
                                               "stars":  4.7,
@@ -2470,7 +2470,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027Wanmo Direct\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2494,7 +2494,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2518,7 +2518,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2542,31 +2542,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  139.23,
-                                              "currency":  "CAD",
-                                              "priceCad":  139.23,
-                                              "shipping":  6.76,
-                                              "shippingEstimated":  false,
-                                              "total":  145.99,
-                                              "url":  "https://www.amazon.ca/dp/B0GX9VGFG8",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2590,7 +2566,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
+                                              "price":  149.84,
+                                              "currency":  "CAD",
+                                              "priceCad":  149.84,
+                                              "shipping":  6.76,
+                                              "shippingEstimated":  false,
+                                              "total":  156.6,
+                                              "url":  "https://www.amazon.ca/dp/B0GX9VGFG8",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -2654,7 +2654,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Official Canadian FiiO store. Free shipping over $99, otherwise $4.99."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2664,12 +2664,12 @@ window.PRICE_DATA = {
                                               "seller":  "HiFi Audio Store (4.5 stars, 150 sold, 97.1% positive feedback)",
                                               "condition":  "new",
                                               "title":  "FiiO Air Link(Type-C) Bluetooth 6.0 Transmitter for Mobile/Game Player to Wireless Headphones, QCC5181 Chip, LDAC/AptX Adaptive",
-                                              "price":  71.68,
+                                              "price":  71.99,
                                               "currency":  "CAD",
-                                              "priceCad":  71.68,
+                                              "priceCad":  71.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  71.68,
+                                              "total":  71.99,
                                               "url":  "https://www.aliexpress.com/item/1005010246012133.html",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -2678,7 +2678,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false,
                                               "stars":  4.5,
                                               "sold":  150
@@ -2704,7 +2704,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Ships from Hong Kong, 7-15 days, duties included in the price. Store prices are converted from USD so they move with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -2714,12 +2714,12 @@ window.PRICE_DATA = {
                                               "seller":  "Shop19880820 Top HiFi Store (4.6 stars, 168 sold, 96.5% positive feedback)",
                                               "condition":  "new",
                                               "title":  "FiiO Air Link Type-C Bluetooth Transmitter BT6.0 for Mobile / Game Player to Wireless Headphones CC5181 Chip LDAC AptX Adaptive",
-                                              "price":  89.68,
+                                              "price":  89.99,
                                               "currency":  "CAD",
-                                              "priceCad":  89.68,
+                                              "priceCad":  89.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  89.68,
+                                              "total":  89.99,
                                               "url":  "https://www.aliexpress.com/item/1005010278782197.html",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -2728,7 +2728,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false,
                                               "stars":  4.6,
                                               "sold":  168
@@ -2740,12 +2740,12 @@ window.PRICE_DATA = {
                                               "seller":  "BrightAudio Store (4.8 stars, 1,000+ sold, 98.1% positive feedback)",
                                               "condition":  "new",
                                               "title":  "FiiO Air Link Type-C Bluetooth 6.0 Transmitter Wireless Headphones CC5181 Chip LDAC AptX Adaptive Support for Mobile Game Player",
-                                              "price":  78.38,
+                                              "price":  78.68,
                                               "currency":  "CAD",
-                                              "priceCad":  78.38,
+                                              "priceCad":  78.68,
                                               "shipping":  12,
                                               "shippingEstimated":  true,
-                                              "total":  90.38,
+                                              "total":  90.68,
                                               "url":  "https://www.aliexpress.com/item/1005010249007553.html",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -2755,7 +2755,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:46:24Z",
                                               "stale":  false,
                                               "stars":  4.8,
                                               "sold":  1000
@@ -2798,7 +2798,7 @@ window.PRICE_DATA = {
                       "id":  "levoit-purifiers",
                       "title":  "Levoit air purifiers on Amazon.ca",
                       "note":  "Every Levoit air purifier listed on Amazon.ca, one row per listing, ranked by discount. Discount = how far today\u0027s price is below Amazon\u0027s own reference price (\"List\" or \"Was\"), which can be optimistic. Replacement filters, humidifiers, bundles and two-purifier packs are left out.",
-                      "updatedAt":  "2026-10-05T06:15:05Z",
+                      "updatedAt":  "2026-10-05T06:46:24Z",
                       "error":  null,
                       "items":  [
                                     {
@@ -2812,7 +2812,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B07VVK39F7",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2826,7 +2826,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0B252LDH7",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2840,7 +2840,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09NBXDXJW",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2854,7 +2854,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B088GYSHDQ",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2868,7 +2868,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGV8FLNX",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2882,7 +2882,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BGPF71Q6",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2896,7 +2896,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0DW8YP1LY",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2910,7 +2910,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09BJMY8HL",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2924,7 +2924,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BHT3DQ8D",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2938,7 +2938,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08R794ZMX",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2952,7 +2952,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  "Big Deal",
                                         "url":  "https://www.amazon.ca/dp/B0BNDM2RNG",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2966,7 +2966,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09GTRVJQM",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2980,7 +2980,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08BR1CR78",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -2994,7 +2994,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B071D58ZY5",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -3008,7 +3008,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GYY98MR7",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -3022,7 +3022,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GWLVKN9T",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -3036,7 +3036,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08L73QL1V",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -3050,7 +3050,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08131HFSG",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -3064,7 +3064,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGVDBNJZ",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -3078,7 +3078,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0F3HYL51Z",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     },
                                     {
@@ -3092,7 +3092,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08CDNJY9M",
-                                        "lastSeen":  "2026-10-05T06:15:05Z",
+                                        "lastSeen":  "2026-10-05T06:46:24Z",
                                         "stale":  false
                                     }
                                 ]
