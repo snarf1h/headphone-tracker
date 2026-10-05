@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-05T04:39:02Z",
+    "generatedAt":  "2026-10-05T06:09:08Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -980,7 +980,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:09:08Z",
                                               "stale":  false
                                           },
                                           {
@@ -1004,7 +1004,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:09:08Z",
                                               "stale":  false
                                           },
                                           {
@@ -1028,7 +1028,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:09:08Z",
                                               "stale":  false
                                           },
                                           {
@@ -1052,7 +1052,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:09:08Z",
                                               "stale":  false
                                           },
                                           {
@@ -1076,7 +1076,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:09:08Z",
                                               "stale":  false
                                           },
                                           {
@@ -1100,7 +1100,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:09:08Z",
                                               "stale":  false
                                           },
                                           {
@@ -1124,7 +1124,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "lastSeen":  "2026-10-05T06:09:08Z",
                                               "stale":  false
                                           }
                                       ],
