@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-03T18:46:24Z",
+    "generatedAt":  "2026-10-05T04:39:02Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -36,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -60,7 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,7 +84,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -240,6 +240,718 @@ window.PRICE_DATA = {
                                       ]
                        },
                        {
+                           "id":  "sony-xm6",
+                           "name":  "Sony WH-1000XM6",
+                           "typical":  600,
+                           "target":  460,
+                           "why":  "Sony\u0027s flagship noise-cancelling headphones. Regular price $600; on sale for $478 at Best Buy, Amazon.ca and Sony.ca when added (4 Oct 2026).",
+                           "targetOther":  368,
+                           "offers":  [
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "open-box",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black(Open Box)",
+                                              "price":  431.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  431.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  431.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/288405/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-black-wh1000xm6-b.html",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "refurbished",
+                                              "title":  "WH1000XM6 Noise Cancelling Wireless Earphones, Platinum Silver [2025] - Premium Audio, High-Resolution Sound with Multiple Noise Sensor Technology, Premium Folding (Renewed)",
+                                              "price":  459.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  459.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  459.99,
+                                              "url":  "https://www.amazon.ca/dp/B0H51M9WZF",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "Amazon",
+                                              "condition":  "new",
+                                              "title":  "WH-1000XM6 The Best Wireless Noise Cancelling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, 30-Hour Battery, Olive Grey",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.amazon.ca/dp/B0H9B4W7MW",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones MidnightBlue",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.amazon.ca/dp/B0F3PT1VBL",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|costco|4",
+                                              "retailer":  "costco",
+                                              "retailerName":  "Costco.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Wireless Noise Cancelling Headphones, Silver",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.costco.ca/sony-wh-1000xm6-wireless-noise-cancelling-headphones.product.4000377234.html",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Black",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-black/19320383",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.amazon.ca/dp/B0F3PQHWTZ",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Silver",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-silver/19320385",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Blue",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-blue/19320384",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sandstone",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sandstone/19869816",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sand Pink",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sand-pink/19741473",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Olive Grey",
+                                              "price":  478,
+                                              "currency":  "CAD",
+                                              "priceCad":  478,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  478,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-olive-grey/19997587",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Pink",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  479.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/287445/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-pink-wh1000xm6-p.html",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless NC Over-Ear Headphones, Sandstone",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  479.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/289958/sony-wh-1000xm6-wireless-nc-over-ear-headphones-sandstone-wh1000xm6-t.html",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Platinum Silver",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.staples.ca/products/3124722-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-platinum-silver",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Wireless Noise-Cancelling Headphones - Blue",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.staples.ca/products/3129226-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-blue",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Black",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.staples.ca/products/3124721-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-black",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Wireless Noise Cancelling Headphones - Sandstone",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.staples.ca/products/3189943-en-sony-wh-1000xm6-over-ear-wireless-noise-cancelling-headphones-sandstone",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Best Wireless Noise Cancelling Headphones - Pink",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.staples.ca/products/3165915-en-sony-wh1000xm6-best-wireless-noise-cancelling-headphones-pink",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Silver",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  479.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274900/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-silver-wh1000xm6-s.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/L",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-l",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/S",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-s",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/B",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-b",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  479.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274892/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-black-wh1000xm6-b.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/P",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-p",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/T",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-t",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
+                                              "price":  519.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  519.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  519.99,
+                                              "url":  "https://www.amazon.ca/dp/B0F4DMPMCM",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Noise Cancelling Wireless Earphones, Platinum Silver [2025] - Premium Audio, High-Resolution Sound with Multiple Noise Sensor Technology, Up to 30 Hours of Battery Life, Premium Folding",
+                                              "price":  519.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  519.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  519.99,
+                                              "url":  "https://www.amazon.ca/dp/B0F4DKKPN1",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T04:39:02Z",
+                                              "stale":  false
+                                          }
+                                      ],
+                           "manualLinks":  [
+                                               {
+                                                   "name":  "Walmart.ca",
+                                                   "inStore":  true,
+                                                   "url":  "https://www.walmart.ca/en/search?q=Sony%20WH-1000XM6"
+                                               },
+                                               {
+                                                   "name":  "Memory Express",
+                                                   "inStore":  true,
+                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Sony%20WH-1000XM6"
+                                               },
+                                               {
+                                                   "name":  "Visions",
+                                                   "inStore":  true,
+                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Sony%20WH-1000XM6"
+                                               },
+                                               {
+                                                   "name":  "London Drugs",
+                                                   "inStore":  true,
+                                                   "url":  "https://www.londondrugs.com/search?q=Sony%20WH-1000XM6"
+                                               },
+                                               {
+                                                   "name":  "B\u0026H (US)",
+                                                   "inStore":  false,
+                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Sony%20WH-1000XM6"
+                                               }
+                                           ],
+                           "errors":  [
+
+                                      ]
+                       },
+                       {
                            "id":  "sonos-ace-ultra",
                            "name":  "Sonos Ace Ultra",
                            "typical":  600,
@@ -268,31 +980,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - White",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.amazon.ca/dp/B0H8T13J4Q",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -309,14 +997,14 @@ window.PRICE_DATA = {
                                               "shippingEstimated":  false,
                                               "total":  599.99,
                                               "url":  "https://www.amazon.ca/dp/B0H8TDT37X",
-                                              "inStock":  false,
+                                              "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -340,55 +1028,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-black/20116310",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, White",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-white/20116308",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -412,7 +1052,79 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, Black",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-black/20116310",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sonos Ace Ultra Over-Ear Noise Cancelling Bluetooth Headphones - with Built-in Mic, White",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sonos-ace-ultra-over-ear-noise-cancelling-bluetooth-headphones-with-built-in-mic-white/20116308",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Ace Ultra Over-Ear Headphones with Noise Cancellation - White",
+                                              "price":  600.94,
+                                              "currency":  "CAD",
+                                              "priceCad":  600.94,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  600.94,
+                                              "url":  "https://www.amazon.ca/dp/B0H8T13J4Q",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -476,7 +1188,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -500,7 +1212,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -524,7 +1236,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -548,7 +1260,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -572,7 +1284,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -596,7 +1308,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -620,7 +1332,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -644,7 +1356,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -654,12 +1366,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "MOMENTUM 4 Wireless Headphones, ANC, 60 Hr Battery, White",
-                                              "price":  380.08,
+                                              "price":  379.98,
                                               "currency":  "CAD",
-                                              "priceCad":  380.08,
+                                              "priceCad":  379.98,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  380.08,
+                                              "total":  379.98,
                                               "url":  "https://www.amazon.ca/dp/B0B6G9TPNQ",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -668,7 +1380,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -692,7 +1404,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -716,7 +1428,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Canadian specialist store. Free shipping over $300; below that the courier rate is quoted at checkout (estimated here)."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -740,7 +1452,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -764,7 +1476,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -788,7 +1500,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -812,7 +1524,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -836,7 +1548,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -860,7 +1572,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -884,31 +1596,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sennheiser MOMENTUM 4 Over-Ear Noise Cancelling Bluetooth Headphones - White",
-                                              "price":  499.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  499.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  499.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sennheiser-momentum-4-over-ear-noise-cancelling-bluetooth-headphones-white/16382186",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -932,7 +1620,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sennheiser MOMENTUM 4 Over-Ear Noise Cancelling Bluetooth Headphones - White",
+                                              "price":  499.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  499.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  499.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sennheiser-momentum-4-over-ear-noise-cancelling-bluetooth-headphones-white/16382186",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -956,7 +1668,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -980,7 +1692,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1004,7 +1716,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1068,127 +1780,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Midnight Violet",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599,
-                                              "url":  "https://www.newegg.ca/bose-890101-0300-noise-cancelling-midnight-violet/p/N82E16826627186",
-                                              "inStock":  false,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "page|bose|3",
-                                              "retailer":  "bose",
-                                              "retailerName":  "Bose.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra Headphones (2nd Gen)",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599,
-                                              "url":  "https://www.bose.ca/en/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - White Smoke",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627185",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Black",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627184",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Driftwood Sand",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627188",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1212,7 +1804,103 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Midnight Violet",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599,
+                                              "url":  "https://www.newegg.ca/bose-890101-0300-noise-cancelling-midnight-violet/p/N82E16826627186",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - White Smoke",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627185",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Black",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627184",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Driftwood Sand",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627188",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1236,7 +1924,55 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|bose|3",
+                                              "retailer":  "bose",
+                                              "retailerName":  "Bose.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra Headphones (2nd Gen)",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599,
+                                              "url":  "https://www.bose.ca/en/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, Black",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599,
+                                              "url":  "https://www.amazon.ca/dp/B0FDKR293G",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1260,79 +1996,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Midnight Violet",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-midnight-violet/19390528",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-black/19390529",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1356,31 +2020,79 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "discover|staples|5",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
                                               "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Black (2nd Gen)",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
                                               "price":  599.99,
                                               "currency":  "CAD",
                                               "priceCad":  599.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/24580011-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-black-2nd-gen",
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
                                               "inStock":  true,
                                               "inStore":  true,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Black",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-black/19390529",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Midnight Violet",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-midnight-violet/19390528",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1404,7 +2116,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|5",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Black (2nd Gen)",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.staples.ca/products/24580011-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-black-2nd-gen",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1428,7 +2164,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1452,7 +2188,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1516,7 +2252,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1540,7 +2276,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1564,7 +2300,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1588,7 +2324,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Large European retailer (4.7/5 rating). VAT and duties are included in the price; shipping to Canada starts at $19.49 (the exact amount is only shown at checkout). Allow 1-3 weeks. Prices are converted from euros so they drift with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1598,12 +2334,12 @@ window.PRICE_DATA = {
                                               "seller":  "BASEUS Co.,Ltd. Store (4.8 stars, 3,000+ sold, 97.4% positive feedback)",
                                               "condition":  "new",
                                               "title":  "Baseus Inspire XH1 Sound by Bose ANC Wireless Headphone Bluetooth 6.1 48dB Adaptive Noise Cancellation Headset Hi-Res LDAC 100Hr",
-                                              "price":  230.36,
+                                              "price":  231.06,
                                               "currency":  "CAD",
-                                              "priceCad":  230.36,
+                                              "priceCad":  231.06,
                                               "shipping":  12,
                                               "shippingEstimated":  true,
-                                              "total":  242.36,
+                                              "total":  243.06,
                                               "url":  "https://www.aliexpress.com/item/1005009462893635.html",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -1613,7 +2349,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false,
                                               "stars":  4.8,
                                               "sold":  3000
@@ -1640,7 +2376,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false,
                                               "stars":  4.9,
                                               "sold":  1000
@@ -1689,7 +2425,7 @@ window.PRICE_DATA = {
                                               "sourceKey":  "aliexpress|aliexpress|3",
                                               "retailer":  "aliexpress",
                                               "retailerName":  "AliExpress",
-                                              "seller":  "1MORE Official Store (4.7 stars, 800+ sold, 96.5% positive feedback)",
+                                              "seller":  "1MORE Official Store (4.7 stars, 800+ sold, 96.6% positive feedback)",
                                               "condition":  "new",
                                               "title":  "1MORE SonoFlow Pro Wireless Headphone HQ51 Active Noise Cancelling Bluetooth Headset 100H Playtime Hi-Res Audio Clear Call",
                                               "price":  92.09,
@@ -1706,7 +2442,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false,
                                               "newCustomerOnly":  true,
                                               "stars":  4.7,
@@ -1716,24 +2452,25 @@ window.PRICE_DATA = {
                                               "sourceKey":  "amazon|amazon-ca|2",
                                               "retailer":  "amazon-ca",
                                               "retailerName":  "Amazon.ca",
-                                              "seller":  "Amazon",
+                                              "seller":  "Wanmo Direct",
                                               "condition":  "new",
                                               "title":  "SonoFlow-Pro Noise Cancelling Headphones - HQ51 Over Ear Bluetooth Earphones, LDAC, Hi-Res Wireless Audio, 100H Playtime, Bluetooth 5.4, 42dB ANC, Comfortable Fit, Clear Calls (Brown)",
-                                              "price":  117.9,
+                                              "price":  109.99,
                                               "currency":  "CAD",
-                                              "priceCad":  117.9,
+                                              "priceCad":  109.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  117.9,
+                                              "total":  109.99,
                                               "url":  "https://www.amazon.ca/dp/B0F1CL7LTD",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                            "Sold by third-party seller \u0027Wanmo Direct\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1757,7 +2494,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1781,7 +2518,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1805,7 +2542,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1815,36 +2552,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  138.36,
+                                              "price":  139.23,
                                               "currency":  "CAD",
-                                              "priceCad":  138.36,
-                                              "shipping":  6.86,
-                                              "shippingEstimated":  false,
-                                              "total":  145.22,
-                                              "url":  "https://www.amazon.ca/dp/B0GX9W8Y8R",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
-                                              "price":  138.65,
-                                              "currency":  "CAD",
-                                              "priceCad":  138.65,
+                                              "priceCad":  139.23,
                                               "shipping":  6.76,
                                               "shippingEstimated":  false,
-                                              "total":  145.41,
+                                              "total":  145.99,
                                               "url":  "https://www.amazon.ca/dp/B0GX9VGFG8",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -1853,7 +2566,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SonoFlow Pro Over Ear Headphones, 100H ANC Headphones with LDAC",
+                                              "price":  139.43,
+                                              "currency":  "CAD",
+                                              "priceCad":  139.43,
+                                              "shipping":  6.86,
+                                              "shippingEstimated":  false,
+                                              "total":  146.29,
+                                              "url":  "https://www.amazon.ca/dp/B0GX9W8Y8R",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1917,14 +2654,14 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Official Canadian FiiO store. Free shipping over $99, otherwise $4.99."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
                                               "sourceKey":  "aliexpress|aliexpress|5",
                                               "retailer":  "aliexpress",
                                               "retailerName":  "AliExpress",
-                                              "seller":  "HiFi Audio Store (4.5 stars, 150 sold, 97.3% positive feedback)",
+                                              "seller":  "HiFi Audio Store (4.5 stars, 150 sold, 97.1% positive feedback)",
                                               "condition":  "new",
                                               "title":  "FiiO Air Link(Type-C) Bluetooth 6.0 Transmitter for Mobile/Game Player to Wireless Headphones, QCC5181 Chip, LDAC/AptX Adaptive",
                                               "price":  71.68,
@@ -1941,7 +2678,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false,
                                               "stars":  4.5,
                                               "sold":  150
@@ -1967,14 +2704,14 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Ships from Hong Kong, 7-15 days, duties included in the price. Store prices are converted from USD so they move with the exchange rate."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false
                                           },
                                           {
                                               "sourceKey":  "aliexpress|aliexpress|5",
                                               "retailer":  "aliexpress",
                                               "retailerName":  "AliExpress",
-                                              "seller":  "Shop19880820 Top HiFi Store (4.6 stars, 168 sold, 96.6% positive feedback)",
+                                              "seller":  "Shop19880820 Top HiFi Store (4.6 stars, 168 sold, 96.5% positive feedback)",
                                               "condition":  "new",
                                               "title":  "FiiO Air Link Type-C Bluetooth Transmitter BT6.0 for Mobile / Game Player to Wireless Headphones CC5181 Chip LDAC AptX Adaptive",
                                               "price":  89.68,
@@ -1991,7 +2728,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false,
                                               "stars":  4.6,
                                               "sold":  168
@@ -2018,7 +2755,7 @@ window.PRICE_DATA = {
                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                             "Listing does not advertise free shipping - $12 estimated."
                                                         ],
-                                              "lastSeen":  "2026-10-03T18:46:24Z",
+                                              "lastSeen":  "2026-10-05T00:46:24Z",
                                               "stale":  false,
                                               "stars":  4.8,
                                               "sold":  1000
@@ -2055,697 +2792,5 @@ window.PRICE_DATA = {
 
                                       ]
                        }
-                   ],
-    "minipcs":  {
-                    "title":  "Mini PCs — always-on home server",
-                    "intro":  "Needs: CPU at least as fast as an Intel N150, 16 GB RAM, 512 GB+ NVMe SSD, wired Ethernet, Windows 11 (Pro preferred), about 15 W or less at idle.",
-                    "benchmark":  {
-                                      "name":  "Geekbench 6 multi-core",
-                                      "detail":  "Linux averages from gadgetversus.com, the only readable source that covers every CPU here and the Raspberry Pi 5"
-                                  },
-                    "electricity":  {
-                                        "hours":  26280,
-                                        "perKwh":  0.20,
-                                        "label":  "3 years always on (26,280 h) at $0.20/kWh"
-                                    },
-                    "reference":  {
-                                      "name":  "Raspberry Pi 5 16 GB setup",
-                                      "price":  705.28,
-                                      "idleW":  3.1,
-                                      "gb6":  1507,
-                                      "detail":  "Pi 5 16 GB + Raspberry Pi SSD Kit 512 GB + M.2 HAT+ Compact + 27 W power supply + official case with fan, delivered from DigiKey.ca (checked 2026-09-28). Idle 3.1 W booted from NVMe (sbc.compare).",
-                                      "url":  "https://www.digikey.ca/en/products/detail/raspberry-pi/SC1113/25862713"
-                                  },
-                    "items":  [
-                                  {
-                                      "id":  "minix-nr660",
-                                      "name":  "MINIX NGC-NR660",
-                                      "typical":  609,
-                                      "target":  539,
-                                      "why":  "Best value of the shortlist: 6-core Ryzen 5 6600H, dual 2.5G LAN, room to grow. Target = lowest Amazon.ca price since 1 Dec 2025 ($539, 1 Dec 2025 - ~7 Jan 2026, Keepa).",
-                                      "targetOther":  431,
-                                      "offers":  [
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "MINIX Technology Limited",
-                                                         "condition":  "new",
-                                                         "title":  "MINIX NGC-NR660 Mini PC, AMD Ryzen 5 6600H, 16GB DDR5, 512GB PCIe 3.0 SSD, Compact Windows 11 Pro Micro Desktop Computer, Dual 2.5G LAN,Triple 4K Display, USB-C 4.0, WiFi 6E for Home/Office/Gaming",
-                                                         "price":  608.9,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  608.9,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  608.9,
-                                                         "url":  "https://www.amazon.ca/dp/B0DSPM6ZZL",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "MINIX Technology Limited",
-                                                         "condition":  "new",
-                                                         "title":  "MINIX NR660LP Mini PC AMD Ryzen 5 6600H 16GB LPDDR5 512GB SSD Win 11 Pro",
-                                                         "price":  664.9,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  664.9,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  664.9,
-                                                         "url":  "https://www.amazon.ca/dp/B0GHY5TRNW",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     }
-                                                 ],
-                                      "manualLinks":  [
-                                                          {
-                                                              "name":  "Memory Express",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=MINIX%20NGC-NR660"
-                                                          },
-                                                          {
-                                                              "name":  "Walmart.ca",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.walmart.ca/en/search?q=MINIX%20NGC-NR660"
-                                                          },
-                                                          {
-                                                              "name":  "Staples",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.staples.ca/search?query=MINIX%20NGC-NR660"
-                                                          },
-                                                          {
-                                                              "name":  "Canada Computers",
-                                                              "inStore":  false,
-                                                              "url":  "https://www.canadacomputers.com/en/search?s=MINIX%20NGC-NR660"
-                                                          }
-                                                      ],
-                                      "errors":  [
-
-                                                 ],
-                                      "specs":  {
-                                                    "cpu":  "AMD Ryzen 5 6600H (6 cores / 12 threads)",
-                                                    "ram":  "16 GB DDR5, 2 slots, up to 64 GB",
-                                                    "storage":  "512 GB NVMe (PCIe 3.0) + spare M.2 2280 PCIe 4.0 slot",
-                                                    "lan":  "2 x 2.5G Ethernet",
-                                                    "os":  "Windows 11 Pro",
-                                                    "powerOn":  "Not verified"
-                                                },
-                                      "gb6":  8361,
-                                      "idleW":  11,
-                                      "idleNote":  "estimate - no measurement for this model; other Ryzen 5 6600H mini PCs idle at 10-11 W"
-                                  },
-                                  {
-                                      "id":  "geekom-a5-7430u",
-                                      "name":  "Geekom A5 (Ryzen 5 7430U)",
-                                      "typical":  629,
-                                      "target":  530,
-                                      "why":  "Lowest idle power of the shortlist (6 W), 3-year warranty, ships from a Canadian warehouse. Target set to $530 (29 Sep 2026); the lowest price recorded since 1 Dec 2025 is $570 at geekom.ca on 28 Sep 2026.",
-                                      "targetOther":  424,
-                                      "offers":  [
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|3",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "GEEKOM US Store",
-                                                         "condition":  "new",
-                                                         "title":  "GEEKOM A5 Mini PC, AMD Ryzen 5 7430U (Beats 5500U), 16GB RAM 1TB NVME SSD",
-                                                         "price":  629,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  629,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  629,
-                                                         "url":  "https://www.amazon.ca/dp/B0H2XMJFTM",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027GEEKOM US Store\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "page|geekom|1",
-                                                         "retailer":  "geekom",
-                                                         "retailerName":  "Geekom Canada",
-                                                         "seller":  "",
-                                                         "condition":  "new",
-                                                         "title":  "GEEKOM A5 R5-7430U 16GB RAM+1TB SSD",
-                                                         "price":  699,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  699,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  699,
-                                                         "url":  "https://www.geekom.ca/geekom-a5-mini-pc/",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|3",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "Amazon",
-                                                         "condition":  "new",
-                                                         "title":  "GEEKOM A5 2025 Edition Mini PC with AMD Ryzen 5 7430U, 16GB RAM \u0026 1TB M.2 NVMe SSD, Mini Desktop Computer Windows 11 Pro Support 8K UHD 4 Display/Wi-Fi 6/BT 5.2/2 x HDMI 2.0/2 x USB 3.2",
-                                                         "price":  738.3,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  738.3,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  738.3,
-                                                         "url":  "https://www.amazon.ca/dp/B0FJS6N8M3",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|3",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "Amazon",
-                                                         "condition":  "new",
-                                                         "title":  "A5 Pro Mini PC,AMD Ryzen 5 7430U(6C/12T, up to 4.3GHz), 16GB DDR4 RAM, 512GB NVMe SSD, Win11 Pro Desktop Computer, USB4/5K UHD/Wi-Fi 6E/BT 5.2 Geekom mini Computer",
-                                                         "price":  859.12,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  859.12,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  859.12,
-                                                         "url":  "https://www.amazon.ca/dp/B0DRPD97GF",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     }
-                                                 ],
-                                      "manualLinks":  [
-                                                          {
-                                                              "name":  "Memory Express",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=GEEKOM%20A5%207430U"
-                                                          },
-                                                          {
-                                                              "name":  "Walmart.ca",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.walmart.ca/en/search?q=GEEKOM%20A5%207430U"
-                                                          },
-                                                          {
-                                                              "name":  "Staples",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.staples.ca/search?query=GEEKOM%20A5%207430U"
-                                                          },
-                                                          {
-                                                              "name":  "Canada Computers",
-                                                              "inStore":  false,
-                                                              "url":  "https://www.canadacomputers.com/en/search?s=GEEKOM%20A5%207430U"
-                                                          }
-                                                      ],
-                                      "errors":  [
-
-                                                 ],
-                                      "specs":  {
-                                                    "cpu":  "AMD Ryzen 5 7430U (6 cores / 12 threads)",
-                                                    "ram":  "16 GB DDR4, 2 slots, up to 64 GB",
-                                                    "storage":  "512 GB NVMe (PCIe 4.0) + spare M.2 2242 SATA slot + 2.5\" bay",
-                                                    "lan":  "1 x 2.5G Ethernet",
-                                                    "os":  "Windows 11 Pro",
-                                                    "powerOn":  "Yes - needs Geekom\u0027s BIOS unlock tool"
-                                                },
-                                      "gb6":  6476,
-                                      "idleW":  6,
-                                      "idleNote":  "measured at the wall (MightyGadget, A5 2025 Edition); about 4 W under Proxmox (VirtualizationHowTo)"
-                                  },
-                                  {
-                                      "id":  "geekom-a5-5825u",
-                                      "name":  "Geekom A5 (Ryzen 7 5825U)",
-                                      "typical":  729,
-                                      "target":  566,
-                                      "why":  "8-core version of the A5, same chassis and warranty. Target = lowest Amazon.ca price since 1 Dec 2025 (~$566, ~9-23 Sep 2026, Keepa).",
-                                      "targetOther":  453,
-                                      "offers":  [
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|3",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "GEEKOM US Store",
-                                                         "condition":  "new",
-                                                         "title":  "GEEKOM A5 Mini PC AMD Ryzen 7 5825U (Beats 5400U/7330U), 16GB RAM 512GB SSD",
-                                                         "price":  729,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  729,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  729,
-                                                         "url":  "https://www.amazon.ca/dp/B0FX9PFWVZ",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027GEEKOM US Store\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "page|geekom|1",
-                                                         "retailer":  "geekom",
-                                                         "retailerName":  "Geekom Canada",
-                                                         "seller":  "",
-                                                         "condition":  "new",
-                                                         "title":  "GEEKOM A5 R7-5825U 16GB RAM + 512GB SSD",
-                                                         "price":  799,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  799,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  799,
-                                                         "url":  "https://www.geekom.ca/geekom-a5-mini-pc/",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Official Geekom store. Ships free from its Canadian warehouse (7-14 business days). 30-day returns (5% fee and return shipping if not defective); 3-year warranty."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     }
-                                                 ],
-                                      "manualLinks":  [
-                                                          {
-                                                              "name":  "Memory Express",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=GEEKOM%20A5%205825U"
-                                                          },
-                                                          {
-                                                              "name":  "Walmart.ca",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.walmart.ca/en/search?q=GEEKOM%20A5%205825U"
-                                                          },
-                                                          {
-                                                              "name":  "Staples",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.staples.ca/search?query=GEEKOM%20A5%205825U"
-                                                          },
-                                                          {
-                                                              "name":  "Canada Computers",
-                                                              "inStore":  false,
-                                                              "url":  "https://www.canadacomputers.com/en/search?s=GEEKOM%20A5%205825U"
-                                                          }
-                                                      ],
-                                      "errors":  [
-
-                                                 ],
-                                      "specs":  {
-                                                    "cpu":  "AMD Ryzen 7 5825U (8 cores / 16 threads)",
-                                                    "ram":  "16 GB DDR4, 2 slots, up to 64 GB",
-                                                    "storage":  "512 GB NVMe (PCIe 4.0) + spare M.2 2242 SATA slot + 2.5\" bay",
-                                                    "lan":  "1 x 2.5G Ethernet",
-                                                    "os":  "Windows 11 Pro",
-                                                    "powerOn":  "Yes - needs Geekom\u0027s BIOS unlock tool"
-                                                },
-                                      "gb6":  8130,
-                                      "idleW":  6,
-                                      "idleNote":  "estimate - same chassis as the 7430U version, which idles at 6 W; not measured for this CPU"
-                                  },
-                                  {
-                                      "id":  "minix-nuc355",
-                                      "name":  "MINIX NUC-355",
-                                      "typical":  696,
-                                      "target":  534,
-                                      "why":  "8-core Intel Core 3 N355, about 1.9x an N150. Target = lowest Amazon.ca price since 1 Dec 2025 (~$534, Dec 2025 - ~15 Jan 2026, Keepa); since the January price spike the low was ~$691.",
-                                      "targetOther":  427,
-                                      "offers":  [
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "MINIX Technology Limited",
-                                                         "condition":  "new",
-                                                         "title":  "MINIX NUC355 Mini PC, Intel Core 3 N355, 16GB DDR5, 512GB PCIe SSD, Triple 4K Display, WiFi 6, BT5.2, 2.5G LAN, Windows 11 Pro, USB-C/HDMI, for Business, Office, Education \u0026 Digital Signage",
-                                                         "price":  695.9,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  695.9,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  695.9,
-                                                         "url":  "https://www.amazon.ca/dp/B0FDQSD213",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     }
-                                                 ],
-                                      "manualLinks":  [
-                                                          {
-                                                              "name":  "Memory Express",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=MINIX%20NUC-355"
-                                                          },
-                                                          {
-                                                              "name":  "Walmart.ca",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.walmart.ca/en/search?q=MINIX%20NUC-355"
-                                                          },
-                                                          {
-                                                              "name":  "Staples",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.staples.ca/search?query=MINIX%20NUC-355"
-                                                          },
-                                                          {
-                                                              "name":  "Canada Computers",
-                                                              "inStore":  false,
-                                                              "url":  "https://www.canadacomputers.com/en/search?s=MINIX%20NUC-355"
-                                                          }
-                                                      ],
-                                      "errors":  [
-
-                                                 ],
-                                      "specs":  {
-                                                    "cpu":  "Intel Core 3 N355 (8 cores)",
-                                                    "ram":  "16 GB DDR5, 1 slot, up to 32 GB",
-                                                    "storage":  "512 GB NVMe (PCIe 3.0 x4) + spare M.2 2242 slot",
-                                                    "lan":  "1 x 2.5G Ethernet",
-                                                    "os":  "Windows 11 Pro",
-                                                    "powerOn":  "Not verified"
-                                                },
-                                      "gb6":  5633,
-                                      "idleW":  10,
-                                      "idleNote":  "estimate - no measurement for this model; the ASUS NUC 14 Essential with the same CPU idles at about 10 W on Windows"
-                                  },
-                                  {
-                                      "id":  "gmktec-g10",
-                                      "name":  "GMKtec G10 (Ryzen 5 3500U)",
-                                      "typical":  439,
-                                      "target":  350,
-                                      "why":  "Cheapest box that meets every requirement, but the CPU only ties an N150 (7% faster on Linux, 5% slower on Windows) and it can throttle in performance mode. Target set to $350 (29 Sep 2026); the lowest Amazon.ca price since 1 Dec 2025 is $389 (~26-30 Jun 2026, Keepa; listed since May 2026).",
-                                      "targetOther":  280,
-                                      "offers":  [
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "GMK-XINXTEC",
-                                                         "condition":  "new",
-                                                         "title":  "GMKtec G10 Mini PC W11 Pro, AMD Ryzen 5 3500U(Beats 3200U) 16GB RAM 512GB",
-                                                         "price":  395,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  395,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  395,
-                                                         "url":  "https://www.amazon.ca/dp/B0GWZY7FJ8",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027GMK-XINXTEC\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "GMKtec-CA",
-                                                         "condition":  "new",
-                                                         "title":  "GMKtec G10 Mini PC, AMD Ryzen 5 3500U, 16GB DDR4 512GB SSD Sliver",
-                                                         "price":  439,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  439,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  439,
-                                                         "url":  "https://www.amazon.ca/dp/B0H7WF2VQW",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027GMKtec-CA\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "GMK-XINXTEC",
-                                                         "condition":  "new",
-                                                         "title":  "GMKtec Mini PC G10, AMD Ryzen 5 3500U (Beats 3200U) 16GB RAM 1TB",
-                                                         "price":  489,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  489,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  489,
-                                                         "url":  "https://www.amazon.ca/dp/B0GQGWG8NJ",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027GMK-XINXTEC\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "",
-                                                         "condition":  "new",
-                                                         "title":  "GMKtec G10 Mini PC Ryzen 5 3500U (Beats N150/N97), 16GB RAM 512GB SSD, 2.5GbE LAN for Desktop Office Home Business HTPC Proxmox, Triple 4K Display, WiFi, BT, USB-C, DP, HDMI 2.1 (Black)",
-                                                         "price":  491.52,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  491.52,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  491.52,
-                                                         "url":  "https://www.amazon.ca/dp/B0FRFGG614",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "",
-                                                         "condition":  "new",
-                                                         "title":  "GMKtec Mini PC Ryzen 5 3500U 1TB NVMe SSD 16GB DDR4 2.5GbE NIC LAN Office Home Desktop Computers, HTPC Proxmox, HDMI 2.1, USB-C, DP Triple 4K Display Nucbox G10",
-                                                         "price":  520.6,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  520.6,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  520.6,
-                                                         "url":  "https://www.amazon.ca/dp/B0FDG2XJZ3",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     },
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "",
-                                                         "condition":  "new",
-                                                         "title":  "GMKtec G10 Mini PC Ryzen 5 3500U 1TB SSD 16GB DDR4 Triple 4K Display",
-                                                         "price":  694.53,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  694.53,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  694.53,
-                                                         "url":  "https://www.amazon.ca/dp/B0FSXDC7NR",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     }
-                                                 ],
-                                      "manualLinks":  [
-                                                          {
-                                                              "name":  "Memory Express",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=GMKtec%20G10%203500U"
-                                                          },
-                                                          {
-                                                              "name":  "Walmart.ca",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.walmart.ca/en/search?q=GMKtec%20G10%203500U"
-                                                          },
-                                                          {
-                                                              "name":  "Staples",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.staples.ca/search?query=GMKtec%20G10%203500U"
-                                                          },
-                                                          {
-                                                              "name":  "Canada Computers",
-                                                              "inStore":  false,
-                                                              "url":  "https://www.canadacomputers.com/en/search?s=GMKtec%20G10%203500U"
-                                                          }
-                                                      ],
-                                      "errors":  [
-
-                                                 ],
-                                      "specs":  {
-                                                    "cpu":  "AMD Ryzen 5 3500U (4 cores / 8 threads)",
-                                                    "ram":  "16 GB DDR4, 2 slots, up to 64 GB",
-                                                    "storage":  "512 GB NVMe + spare M.2 2280 slot",
-                                                    "lan":  "1 x 2.5G Ethernet",
-                                                    "os":  "Windows 11 Pro",
-                                                    "powerOn":  "Not verified"
-                                                },
-                                      "gb6":  3244,
-                                      "idleW":  11.5,
-                                      "idleNote":  "Lon.TV measured 11-12 W; one owner measured 6.5 W on Linux Mint"
-                                  },
-                                  {
-                                      "id":  "minix-nuc150",
-                                      "name":  "MINIX NUC150",
-                                      "typical":  531,
-                                      "target":  419,
-                                      "why":  "The best-equipped N150 box: upgradable DDR5, two spare M.2 slots, 2.5G LAN, sold by MINIX. Target = lowest Amazon.ca price since 1 Dec 2025 (~$419, 1 Dec 2025 - ~7 Jan 2026, Keepa); it then jumped to ~$780 until late August.",
-                                      "targetOther":  335,
-                                      "offers":  [
-                                                     {
-                                                         "sourceKey":  "amazon|amazon-ca|2",
-                                                         "retailer":  "amazon-ca",
-                                                         "retailerName":  "Amazon.ca",
-                                                         "seller":  "MINIX Technology Limited",
-                                                         "condition":  "new",
-                                                         "title":  "MINIX NUC150 Mini PC Intel N150, 16GB DDR5 RAM, 512GB SSD, 4K Triple Display, USB-C, 2.5G Ethernet, Wi-Fi 6, BT5.2, Windows 11 Pro mini Computer,Ideal for Business, Remote Work \u0026 Education",
-                                                         "price":  589.9,
-                                                         "currency":  "CAD",
-                                                         "priceCad":  589.9,
-                                                         "shipping":  0,
-                                                         "shippingEstimated":  false,
-                                                         "total":  589.9,
-                                                         "url":  "https://www.amazon.ca/dp/B0FDWRZ1DP",
-                                                         "inStock":  true,
-                                                         "inStore":  false,
-                                                         "crossBorder":  false,
-                                                         "requires":  "",
-                                                         "notes":  [
-                                                                       "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                       "Sold by third-party seller \u0027MINIX Technology Limited\u0027 - check their return policy and warranty before buying."
-                                                                   ],
-                                                         "lastSeen":  "2026-10-03T18:46:24Z",
-                                                         "stale":  false
-                                                     }
-                                                 ],
-                                      "manualLinks":  [
-                                                          {
-                                                              "name":  "Memory Express",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.memoryexpress.com/Search/Products?Search=MINIX%20NUC150"
-                                                          },
-                                                          {
-                                                              "name":  "Walmart.ca",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.walmart.ca/en/search?q=MINIX%20NUC150"
-                                                          },
-                                                          {
-                                                              "name":  "Staples",
-                                                              "inStore":  true,
-                                                              "url":  "https://www.staples.ca/search?query=MINIX%20NUC150"
-                                                          },
-                                                          {
-                                                              "name":  "Canada Computers",
-                                                              "inStore":  false,
-                                                              "url":  "https://www.canadacomputers.com/en/search?s=MINIX%20NUC150"
-                                                          }
-                                                      ],
-                                      "errors":  [
-
-                                                 ],
-                                      "specs":  {
-                                                    "cpu":  "Intel N150 (4 cores)",
-                                                    "ram":  "16 GB DDR5, 1 slot, up to 32 GB",
-                                                    "storage":  "512 GB NVMe (PCIe 3.0 x4) + spare M.2 2280 and M.2 2242 slots",
-                                                    "lan":  "1 x 2.5G Ethernet",
-                                                    "os":  "Windows 11 Pro",
-                                                    "powerOn":  "Not verified"
-                                                },
-                                      "gb6":  3022,
-                                      "idleW":  9.3,
-                                      "idleNote":  "estimate - no measurement for this model; Jeff Geerling measured 9.3 W at the wall on another N150 mini PC (GMKtec G3 Plus)"
-                                  }
-                              ]
-                }
+                   ]
 };
