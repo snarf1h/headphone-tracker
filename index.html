@@ -223,24 +223,39 @@
       '<div class="card">' + rows + '</div></section>';
   }
 
-  // Brand list (data.lists): every Amazon listing of one brand's product, ranked by discount. No targets or alerts.
+  // Brand list (data.lists): every Amazon listing of one brand's product, ranked by discount. A model with a buy
+  // price (list.targets in config.json) shows how far today's price is from it; the tracker emails when it is hit.
   function listSection(list) {
     var items = list.items || [];
+    var hasTargets = items.some(function (it) { return it.target != null; });
+    function buyCell(it) {
+      if (it.target == null) return '<span class="none">–</span>';
+      var d = it.price - it.target;   // buy prices are pre-tax, like the headphone lines
+      if (d <= 0) return '<span class="badge buy" title="At or below your buy price">✓ BUY · ' + (Math.round(-d) > 0 ? money0(-d) + ' under' : 'at your price') + '</span>';
+      return '<b>' + money0(it.target) + '</b><div class="t-notes">' + money0(d) + ' above</div>';
+    }
+    function lowSeen(it) {
+      if (it.lowSeen == null) return '';
+      return '<div class="t-notes wide">Lowest seen by the tracker: ' + money(it.lowSeen) + (it.lowSeenAt ? ' (' + new Date(it.lowSeenAt).toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }) + ')' : '') + '</div>';
+    }
     var rows = items.map(function (it, i) {
       var off = it.discountPct > 0;
       return '<tr' + (it.stale ? ' class="oos"' : '') + '><td class="num rank">' + (i + 1) + '</td>' +
         '<td><a href="' + esc(it.url) + '" target="_blank" rel="noopener"><b>' + esc(it.model) + '</b></a>' +
         (it.deal ? ' <span class="badge tag">' + esc(it.deal) + '</span>' : '') + (it.coupon ? ' <span class="badge tag">' + esc(it.coupon) + '</span>' : '') +
         (it.stale ? ' <span class="badge warn" title="Not in Amazon\'s results on the last check">last seen ' + esc(ago(it.lastSeen)) + '</span>' : '') +
-        '<div class="t-title">' + esc(it.title) + '</div></td>' +
+        '<div class="t-title">' + esc(it.title) + '</div>' + lowSeen(it) + '</td>' +
         '<td class="num total">' + money(it.price) + '</td>' +
+        (hasTargets ? '<td class="num">' + buyCell(it) + '</td>' : '') +
         '<td class="num">' + (off ? '<span class="t-notes wide">' + esc(it.refLabel) + ' </span>' + money(it.refPrice) : '<span class="none">–</span>') + '</td>' +
-        '<td class="num">' + (off ? '<span class="badge ' + (it.discountPct >= 20 ? 'buy' : 'tag') + '">' + (+it.discountPct.toFixed(1)) + '% off</span>' : '<span class="none">none</span>') + '</td></tr>';
+        '<td class="num">' + (off ? '<span class="badge tag">' + (+it.discountPct.toFixed(1)) + '% off</span>' : '<span class="none">none</span>') + '</td></tr>';
     }).join('');
     return '<section><h2 class="sec">🌬️ ' + esc(list.title) + '</h2>' +
       '<p class="meta" style="margin:0 0 10px">' + esc(list.note || '') + ' Checked ' + esc(ago(list.updatedAt)) + '.' +
       (list.error ? ' Amazon could not be read on the last check, so these are the last known prices.' : '') + '</p>' +
-      (items.length ? '<div class="card tablewrap"><table class="deals"><thead><tr><th class="num rank">#</th><th>Model</th><th class="num">Price</th><th class="num"><span class="wide">Amazon’s reference</span><span class="narrow">Was</span></th><th class="num">Discount</th></tr></thead><tbody>' + rows + '</tbody></table></div>'
+      (items.length ? '<div class="card tablewrap"><table class="deals"><thead><tr><th class="num rank">#</th><th>Model</th><th class="num">Price</th>' +
+        (hasTargets ? '<th class="num"><span class="wide">Your buy price</span><span class="narrow">Buy at</span></th>' : '') +
+        '<th class="num"><span class="wide">Amazon’s reference</span><span class="narrow">Was</span></th><th class="num">Discount</th></tr></thead><tbody>' + rows + '</tbody></table></div>'
         : '<p class="none">No listings found yet.</p>') + '</section>';
   }
 
@@ -356,7 +371,8 @@
     var data = window.PRICE_DATA, hist = {};
     // Defensive: only numeric prices are plotted; anything else (null, {}, a string) counts as "no price".
     Object.keys(window.PRICE_HISTORY || {}).forEach(function (k) {
-      hist[k] = (window.PRICE_HISTORY[k] || []).map(function (p) {
+      if (!Array.isArray(window.PRICE_HISTORY[k])) return;   // "lists" holds the lowest price seen per listing, not a series
+      hist[k] = window.PRICE_HISTORY[k].map(function (p) {
         return { t: p.t, n: typeof p.n === 'number' ? p.n : null, nr: p.nr || '', o: typeof p.o === 'number' ? p.o : null, or: p.or || '' };
       });
     });
