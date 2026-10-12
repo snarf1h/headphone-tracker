@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-11T18:40:19Z",
+    "generatedAt":  "2026-10-12T00:00:28Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -1477,6 +1477,481 @@ window.PRICE_DATA = {
                                       ]
                        }
                    ],
+    "sections":  [
+                     {
+                         "id":  "speakerphones",
+                         "title":  "Speakerphones",
+                         "icon":  "🎙️",
+                         "intro":  "Speakerphones for the Pi dashboard. Buy lines are starting values set 11 Oct 2026: the rule is 10% below each model\u0027s lowest price on record (camelcamelcamel plus this tracker), and there was no history to apply it to yet. Open-box and renewed units are ranked on the separate refurbished line.",
+                         "items":  [
+                                       {
+                                           "id":  "jabra-speak2-40",
+                                           "name":  "Jabra Speak2 40",
+                                           "typical":  184,
+                                           "target":  140,
+                                           "why":  "Top pick. Any Speak2 40 counts, MS Teams (2740-109) or UC (2740-209); the Speak2 55/75 and the older Speak 410/510 don\u0027t. Seen 11 Oct 2026: Amazon.ca $162 (was $183.99). Best Buy only has it from Marketplace sellers, which are skipped.",
+                                           "targetOther":  112,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Jabra Company Store",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speak2 40 UC, Dark Grey",
+                                                              "price":  162,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  162,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  162,
+                                                              "url":  "https://www.amazon.ca/dp/B0BWKTR73Y",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027Jabra Company Store\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "discover|newegg|4",
+                                                              "retailer":  "newegg",
+                                                              "retailerName":  "Newegg.ca",
+                                                              "seller":  "Newegg",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speak2 40 Speakerphone with Microsoft Teams Certification 2740-109",
+                                                              "price":  182.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  182.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  182.99,
+                                                              "url":  "https://www.newegg.ca/Jabra-Speak2-40-Voice-Conferencing-Device/p/N82E16876507007",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speak2 40 MS Teams, Dark Grey",
+                                                              "price":  182.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  182.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  182.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0BWLBWS9D",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "discover|newegg|4",
+                                                              "retailer":  "newegg",
+                                                              "retailerName":  "Newegg.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speak2 40 UC Portable Speakerphone with both USB-A and USB-C connectors - Dark Grey",
+                                                              "price":  192.21,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  192.21,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  192.21,
+                                                              "url":  "https://www.newegg.ca/Jabra-Speak2-40-UC-Jabra-Speak2-40-UC-Portable-Speakerphone-with-USB-Connectivity-Dark-Grey/p/9SIADGEKRV6631",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "discover|staples|3",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speak2 40 Speakerphone for Unified Communications",
+                                                              "price":  227.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  227.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  227.99,
+                                                              "url":  "https://www.staples.ca/products/24561850-en-jabra-speak2-40-speakerphone-for-unified-communications",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "discover|staples|3",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speak2 40 Speakerphone for Microsoft Teams",
+                                                              "price":  227.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  227.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  227.99,
+                                                              "url":  "https://www.staples.ca/products/24561848-en-jabra-speak2-40-speakerphone-for-microsoft-teams",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speakerphone Speak2 40 UC with Global Teck Microfiber Cloth, Compatible with PC/Mac, Smartphone \u0026 Tablet - for Conferencing, Distance Learning, Remote Work, School, Streaming",
+                                                              "price":  240,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  240,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  240,
+                                                              "url":  "https://www.amazon.ca/dp/B0CQ67N7M2",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "discover|canadacomputers|5",
+                                                              "retailer":  "canadacomputers",
+                                                              "retailerName":  "Canada Computers",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Jabra Speak2 40 MS - (2740-109)",
+                                                              "price":  254,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  254,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  254,
+                                                              "url":  "https://www.canadacomputers.com/en/voip-phone-system/245717/jabra-speak2-40-ms-2740-109-2740-109.html",
+                                                              "inStock":  false,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "No Edmonton store; shipping estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "discover|canadacomputers|5",
+                                                              "retailer":  "canadacomputers",
+                                                              "retailerName":  "Canada Computers",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "JABRA SPEAK2 40 USB Speakerphone - (2740-209)",
+                                                              "price":  254,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  254,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  254,
+                                                              "url":  "https://www.canadacomputers.com/en/voip-phone-system/246077/jabra-speak2-40-usb-speakerphone-2740-209-2740-209.html",
+                                                              "inStock":  false,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "No Edmonton store; shipping estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:52:45Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=Jabra%20Speak2%2040"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Jabra%20Speak2%2040"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Jabra%20Speak2%2040"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=Jabra%20Speak2%2040"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Jabra%20Speak2%2040"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "emeet-m0-plus",
+                                           "name":  "EMEET M0 Plus",
+                                           "typical":  90,
+                                           "target":  60,
+                                           "why":  "Budget pick. The plain single unit only: not the daisy-chain kit (about $238), webcam or Luna bundles, two-packs, or EMEET\u0027s other models. Seen 11 Oct 2026: Amazon.ca $69.99 Prime deal ($89.99 regular); AliExpress $71.12 after discount on EMEET\u0027s Brand+ listing (4.8 stars, 800+ sold).",
+                                           "targetOther":  48,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|2",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "EMEET Flagship Store (4.8 stars, 800+ sold, 96% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "EMEET Speakerphone Wireless Conference Speaker 360° Voice Pickup Meeting Microphone With 4 Noise Cancelling Mics for Office/Home",
+                                                              "price":  65.71,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  65.71,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  65.71,
+                                                              "url":  "https://www.aliexpress.com/item/1005007432132839.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-12T00:00:28Z",
+                                                              "stale":  false,
+                                                              "newCustomerOnly":  true,
+                                                              "stars":  4.8,
+                                                              "sold":  800
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "EMEET Direct CA",
+                                                              "condition":  "new",
+                                                              "title":  "EMEET Conference Speakerphone M0 Plus, 4 AI Mics 360° Voice Pickup, Noise Reduction, USB C, Bluetooth Speakerphone for 8 People w/Daisy Chain for 16, Conference Speaker Compatible w/Leading Software",
+                                                              "price":  69.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  69.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  69.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0BVZLS5GZ",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-12T00:00:28Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=EMEET%20M0%20Plus%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=EMEET%20M0%20Plus%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=EMEET%20M0%20Plus%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=EMEET%20M0%20Plus%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=EMEET%20M0%20Plus%20speakerphone"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "emeet-m1a",
+                                           "name":  "EMEET M1A",
+                                           "typical":  100,
+                                           "target":  60,
+                                           "why":  "USB only, no battery. Seen 11 Oct 2026: AliExpress $72.38 (that listing has too few sales to pass the tracker\u0027s seller check); EMEET\u0027s 2-mic USB listing there (1,000+ sold) is the M1A too, at $51.38.",
+                                           "targetOther":  48,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|4",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "EMEET Tech Store (4.9 stars, 1,000+ sold)",
+                                                              "condition":  "new",
+                                                              "title":  "EMEET USB Wired Speakerphone Conference Speaker With 2 Mics 360° Voice Pickup Meeting Microphone for Zoom/WebEx/Microsoft Teams",
+                                                              "price":  51.38,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  51.38,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  51.38,
+                                                              "url":  "https://www.aliexpress.com/item/1005009193905258.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
+                                                                            "Store feedback percentage not shown on this listing; kept because it was picked by hand."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:59:43Z",
+                                                              "stale":  false,
+                                                              "stars":  4.9,
+                                                              "sold":  1000
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "EMEET Direct CA",
+                                                              "condition":  "new",
+                                                              "title":  "EMEET USB Speakerphone, M1A Zoom Certified AI Mics 360°Voice Pickup USB Type C-A Plug\u0026Play Computer Speakers with Microphone, Fast Mute Noise Reduction Echo Cancellation for 5-8 People for Zoom Teams",
+                                                              "price":  63.16,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  63.16,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  63.16,
+                                                              "url":  "https://www.amazon.ca/dp/B09WWYKP42",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:59:43Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|staples|3",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "EMEET OfficeCore M1A Plug-and-Play USB Speakerphone - Zoom Certified",
+                                                              "price":  99.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  99.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  99.99,
+                                                              "url":  "https://www.staples.ca/products/3134952-en-emeet-officecore-m1a-plug-and-play-usb-speakerphone-zoom-certified",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-11T23:59:43Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=EMEET%20M1A%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=EMEET%20M1A%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=EMEET%20M1A%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=EMEET%20M1A%20speakerphone"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=EMEET%20M1A%20speakerphone"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       }
+                                   ]
+                     }
+                 ],
     "lists":  [
                   {
                       "id":  "levoit-purifiers",
