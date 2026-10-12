@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-12T00:00:28Z",
+    "generatedAt":  "2026-10-12T00:28:14Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -1837,7 +1837,7 @@ window.PRICE_DATA = {
                                            "id":  "emeet-m1a",
                                            "name":  "EMEET M1A",
                                            "typical":  100,
-                                           "target":  60,
+                                           "target":  49.99,
                                            "why":  "USB only, no battery. Seen 11 Oct 2026: AliExpress $72.38 (that listing has too few sales to pass the tracker\u0027s seller check); EMEET\u0027s 2-mic USB listing there (1,000+ sold) is the M1A too, at $51.38.",
                                            "targetOther":  48,
                                            "offers":  [
@@ -1863,7 +1863,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Store feedback percentage not shown on this listing; kept because it was picked by hand."
                                                                         ],
-                                                              "lastSeen":  "2026-10-11T23:59:43Z",
+                                                              "lastSeen":  "2026-10-12T00:28:14Z",
                                                               "stale":  false,
                                                               "stars":  4.9,
                                                               "sold":  1000
@@ -1890,7 +1890,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-10-11T23:59:43Z",
+                                                              "lastSeen":  "2026-10-12T00:28:14Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1914,7 +1914,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-10-11T23:59:43Z",
+                                                              "lastSeen":  "2026-10-12T00:28:14Z",
                                                               "stale":  false
                                                           }
                                                       ],
