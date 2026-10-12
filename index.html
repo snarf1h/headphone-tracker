@@ -150,7 +150,7 @@
     if (!isNew(o)) t += ' <span class="badge tag">' + esc(o.condition) + '</span>';
     if (o.newCustomerOnly) t += ' <span class="badge warn" title="' + esc(o.requires) + '">new accounts only</span>';
     if (o.unverifiedSeller) t += ' <span class="badge warn" title="Seller has too few sales or too low a rating to trust">unverified seller</span>';
-    else if (o.requires) t += ' <span class="badge tag" title="' + esc(o.requires) + '">student</span>';
+    else if (o.requires && !o.newCustomerOnly) t +=' <span class="badge tag" title="' + esc(o.requires) + '">student</span>';
     if (o.crossBorder) t += ' <span class="badge warn">cross-border</span>';
     if (o.inStore) t += ' <span class="badge tag" title="Can be bought or picked up in person in Edmonton">in-store</span>';
     if (o.stale) t += ' <span class="badge warn" title="This store could not be reached on the last refresh">last seen ' + esc(ago(o.lastSeen)) + '</span>';
@@ -223,6 +223,13 @@
       '<div class="card">' + rows + '</div></section>';
   }
 
+  // Other sections (data.sections, e.g. speakerphones): the same rows as the headphones under their own heading.
+  function itemSection(sec, hist) {
+    return '<section><h2 class="sec">' + (sec.icon ? esc(sec.icon) + ' ' : '') + esc(sec.title) + '</h2>' +
+      (sec.intro ? '<p class="meta" style="margin:0 0 10px">' + esc(sec.intro) + '</p>' : '') +
+      '<div class="card">' + sec.items.map(function (it) { return itemRow(it, hist); }).join('') + '</div></section>';
+  }
+
   // Brand list (data.lists): every Amazon listing of one brand's product, ranked by discount. A model with a buy
   // price (list.targets in config.json) shows how far today's price is from it; the tracker emails when it is hit.
   function listSection(list) {
@@ -262,6 +269,7 @@
   function renderList(data, hist) {
     var html = '<section><h2 class="sec">🎧 Headphones</h2><div class="card">' + data.headphones.map(function (hp) { return itemRow(hp, hist); }).join('') + '</div></section>';
     if (data.minipcs && data.minipcs.items && data.minipcs.items.length) html += miniSection(data.minipcs, hist);
+    (data.sections || []).forEach(function (sec) { if (sec && sec.items && sec.items.length) html += itemSection(sec, hist); });
     html += '<p class="meta" style="margin-top:12px">Prices are the cheapest in-stock total (item + shipping to ' + esc(data.location) + ') before GST unless toggled. “Your line” is the no-brainer price for each item. Click an item for every buying option, including in-person stores.</p>';
     (data.lists || []).forEach(function (list) { if (list) html += listSection(list); });
     app.innerHTML = html;
@@ -351,6 +359,7 @@
   function renderDetail(data, hist, id) {
     var hp = data.headphones.filter(function (h) { return h.id === id; })[0], mp = data.minipcs, isPc = false;
     if (!hp && mp && mp.items) { hp = mp.items.filter(function (h) { return h.id === id; })[0]; isPc = !!hp; }
+    (data.sections || []).forEach(function (sec) { if (!hp && sec && sec.items) hp = sec.items.filter(function (h) { return h.id === id; })[0]; });
     if (!hp) { location.hash = '#/'; return; }
     var bn = best(hp, true), bo = best(hp, false);
     function tile(k, o) { return '<div class="card tile"><div class="k">' + k + '</div><div class="v">' + (o ? money(o.total) : '–') + '</div><div class="s">' + (o ? '<a href="' + esc(o.url) + '" target="_blank" rel="noopener">' + esc(o.retailerName) + '</a> · ' + deltaHtml(o, hp) : 'None in stock right now') + '</div></div>'; }
