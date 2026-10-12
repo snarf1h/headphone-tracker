@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-12T00:40:19Z",
+    "generatedAt":  "2026-10-12T02:39:30Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -1482,13 +1482,13 @@ window.PRICE_DATA = {
                          "id":  "speakerphones",
                          "title":  "Speakerphones",
                          "icon":  "🎙️",
-                         "intro":  "Speakerphones for the Pi dashboard. Buy lines are starting values set 11 Oct 2026: the rule is 10% below each model\u0027s lowest price on record (camelcamelcamel plus this tracker), and there was no history to apply it to yet. Open-box and renewed units are ranked on the separate refurbished line.",
+                         "intro":  "Speakerphones for the Pi dashboard. Buy lines set 11 Oct 2026, before GST. Open-box and renewed units are ranked on the separate refurbished line.",
                          "items":  [
                                        {
                                            "id":  "jabra-speak2-40",
                                            "name":  "Jabra Speak2 40",
                                            "typical":  184,
-                                           "target":  140,
+                                           "target":  120,
                                            "why":  "Top pick. Any Speak2 40 counts, MS Teams (2740-109) or UC (2740-209); the Speak2 55/75 and the older Speak 410/510 don\u0027t. Seen 11 Oct 2026: Amazon.ca $162 (was $183.99). Best Buy only has it from Marketplace sellers, which are skipped.",
                                            "targetOther":  112,
                                            "offers":  [
@@ -1514,7 +1514,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Jabra Company Store\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1538,7 +1538,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1562,7 +1562,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1586,7 +1586,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1610,7 +1610,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1634,31 +1634,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|1",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Global Teck Worldwide Speakerphone Speak2 40 MS (Teams) with Global Teck Microfiber Cloth, Compatible with PC/Mac, Smartphone \u0026 Tablet - for Conferencing, Distance Learning, Remote Work, School, Streaming",
-                                                              "price":  239.99,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  239.99,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  239.99,
-                                                              "url":  "https://www.amazon.ca/dp/B0CKXTCC6N",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                                        ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1682,7 +1658,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1706,7 +1682,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1730,7 +1706,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:38:02Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1769,7 +1745,7 @@ window.PRICE_DATA = {
                                            "id":  "emeet-m0-plus",
                                            "name":  "EMEET M0 Plus",
                                            "typical":  90,
-                                           "target":  60,
+                                           "target":  55,
                                            "why":  "Budget pick. The plain single unit only: not the daisy-chain kit (about $238), webcam or Luna bundles, two-packs, or EMEET\u0027s other models. Seen 11 Oct 2026: Amazon.ca $69.99 Prime deal ($89.99 regular); AliExpress $71.12 after discount on EMEET\u0027s Brand+ listing (4.8 stars, 800+ sold).",
                                            "targetOther":  48,
                                            "offers":  [
@@ -1794,7 +1770,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:39:12Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
                                                               "stars":  4.8,
@@ -1822,7 +1798,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:39:12Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1861,7 +1837,7 @@ window.PRICE_DATA = {
                                            "id":  "emeet-m1a",
                                            "name":  "EMEET M1A",
                                            "typical":  100,
-                                           "target":  49.99,
+                                           "target":  50,
                                            "why":  "USB only, no battery. Seen 11 Oct 2026: AliExpress $72.38 (that listing has too few sales to pass the tracker\u0027s seller check); EMEET\u0027s 2-mic USB listing there (1,000+ sold) is the M1A too, at $51.38.",
                                            "targetOther":  48,
                                            "offers":  [
@@ -1887,7 +1863,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Store feedback percentage not shown on this listing; kept because it was picked by hand."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:39:30Z",
                                                               "stale":  false,
                                                               "stars":  4.9,
                                                               "sold":  1000
@@ -1914,7 +1890,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:39:30Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1938,7 +1914,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-10-12T00:40:19Z",
+                                                              "lastSeen":  "2026-10-12T02:39:30Z",
                                                               "stale":  false
                                                           }
                                                       ],
