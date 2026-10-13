@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-13T18:59:47Z",
+    "generatedAt":  "2026-10-13T19:19:12Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -1863,7 +1863,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Store feedback percentage not shown on this listing; kept because it was picked by hand."
                                                                         ],
-                                                              "lastSeen":  "2026-10-13T18:40:19Z",
+                                                              "lastSeen":  "2026-10-13T19:00:35Z",
                                                               "stale":  false,
                                                               "stars":  4.9,
                                                               "sold":  1000
@@ -1890,7 +1890,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-10-13T18:40:19Z",
+                                                              "lastSeen":  "2026-10-13T19:00:35Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1914,7 +1914,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-10-13T18:40:19Z",
+                                                              "lastSeen":  "2026-10-13T19:00:35Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2750,6 +2750,423 @@ window.PRICE_DATA = {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
                                                                    "url":  "https://www.walmart.ca/en/search?q=over%20the%20range%20microwave%201.7"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       }
+                                   ]
+                     },
+                     {
+                         "id":  "luggage-trackers",
+                         "title":  "Luggage trackers",
+                         "icon":  "🧳",
+                         "intro":  "Black Friday 2026 (Nov 27) watchlist: Bluetooth tags for 2-3 suitcases, for a OnePlus 15 (Android, Google\u0027s Find Hub network). The OnePlus 15 has no UWB chip, so a tag is found up close by its sound, not an on-screen arrow, and loud tags are preferred. Best value when this was set up: the UGREEN FineTrack 2 Duo 4-pack at $39.99 on Amazon.ca. Buy lines are before GST and set 13 Oct 2026 at about 30% under regular price. As everywhere on this page they include shipping: Best Buy adds $5.99 under $35 and Staples $9.99 under $50, even though store pickup in Edmonton is free. Set dual-network tags up on Google (Find Hub), not Apple.",
+                         "items":  [
+                                       {
+                                           "id":  "ugreen-finetrack-2-duo-4pack",
+                                           "name":  "UGREEN FineTrack 2 Duo 4-pack",
+                                           "typical":  45,
+                                           "target":  32,
+                                           "why":  "Top pick: 3 bags plus keys. 110 dB, IP68, a built-in battery rated 5-7 years, glows in the dark. Works with Google Find Hub or Apple Find My (one at a time). Only the long-battery 2 Duo counts: not the iOS-only Mini 2, the Slim card, or the rechargeable FineTrack Duo (80 dB). Amazon.ca ASIN B0G64YKD4Q, sold by UGREEN. Seen 13 Oct 2026: $39.99 on Amazon.ca (was $44.99), already a good price at $10 a tag.",
+                                           "targetOther":  26,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "UGREEN GROUP LIMITED",
+                                                              "condition":  "new",
+                                                              "title":  "UGREEN FineTrack 2 Duo Tracker Tags for iOS \u0026 Android 4 Pack IP68",
+                                                              "price":  39.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  39.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  39.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0G64YKD4Q",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:19:12Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "ugreen-finetrack-2-duo",
+                                           "name":  "UGREEN FineTrack 2 Duo (single)",
+                                           "typical":  21,
+                                           "target":  15,
+                                           "why":  "The same tag one at a time, for one extra bag; two singles cost about as much as the 4-pack. Amazon.ca ASIN B0G7H7B2TD, sold by UGREEN; AliExpress sells it as the FineTrack Mini Duo. Seen 13 Oct 2026: $18.89 Amazon.ca (was $20.99); AliExpress $28.99 at UGREEN Direct Store, and $19.49 at UGREEN\u0027s official store for new AliExpress accounts only.",
+                                           "targetOther":  12,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "UGREEN GROUP LIMITED",
+                                                              "condition":  "new",
+                                                              "title":  "UGREEN FineTrack 2 Duo Tracker Tags for iOS \u0026 Android 1 Pack IP68",
+                                                              "price":  18.89,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  18.89,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  18.89,
+                                                              "url":  "https://www.amazon.ca/dp/B0G7H7B2TD",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:16:41Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|2",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "Ugreen Official Store (4.7 stars, 146 sold, 98.4% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "UGREEN FineTrack Mini Duo 2-in-1 Global Positioning Tracker, Smart Bluetooth Item   Locator,Anti-Lost Tag for Bags, Keys",
+                                                              "price":  19.49,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  19.49,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  19.49,
+                                                              "url":  "https://www.aliexpress.com/item/1005012784440166.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:16:41Z",
+                                                              "stale":  false,
+                                                              "newCustomerOnly":  true,
+                                                              "stars":  4.7,
+                                                              "sold":  146
+                                                          },
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|2",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "UGREEN Direct Store (4.9 stars, 500+ sold, 98.5% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "UGREEN FineTrack Mini Duo 2-in-1 Global Positioning Tracker, Smart Bluetooth Item   Locator,Anti-Lost Tag for Bags. Keys",
+                                                              "price":  28.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  28.99,
+                                                              "shipping":  12,
+                                                              "shippingEstimated":  true,
+                                                              "total":  40.99,
+                                                              "url":  "https://www.aliexpress.com/item/1005012823957853.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
+                                                                            "Listing does not advertise free shipping - $12 estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:16:41Z",
+                                                              "stale":  false,
+                                                              "stars":  4.9,
+                                                              "sold":  500
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=UGREEN%20FineTrack%202%20Duo"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=UGREEN%20FineTrack%202%20Duo"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=UGREEN%20FineTrack%202%20Duo"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=UGREEN%20FineTrack%202%20Duo"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=UGREEN%20FineTrack%202%20Duo"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "chipolo-pop-4pack",
+                                           "name":  "Chipolo POP 4-pack",
+                                           "typical":  120,
+                                           "target":  85,
+                                           "why":  "If you\u0027d rather have the Chipolo: louder (120 dB), a replaceable CR2032 (about a year), rated to -15 °C, and returnable at Staples or Best Buy. Works with Google Find Hub or Apple Find My (one at a time). Any colour mix; not the ONE Spot, CARD, LOOP or ONE Point. Seen 13 Oct 2026: $119.99 Staples; $119 Best Buy (Marketplace seller, skipped). Amazon.ca\u0027s own 4-pack ($120) isn\u0027t counted because its search title doesn\u0027t say 4-pack. Lowest found: $85.99 Staples and $90 Amazon.ca in search listings; the US Black Friday 2025 low was US$71.20.",
+                                           "targetOther":  68,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|staples|1",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Chipolo POP Tracker - Black - 4 Pack",
+                                                              "price":  119.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  119.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  119.99,
+                                                              "url":  "https://www.staples.ca/products/3126199-en-chipolo-pop-tracker-black-4-pack",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:17:08Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=Chipolo%20POP%204%20pack"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Chipolo%20POP%204%20pack"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Chipolo%20POP%204%20pack"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=Chipolo%20POP%204%20pack"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Chipolo%20POP%204%20pack"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "chipolo-pop",
+                                           "name":  "Chipolo POP (single)",
+                                           "typical":  40,
+                                           "target":  27,
+                                           "why":  "For 2 bags, or if singles go on sale first: three at $27 come to about the 4-pack\u0027s line. Not packs, the ONE Spot, CARD, LOOP or ONE Point. Seen 13 Oct 2026: $39 Amazon.ca (sold by Chipolo); $39.99 Best Buy (sold by Best Buy itself; black in store only) and Staples. Under $35 at Best Buy (or $50 at Staples) the total here includes shipping, so a $27 store-pickup price shows as $33-37.",
+                                           "targetOther":  22,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Chipolo",
+                                                              "condition":  "new",
+                                                              "title":  "Chipolo POP Tracker Tag - Colorful, Compatible, Loud Bluetooth Tracker",
+                                                              "price":  39,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  39,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  39,
+                                                              "url":  "https://www.amazon.ca/dp/B0DZXVLTCF",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027Chipolo\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:17:31Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Chipolo POP Tracker Tag - Colorful, Compatible, Loud Bluetooth Tracker",
+                                                              "price":  39,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  39,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  39,
+                                                              "url":  "https://www.amazon.ca/dp/B0DZXTLD38",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:17:31Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Chipolo POP Bluetooth Tracker Tag - White - 1 Pack",
+                                                              "price":  39.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  39.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  39.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/chipolo-pop-bluetooth-tracker-tag-white-1-pack/19483316",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:17:31Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Chipolo POP Bluetooth Tracker Tag - Black - 1 Pack",
+                                                              "price":  39.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  39.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  39.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/chipolo-pop-bluetooth-tracker-tag-black-1-pack/19483315",
+                                                              "inStock":  false,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:17:31Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "discover|staples|3",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Chipolo POP Tracker - Black",
+                                                              "price":  39.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  39.99,
+                                                              "shipping":  9.99,
+                                                              "shippingEstimated":  false,
+                                                              "total":  49.98,
+                                                              "url":  "https://www.staples.ca/products/3126198-en-chipolo-pop-tracker-black",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T19:17:31Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=Chipolo%20POP"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Chipolo%20POP"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Chipolo%20POP"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=Chipolo%20POP"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Chipolo%20POP"
                                                                }
                                                            ],
                                            "errors":  [
