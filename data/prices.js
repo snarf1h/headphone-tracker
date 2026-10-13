@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-13T18:40:19Z",
+    "generatedAt":  "2026-10-13T18:59:47Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -1943,6 +1943,813 @@ window.PRICE_DATA = {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
                                                                    "url":  "https://www.bhphotovideo.com/c/search?q=EMEET%20M1A%20speakerphone"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       }
+                                   ]
+                     },
+                     {
+                         "id":  "microwaves",
+                         "title":  "Over-the-range microwaves",
+                         "icon":  "🍿",
+                         "intro":  "Black Friday 2026 (Nov 27) watchlist for a 30-inch over-the-range microwave, stainless finishes only. Buy lines are before GST, set 13 Oct 2026 at about 20-25% under regular price. Best Buy items are pinned by SKU and Home Depot items by product number (Edmonton South store); Costco is checked for the two models it lists. The Brick and Leon\u0027s price by region and block automated checks, so they are links on each item.",
+                         "items":  [
+                                       {
+                                           "id":  "frigidaire-fmos1846bs",
+                                           "name":  "Frigidaire FMOS1846BS",
+                                           "typical":  429,
+                                           "target":  349,
+                                           "why":  "Top pick. 1.8 cu ft, 300 CFM, no sensor cooking. Fewest complaints of the shortlist (about 1% of ~3,500 reviews are 1-2 stars). 41.6 cm tall, the same as the current microwave. Seen 13 Oct 2026: $425 Leon\u0027s and Visions, $428 Home Depot, $429.99 Best Buy.",
+                                           "targetOther":  279,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire FMOS1846BS 1.8 cu ft (stainless)",
+                                                              "price":  428,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  428,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  428,
+                                                              "url":  "https://www.homedepot.ca/product/frigidaire-1-8-cu-ft-over-the-range-microwave-in-stainless-steel/1001784186",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
+                                                                            "Home Depot promotion: FREE DELIVERY."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:59:47Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire Over-The-Range Microwave - 1.8 Cu. Ft. - Stainless Steel",
+                                                              "price":  429.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  429.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  429.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/frigidaire-over-the-range-microwave-1-8-cu-ft-stainless-steel/16493435",
+                                                              "inStock":  false,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:59:47Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|costco|3",
+                                                              "retailer":  "costco",
+                                                              "retailerName":  "Costco.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire 1.8 cu ft. Over The Range Microwave, 300 CFM, Stainless Steel",
+                                                              "price":  472.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  472.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  472.99,
+                                                              "url":  "https://www.costco.ca/p/-/frigidaire-18-cu-ft-over-the-range-microwave-300-cfm/4000355408",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:59:47Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=FMOS1846BS"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=FMOS1846BS"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOS1846BS"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOS1846BS"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOS1846BS"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "frigidaire-fmow1852as",
+                                           "name":  "Frigidaire FMOW1852AS",
+                                           "typical":  449,
+                                           "target":  369,
+                                           "why":  "The FMOS1846BS with sensor cooking and a recessed handle. 1.8 cu ft, 300 CFM. 3 of 239 reviews are 1-2 stars. 41.6 cm tall. Seen 13 Oct 2026: $445 The Brick, Leon\u0027s and Visions, $448 Home Depot, $449.99 Best Buy.",
+                                           "targetOther":  295,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire FMOW1852AS 1.8 cu ft with Sensor Cook (stainless)",
+                                                              "price":  448,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  448,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  448,
+                                                              "url":  "https://www.homedepot.ca/product/frigidaire-1-8-cu-ft-over-the-range-microwave-in-stainless-steel/1001725607",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
+                                                                            "Home Depot promotion: FREE DELIVERY."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:56:49Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire Over-The-Range Microwave with Pocket Handle - 1.8 Cu. Ft. - Stainless Steel",
+                                                              "price":  449.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  449.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  449.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/frigidaire-over-the-range-microwave-with-pocket-handle-1-8-cu-ft-stainless-steel/16574030",
+                                                              "inStock":  false,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:56:49Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=FMOW1852AS"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=FMOW1852AS"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOW1852AS"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOW1852AS"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOW1852AS"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "whirlpool-ywmms3230sz",
+                                           "name":  "Whirlpool YWMMS3230SZ",
+                                           "typical":  429,
+                                           "target":  359,
+                                           "why":  "1.9 cu ft with sensor cooking, 300 CFM. Consumer Reports rates Whirlpool\u0027s over-the-range reliability very good; a newer model with few reviews. 43.5 cm tall, so it hangs 2 cm lower than the current one. Seen 13 Oct 2026: $425 The Brick and Leon\u0027s, $428 Home Depot, $429.99 Best Buy (reg $529.99).",
+                                           "targetOther":  287,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Whirlpool YWMMS3230SZ 1.9 cu ft (fingerprint-resistant stainless)",
+                                                              "price":  428,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  428,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  428,
+                                                              "url":  "https://www.homedepot.ca/product/whirlpool-1-9-cu-ft-over-the-range-microwave-in-fingerprint-resistant-stainless-steel/1001961715",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
+                                                                            "Home Depot promotion: FREE DELIVERY; BUY MORE, SAVE MORE."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:00Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Whirlpool Over-The-Range Microwave - 1.9 Cu. Ft. - Stainless Steel",
+                                                              "price":  429.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  429.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  429.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/whirlpool-over-the-range-microwave-1-9-cu-ft-stainless-steel/19675645",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:00Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=YWMMS3230SZ"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=YWMMS3230SZ"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=YWMMS3230SZ"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=YWMMS3230SZ"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=YWMMS3230SZ"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "frigidaire-gmos1962af",
+                                           "name":  "Frigidaire Gallery GMOS1962AF",
+                                           "typical":  499,
+                                           "target":  379,
+                                           "why":  "Stretch pick. 1.9 cu ft with the strongest fan on the list (400 CFM, 3 speeds) and sensor cooking. About 1% of reviews are 1-2 stars. 41.6 cm tall. Seen 13 Oct 2026: $495 Leon\u0027s, $498 Home Depot, $499.99 Best Buy (reg $529.99).",
+                                           "targetOther":  303,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|costco|3",
+                                                              "retailer":  "costco",
+                                                              "retailerName":  "Costco.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire Gallery 1.9 cu ft. Stainless Steel Over The Range Microwave with Sensor Cook, 400 CFM",
+                                                              "price":  492.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  492.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  492.99,
+                                                              "url":  "https://www.costco.ca/p/-/frigidaire-gallery-19-cu-ft-stainless-steel-over-the-range-microwave-with-sensor-cook-400-cfm/4000148144",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:13Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire Gallery GMOS1962AF 1.9 cu ft (smudge-proof stainless)",
+                                                              "price":  498,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  498,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  498,
+                                                              "url":  "https://www.homedepot.ca/product/frigidaire-gallery-1-9-cu-ft-over-the-range-microwave-in-smudge-proof-stainless-steel/1001759012",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
+                                                                            "Home Depot promotion: FREE DELIVERY; BUY MORE SAVE MORE."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:13Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire Gallery Over-The-Range Microwave - 1.9 Cu. Ft. - Smudge-Proof Stainless Steel",
+                                                              "price":  499.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  499.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  499.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/frigidaire-gallery-over-the-range-microwave-1-9-cu-ft-smudge-proof-stainless-steel/16574032",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:13Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=GMOS1962AF"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=GMOS1962AF"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=GMOS1962AF"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=GMOS1962AF"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=GMOS1962AF"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "frigidaire-fmos174cbs",
+                                           "name":  "Frigidaire FMOS174CBS",
+                                           "typical":  379,
+                                           "target":  299,
+                                           "why":  "The cheapest Frigidaire. 1.7 cu ft, 300 CFM, no sensor cooking. A new 2026 model with few reviews yet. 41.75 cm tall. Seen 13 Oct 2026: $375 Leon\u0027s, $378 Home Depot, $379.99 Best Buy (reg $429.99).",
+                                           "targetOther":  239,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire FMOS174CBS 1.7 cu ft (smudge-proof stainless)",
+                                                              "price":  378,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  378,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  378,
+                                                              "url":  "https://www.homedepot.ca/product/frigidaire-1-7-cu-ft-over-the-range-microwave-in-smudge-proof-in-stainless-steel/1001957853",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
+                                                                            "Home Depot promotion: FREE DELIVERY."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:30Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Frigidaire Over-The-Range Microwave - 1.7 Cu. Ft. - Stainless Steel",
+                                                              "price":  379.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  379.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  379.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/frigidaire-over-the-range-microwave-1-7-cu-ft-stainless-steel/19650297",
+                                                              "inStock":  false,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:30Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=FMOS174CBS"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=FMOS174CBS"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOS174CBS"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOS174CBS"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOS174CBS"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "ge-jvm1635sfc",
+                                           "name":  "GE JVM1635SFC",
+                                           "typical":  399,
+                                           "target":  319,
+                                           "why":  "1.6 cu ft with a 3-speed fan, 300 CFM. Mixed reviews, and GE Canada lists a carry-in warranty (you\u0027d take it down for repairs). 41.4 cm tall. Seen 13 Oct 2026: $395 The Brick and Leon\u0027s, $398 Home Depot, $399.99 Best Buy (reg $479.99).",
+                                           "targetOther":  255,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "GE JVM1635SFC 1.6 cu ft (stainless)",
+                                                              "price":  398,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  398,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  398,
+                                                              "url":  "https://www.homedepot.ca/product/ge-30-inch-w-1-6-cu-ft-over-the-range-microwave-in-stainless-steel-with-sensor-cooking/1000727849",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
+                                                                            "Home Depot promotion: FREE DELIVERY."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:40Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "GE Over-The-Range Microwave with 3 Speed Exhaust Fan - 1.6 Cu. Ft. - Stainless Steel",
+                                                              "price":  399.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  399.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  399.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/general-electric-ge-over-the-range-microwave-1-6-cu-ft-stainless-steel-jvm1635sfc/10276200",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:40Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=JVM1635SFC"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=JVM1635SFC"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=JVM1635SFC"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=JVM1635SFC"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=JVM1635SFC"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "amana-yamv2307pfs",
+                                           "name":  "Amana YAMV2307PFS",
+                                           "typical":  329,
+                                           "target":  279,
+                                           "why":  "Basic 1.6 cu ft, 300 CFM, no sensor cooking. About 4% of reviews are 1-2 stars. The tallest here (44.1 cm), so it hangs 2.6 cm lower than the current one. Seen 13 Oct 2026: $325 Leon\u0027s, $328 Home Depot, $329.99 Best Buy (reg $399.99).",
+                                           "targetOther":  223,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Amana YAMV2307PFS 1.6 cu ft (black-on-stainless)",
+                                                              "price":  328,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  328,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  328,
+                                                              "url":  "https://www.homedepot.ca/product/amana-30-inch-w-1-6-cu-ft-over-the-range-microwave-in-stainless-steel/1001031392",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
+                                                                            "Home Depot promotion: FREE DELIVERY."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:51Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Amana Over-the-Range Microwave - 1.6 Cu. Ft. - Black-on-Stainless",
+                                                              "price":  329.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  329.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  329.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/amana-amana-over-the-range-microwave-1-6-cu-ft-black-on-stainless-yamv2307pfs/10528313",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:57:51Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=YAMV2307PFS"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=YAMV2307PFS"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=YAMV2307PFS"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=YAMV2307PFS"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=YAMV2307PFS"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "budget-insignia-vissani",
+                                           "name":  "Insignia NS-OTR17SS3-C / Vissani HVO170STF",
+                                           "typical":  229,
+                                           "target":  189,
+                                           "why":  "Cheapest worth having: basic 1.7 cu ft store brands, Insignia at Best Buy and Vissani at Home Depot. Insignia: about 8% of reviews are 1-2 stars, 41.7 cm tall, ships for $23.99. The Vissani\u0027s track record is unknown; the white one was $159 as a Boxing Week 2025 doorbuster. Seen 13 Oct 2026: $229 Vissani, $229.99 Insignia.",
+                                           "targetOther":  151,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "retailer":  "homedepot",
+                                                              "retailerName":  "Home Depot",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Vissani HVO170STF 1.7 cu ft (stainless)",
+                                                              "price":  229,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  229,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  229,
+                                                              "url":  "https://www.homedepot.ca/product/vissani-1-7-cu-ft-over-the-range-microwave-oven-in-stainless-steel/1001708907",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:58:03Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Insignia Over-The-Range Microwave - 1.7 Cu. Ft. - Stainless Steel - Only at Best Buy",
+                                                              "price":  229.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  229.99,
+                                                              "shipping":  23.99,
+                                                              "shippingEstimated":  false,
+                                                              "total":  253.98,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/insignia-over-the-range-microwave-1-7-cu-ft-stainless-steel-only-at-best-buy/16021540",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-13T18:58:03Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "The Brick",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.thebrick.com/search?q=over%20the%20range%20microwave%201.7"
+                                                               },
+                                                               {
+                                                                   "name":  "Leon\u0027s",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.leons.ca/search?q=over%20the%20range%20microwave%201.7"
+                                                               },
+                                                               {
+                                                                   "name":  "Trail Appliances (all over-the-range)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=over%20the%20range%20microwave%201.7"
+                                                               },
+                                                               {
+                                                                   "name":  "Costco.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=over%20the%20range%20microwave%201.7"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=over%20the%20range%20microwave%201.7"
                                                                }
                                                            ],
                                            "errors":  [
