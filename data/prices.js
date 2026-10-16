@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-16T00:21:47Z",
+    "generatedAt":  "2026-10-16T00:22:20Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -3387,7 +3387,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "lastSeen":  "2026-10-16T00:22:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3411,7 +3411,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "lastSeen":  "2026-10-16T00:22:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3435,7 +3435,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "lastSeen":  "2026-10-16T00:22:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3459,7 +3459,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "lastSeen":  "2026-10-16T00:22:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3483,7 +3483,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "lastSeen":  "2026-10-16T00:22:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
