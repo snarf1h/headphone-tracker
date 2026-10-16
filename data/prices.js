@@ -1,10 +1,10 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-10-15T18:40:20Z",
+    "generatedAt":  "2026-10-16T00:21:47Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
-               "usdCad":  1.4263,
-               "source":  "Bank of Canada 2026-10-14"
+               "usdCad":  1.4196,
+               "source":  "Bank of Canada 2026-10-15"
            },
     "headphones":  [
                        {
@@ -3179,6 +3179,344 @@ window.PRICE_DATA = {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
                                                                    "url":  "https://www.bhphotovideo.com/c/search?q=Chipolo%20POP"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       }
+                                   ]
+                     },
+                     {
+                         "id":  "mics",
+                         "title":  "Wireless microphones",
+                         "icon":  "🎤",
+                         "intro":  "DJI Mic Mini 2S kits (added 15 Oct 2026). No store had discounted them yet and camelcamelcamel shows the Amazon.ca prices unchanged since August, so the buy lines are set about 15% under the launch price, before GST; DJI\u0027s own sales usually run 10-20% off. Checked: Amazon.ca, Best Buy (sold by Best Buy; its total includes Best Buy\u0027s $12.99 shipping quote, but pickup at an Edmonton store is free), Staples, Canada Computers and The Camera Store (Calgary, free shipping over $99). DJI\u0027s own store shows US prices to automated checks, so it isn\u0027t tracked; Memory Express, London Drugs, Visions and Walmart block checks and are links on each item.",
+                         "items":  [
+                                       {
+                                           "id":  "dji-mic-mini-2s-1tx",
+                                           "name":  "DJI Mic Mini 2S (1 TX + 1 Mobile RX + Charging Case)",
+                                           "typical":  149,
+                                           "target":  125,
+                                           "why":  "The phone kit: one transmitter, the USB-C mobile receiver and the charging case. Only this kit counts, not the camera-receiver kit or the 1 TX + 1 RX pair without a case. Seen 15 Oct 2026: $149 Amazon.ca (sold by DJI), $149.99 Best Buy, $149 Staples, $148.99 Canada Computers. Amazon.ca ASIN B0GKNLGXZ3.",
+                                           "targetOther":  100,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|canadacomputers|4",
+                                                              "retailer":  "canadacomputers",
+                                                              "retailerName":  "Canada Computers",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S Wireless Microphone (1 TX +1 Mobile RX +Charging Case)",
+                                                              "price":  148.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  148.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  148.99,
+                                                              "url":  "https://www.canadacomputers.com/en/lavalier-microphones/293328/dji-mic-mini-2s-wireless-microphone-1-tx-1-mobile-rx-charging-case-cprn0000055901.html",
+                                                              "inStock":  false,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "No Edmonton store; shipping estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:21:47Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|thecamerastore|5",
+                                                              "retailer":  "thecamerastore",
+                                                              "retailerName":  "The Camera Store (Calgary)",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S (1 TX + 1 Mobile RX + Charging Case)",
+                                                              "price":  149,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  149,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  149,
+                                                              "url":  "https://www.thecamerastore.com/products/dji-mic-mini-2s-1-tx-1-mobile-rx-charging-case",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:21:47Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|staples|3",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S with 1 TX, 1 Mobile RX, and Charging Case",
+                                                              "price":  149,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  149,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  149,
+                                                              "url":  "https://www.staples.ca/products/3185932-en-dji-mic-mini-2s-with-1-tx-1-mobile-rx-and-charging-case",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:21:47Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Amazon",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S (1 TX + 1 Mobile RX + Charging Case), AI Noise Canceling",
+                                                              "price":  149,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  149,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  149,
+                                                              "url":  "https://www.amazon.ca/dp/B0GKNLGXZ3",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:21:47Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|2",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S Wireless Microphone (1 TX + 1 Mobile RX + Charging Case)",
+                                                              "price":  149.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  149.99,
+                                                              "shipping":  12.99,
+                                                              "shippingEstimated":  false,
+                                                              "total":  162.98,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/dji-mic-mini-2s-wireless-microphone-1-tx-1-mobile-rx-charging-case/19968490",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:21:47Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "DJI Store Canada",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://store.dji.com/ca/product/dji-mic-mini-2s"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=DJI%20Mic%20Mini%202S"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "dji-mic-mini-2s-2tx",
+                                           "name":  "DJI Mic Mini 2S (2 TX + 1 RX + Charging Case)",
+                                           "typical":  265,
+                                           "target":  225,
+                                           "why":  "The two-person kit: two transmitters, the camera receiver and the charging case. Only this kit counts. Seen 15 Oct 2026: $265 Amazon.ca (sold by DJI), $265.99 Best Buy, $265 Staples, $264.99 Canada Computers. Amazon.ca ASIN B0GKNGX68S.",
+                                           "targetOther":  180,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|canadacomputers|4",
+                                                              "retailer":  "canadacomputers",
+                                                              "retailerName":  "Canada Computers",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S Wireless Microphone  (2 TX + 1 RX + Charging Case)",
+                                                              "price":  264.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  264.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  264.99,
+                                                              "url":  "https://www.canadacomputers.com/en/lavalier-microphones/293895/dji-mic-mini-2s-wireless-microphone-2-tx-1-rx-charging-case-cprn0000053801.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "No Edmonton store; shipping estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|thecamerastore|5",
+                                                              "retailer":  "thecamerastore",
+                                                              "retailerName":  "The Camera Store (Calgary)",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S (2 TX + 1 RX + Charging Case)",
+                                                              "price":  265,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  265,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  265,
+                                                              "url":  "https://www.thecamerastore.com/products/dji-mic-mini-2s-2-tx-1-rx-charging-case",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|staples|3",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S with 2 TX, 1 RX, Charging Case",
+                                                              "price":  265,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  265,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  265,
+                                                              "url":  "https://www.staples.ca/products/3185913-en-dji-mic-mini-2s-with-2-tx-1-rx-charging-case",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Amazon",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S (2 TX + 1 RX + Charging Case), AI Noise Canceling",
+                                                              "price":  265,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  265,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  265,
+                                                              "url":  "https://www.amazon.ca/dp/B0GKNGX68S",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|2",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2S Wireless Microphone (2 TX + 1 RX + Charging Case)",
+                                                              "price":  265.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  265.99,
+                                                              "shipping":  12.99,
+                                                              "shippingEstimated":  false,
+                                                              "total":  278.98,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/dji-mic-mini-2s-wireless-microphone-2-tx-1-rx-charging-case/19968488",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-10-16T00:20:34Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "Visions",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "Walmart.ca",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.walmart.ca/en/search?q=DJI%20Mic%20Mini%202S"
+                                                               },
+                                                               {
+                                                                   "name":  "DJI Store Canada",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://store.dji.com/ca/product/dji-mic-mini-2s"
+                                                               },
+                                                               {
+                                                                   "name":  "B\u0026H (US)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=DJI%20Mic%20Mini%202S"
                                                                }
                                                            ],
                                            "errors":  [
