@@ -1,0 +1,1 @@
+Each file in this folder retires one section of the price tracker page: the file's name (without extension) is the section id, e.g. microwaves.txt. The tracker reads this folder every run and stops checking, showing and emailing about that section. Delete the file to track the section again. The page's "Bought" button creates these files.
