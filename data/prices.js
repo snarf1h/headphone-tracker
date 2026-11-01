@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-01T21:54:51Z",
+    "generatedAt":  "2026-11-01T22:22:31Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -326,7 +326,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -350,7 +350,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -374,7 +374,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -399,7 +399,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027TrustedTechCanada - (We Track all Product Serials)\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -423,7 +423,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -447,7 +447,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -471,7 +471,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -495,7 +495,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -519,7 +519,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -543,7 +543,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -567,7 +567,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -591,7 +591,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -615,7 +615,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -639,7 +639,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -663,7 +663,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -687,7 +687,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -711,7 +711,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -735,7 +735,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -759,7 +759,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -783,7 +783,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -807,7 +807,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -831,7 +831,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -855,7 +855,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -879,7 +879,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -903,7 +903,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -927,7 +927,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -951,7 +951,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -975,7 +975,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           },
                                           {
@@ -999,7 +999,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-01T21:54:51Z",
+                                              "lastSeen":  "2026-11-01T22:02:18Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1581,455 +1581,6 @@ window.PRICE_DATA = {
                        }
                    ],
     "sections":  [
-                     {
-                         "id":  "speakerphones",
-                         "title":  "Speakerphones",
-                         "icon":  "🎙️",
-                         "intro":  "Speakerphones for the Pi dashboard. Buy lines set 11 Oct 2026, before GST. Open-box and renewed units are ranked on the separate refurbished line.",
-                         "items":  [
-                                       {
-                                           "id":  "jabra-speak2-40",
-                                           "name":  "Jabra Speak2 40",
-                                           "typical":  184,
-                                           "target":  120,
-                                           "why":  "Top pick. Any Speak2 40 counts, MS Teams (2740-109) or UC (2740-209); the Speak2 55/75 and the older Speak 410/510 don\u0027t. Seen 11 Oct 2026: Amazon.ca $162 (was $183.99). Best Buy only has it from Marketplace sellers, which are skipped.",
-                                           "targetOther":  112,
-                                           "offers":  [
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|1",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "Jabra Company Store",
-                                                              "condition":  "new",
-                                                              "title":  "Jabra Speak2 40 UC, Dark Grey",
-                                                              "price":  162,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  162,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  162,
-                                                              "url":  "https://www.amazon.ca/dp/B0BWKTR73Y",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                            "Sold by third-party seller \u0027Jabra Company Store\u0027 - check seller rating and warranty."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|1",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Jabra Speak2 40 MS Teams, Dark Grey",
-                                                              "price":  162,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  162,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  162,
-                                                              "url":  "https://www.amazon.ca/dp/B0BWLBWS9D",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "discover|newegg|4",
-                                                              "retailer":  "newegg",
-                                                              "retailerName":  "Newegg.ca",
-                                                              "seller":  "Newegg",
-                                                              "condition":  "new",
-                                                              "title":  "Jabra Speak2 40 Speakerphone with Microsoft Teams Certification 2740-109",
-                                                              "price":  182.99,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  182.99,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  true,
-                                                              "total":  182.99,
-                                                              "url":  "https://www.newegg.ca/Jabra-Speak2-40-Voice-Conferencing-Device/p/N82E16876507007",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "discover|newegg|4",
-                                                              "retailer":  "newegg",
-                                                              "retailerName":  "Newegg.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Jabra Speak2 40 UC Portable Speakerphone with both USB-A and USB-C connectors - Dark Grey",
-                                                              "price":  192.21,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  192.21,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  true,
-                                                              "total":  192.21,
-                                                              "url":  "https://www.newegg.ca/Jabra-Speak2-40-UC-Jabra-Speak2-40-UC-Portable-Speakerphone-with-USB-Connectivity-Dark-Grey/p/9SIADGEKRV6631",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "discover|staples|3",
-                                                              "retailer":  "staples",
-                                                              "retailerName":  "Staples",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Jabra Speak2 40 Speakerphone for Microsoft Teams",
-                                                              "price":  227.99,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  227.99,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  227.99,
-                                                              "url":  "https://www.staples.ca/products/24561848-en-jabra-speak2-40-speakerphone-for-microsoft-teams",
-                                                              "inStock":  true,
-                                                              "inStore":  true,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "discover|staples|3",
-                                                              "retailer":  "staples",
-                                                              "retailerName":  "Staples",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Jabra Speak2 40 Speakerphone for Unified Communications",
-                                                              "price":  227.99,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  227.99,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  227.99,
-                                                              "url":  "https://www.staples.ca/products/24561850-en-jabra-speak2-40-speakerphone-for-unified-communications",
-                                                              "inStock":  true,
-                                                              "inStore":  true,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "discover|canadacomputers|5",
-                                                              "retailer":  "canadacomputers",
-                                                              "retailerName":  "Canada Computers",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Jabra Speak2 40 MS - (2740-109)",
-                                                              "price":  254,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  254,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  true,
-                                                              "total":  254,
-                                                              "url":  "https://www.canadacomputers.com/en/voip-phone-system/245717/jabra-speak2-40-ms-2740-109-2740-109.html",
-                                                              "inStock":  false,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "No Edmonton store; shipping estimated."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "discover|canadacomputers|5",
-                                                              "retailer":  "canadacomputers",
-                                                              "retailerName":  "Canada Computers",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "JABRA SPEAK2 40 USB Speakerphone - (2740-209)",
-                                                              "price":  254,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  254,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  true,
-                                                              "total":  254,
-                                                              "url":  "https://www.canadacomputers.com/en/voip-phone-system/246077/jabra-speak2-40-usb-speakerphone-2740-209-2740-209.html",
-                                                              "inStock":  false,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "No Edmonton store; shipping estimated."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          }
-                                                      ],
-                                           "manualLinks":  [
-                                                               {
-                                                                   "name":  "Walmart.ca",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=Jabra%20Speak2%2040"
-                                                               },
-                                                               {
-                                                                   "name":  "Memory Express",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Jabra%20Speak2%2040"
-                                                               },
-                                                               {
-                                                                   "name":  "Visions",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Jabra%20Speak2%2040"
-                                                               },
-                                                               {
-                                                                   "name":  "London Drugs",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=Jabra%20Speak2%2040"
-                                                               },
-                                                               {
-                                                                   "name":  "B\u0026H (US)",
-                                                                   "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Jabra%20Speak2%2040"
-                                                               }
-                                                           ],
-                                           "errors":  [
-
-                                                      ]
-                                       },
-                                       {
-                                           "id":  "emeet-m0-plus",
-                                           "name":  "EMEET M0 Plus",
-                                           "typical":  90,
-                                           "target":  55,
-                                           "why":  "Budget pick. The plain single unit only: not the daisy-chain kit (about $238), webcam or Luna bundles, two-packs, or EMEET\u0027s other models. Seen 11 Oct 2026: Amazon.ca $69.99 Prime deal ($89.99 regular); AliExpress $71.12 after discount on EMEET\u0027s Brand+ listing (4.8 stars, 800+ sold).",
-                                           "targetOther":  48,
-                                           "offers":  [
-                                                          {
-                                                              "sourceKey":  "aliexpress|aliexpress|2",
-                                                              "retailer":  "aliexpress",
-                                                              "retailerName":  "AliExpress",
-                                                              "seller":  "EMEET Flagship Store (4.8 stars, 800+ sold, 96.9% positive feedback)",
-                                                              "condition":  "new",
-                                                              "title":  "EMEET Speakerphone Wireless Conference Speaker 360° Voice Pickup Meeting Microphone With 4 Noise Cancelling Mics for Office/Home",
-                                                              "price":  63.7,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  63.7,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  63.7,
-                                                              "url":  "https://www.aliexpress.com/item/1005007432132839.html",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  true,
-                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
-                                                              "notes":  [
-                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false,
-                                                              "newCustomerOnly":  true,
-                                                              "stars":  4.8,
-                                                              "sold":  800
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|1",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "EMEET Direct CA",
-                                                              "condition":  "new",
-                                                              "title":  "EMEET Conference Speakerphone M0 Plus, 4 AI Mics 360° Voice Pickup, Noise Reduction, USB C, Bluetooth Speakerphone for 8 People w/Daisy Chain for 16, Conference Speaker Compatible w/Leading Software",
-                                                              "price":  69.99,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  69.99,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  69.99,
-                                                              "url":  "https://www.amazon.ca/dp/B0BVZLS5GZ",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                            "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          }
-                                                      ],
-                                           "manualLinks":  [
-                                                               {
-                                                                   "name":  "Walmart.ca",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=EMEET%20M0%20Plus%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "Memory Express",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=EMEET%20M0%20Plus%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "Visions",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=EMEET%20M0%20Plus%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "London Drugs",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=EMEET%20M0%20Plus%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "B\u0026H (US)",
-                                                                   "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=EMEET%20M0%20Plus%20speakerphone"
-                                                               }
-                                                           ],
-                                           "errors":  [
-
-                                                      ]
-                                       },
-                                       {
-                                           "id":  "emeet-m1a",
-                                           "name":  "EMEET M1A",
-                                           "typical":  100,
-                                           "target":  50,
-                                           "why":  "USB only, no battery. Seen 11 Oct 2026: AliExpress $72.38 (that listing has too few sales to pass the tracker\u0027s seller check); EMEET\u0027s 2-mic USB listing there (1,000+ sold) is the M1A too, at $51.38.",
-                                           "targetOther":  48,
-                                           "offers":  [
-                                                          {
-                                                              "sourceKey":  "aliexpress|aliexpress|4",
-                                                              "retailer":  "aliexpress",
-                                                              "retailerName":  "AliExpress",
-                                                              "seller":  "EMEET Tech Store (4.9 stars, 1,000+ sold)",
-                                                              "condition":  "new",
-                                                              "title":  "EMEET USB Wired Speakerphone Conference Speaker With 2 Mics 360° Voice Pickup Meeting Microphone for Zoom/WebEx/Microsoft Teams",
-                                                              "price":  46.18,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  46.18,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  46.18,
-                                                              "url":  "https://www.aliexpress.com/item/1005009193905258.html",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  true,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
-                                                                            "Store feedback percentage not shown on this listing; kept because it was picked by hand."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false,
-                                                              "stars":  4.9,
-                                                              "sold":  1000
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|1",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "EMEET Direct CA",
-                                                              "condition":  "new",
-                                                              "title":  "EMEET USB Speakerphone, M1A Zoom Certified AI Mics 360°Voice Pickup USB Type C-A Plug\u0026Play Computer Speakers with Microphone, Fast Mute Noise Reduction Echo Cancellation for 5-8 People for Zoom Teams",
-                                                              "price":  63.16,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  63.16,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  63.16,
-                                                              "url":  "https://www.amazon.ca/dp/B09WWYKP42",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                            "Sold by third-party seller \u0027EMEET Direct CA\u0027 - check seller rating and warranty."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "page|staples|3",
-                                                              "retailer":  "staples",
-                                                              "retailerName":  "Staples",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "EMEET OfficeCore M1A Plug-and-Play USB Speakerphone - Zoom Certified",
-                                                              "price":  104.99,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  104.99,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  104.99,
-                                                              "url":  "https://www.staples.ca/products/3134952-en-emeet-officecore-m1a-plug-and-play-usb-speakerphone-zoom-certified",
-                                                              "inStock":  true,
-                                                              "inStore":  true,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-01T18:40:20Z",
-                                                              "stale":  false
-                                                          }
-                                                      ],
-                                           "manualLinks":  [
-                                                               {
-                                                                   "name":  "Walmart.ca",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=EMEET%20M1A%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "Memory Express",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=EMEET%20M1A%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "Visions",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=EMEET%20M1A%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "London Drugs",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=EMEET%20M1A%20speakerphone"
-                                                               },
-                                                               {
-                                                                   "name":  "B\u0026H (US)",
-                                                                   "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=EMEET%20M1A%20speakerphone"
-                                                               }
-                                                           ],
-                                           "errors":  [
-
-                                                      ]
-                                       }
-                                   ]
-                     },
                      {
                          "id":  "microwaves",
                          "title":  "Over-the-range microwaves",
@@ -3500,10 +3051,400 @@ window.PRICE_DATA = {
                                                       ]
                                        }
                                    ]
+                     },
+                     {
+                         "id":  "knee-pads",
+                         "title":  "Volleyball knee pads",
+                         "icon":  "🏐",
+                         "intro":  "Top 3 for a libero who has worn Mizuno LR6 in Large (added 1 Nov 2026). Only size Large counts (the T10 Plus is one size): Amazon.ca is pinned to the Large listings, and Team Town and Mizuno Canada count only when Large is in stock. Buy lines are before GST, set at about 20-25% under regular price, and include shipping: $10 at Team Town and about $10 at Mizuno Canada on an order this size. Sport Chek and Canadian Tire time out in the automatic check, so they are links on each item, and worth a look because store pickup in Edmonton is free.",
+                         "items":  [
+                                       {
+                                           "id":  "mizuno-lr6-pro",
+                                           "name":  "Mizuno LR6 Pro (Large)",
+                                           "typical":  60,
+                                           "target":  45,
+                                           "why":  "Top pick. The same low-rise cut and sizing as your LR6s, with more cushioning (tri-density foam) and a grip texture to keep it in place, so your usual Large should carry over. Mizuno style 480211. Amazon.ca ASINs B0C54189S6 (white) and B0C541D5D2 (black). Seen 1 Nov 2026: $44.72 Amazon.ca white Large, $83.26 black Large; $50.98 Team Town in both colours (was $59.99), $60.98 with shipping; $60 Mizuno Canada.",
+                                           "targetOther":  36,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Amazon",
+                                                              "condition":  "new",
+                                                              "title":  "Mizuno LR6 Pro ECO Volleyball Knee Pads | Womens Large (L) | White",
+                                                              "price":  44.72,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  44.72,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  44.72,
+                                                              "url":  "https://www.amazon.ca/dp/B0C54189S6?th=1\u0026psc=1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:22:31Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|teamtown|2",
+                                                              "retailer":  "teamtown",
+                                                              "retailerName":  "Team Town Sports",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "LR6 Pro Volleyball Kneepads",
+                                                              "price":  50.98,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  50.98,
+                                                              "shipping":  10,
+                                                              "shippingEstimated":  false,
+                                                              "total":  60.98,
+                                                              "url":  "https://www.teamtownsports.com/en_CA/sports/volleyball/knee-pads/mizuno/lr6-pro-volleyball-kneepads/9032409.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:22:31Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|mizuno|3",
+                                                              "retailer":  "mizuno",
+                                                              "retailerName":  "Mizuno Canada",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "LR6 Pro Volleyball Kneepad",
+                                                              "price":  60,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  60,
+                                                              "shipping":  10,
+                                                              "shippingEstimated":  true,
+                                                              "total":  70,
+                                                              "url":  "https://can.mizuno.com/volleyball-lr6-pro-knee-pad",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:22:31Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Mizuno LR6 Pro ECO Volleyball Knee Pads | Womens Large (L) | Black",
+                                                              "price":  83.26,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  83.26,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  83.26,
+                                                              "url":  "https://www.amazon.ca/dp/B0C541D5D2?th=1\u0026psc=1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:22:31Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Sport Chek",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.sportchek.ca/en/search-results.html?q=Mizuno%20LR6%20Pro%20knee%20pad"
+                                                               },
+                                                               {
+                                                                   "name":  "Canadian Tire",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.canadiantire.ca/en/search-results.html?q=Mizuno%20LR6%20Pro%20knee%20pad"
+                                                               },
+                                                               {
+                                                                   "name":  "Sportwheels (Nova Scotia)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20LR6%20Pro%20knee%20pad"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "mizuno-t10-plus",
+                                           "name":  "Mizuno T10 Plus (one size)",
+                                           "typical":  30,
+                                           "target":  24,
+                                           "why":  "The usual libero pick and the cheapest of the three: a 9-inch sleeve that covers the top of the shin and some thigh, where you land on slides. One size (knee 12-17.5 in), so no Large to choose, and one reviewer found it a bit loose. Mizuno style 480121. Amazon.ca ASINs B00OP86QSS (black) and B00P9OJERW (white). Seen 1 Nov 2026: $27.34 Amazon.ca white, $29.99 black; $29.99 Sport Chek and Canadian Tire; $30 Mizuno Canada, about $40 with shipping.",
+                                           "targetOther":  19,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Amazon",
+                                                              "condition":  "new",
+                                                              "title":  "Mizuno 480121.0000.10.ONE T10 Plus Volleyball Kneepad",
+                                                              "price":  27.34,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  27.34,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  27.34,
+                                                              "url":  "https://www.amazon.ca/dp/B00P9OJERW?th=1\u0026psc=1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:20:59Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Mizuno 480121.9090.10.ONE T10 Plus Volleyball Kneepad",
+                                                              "price":  29.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  29.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  29.99,
+                                                              "url":  "https://www.amazon.ca/dp/B00OP86QSS?th=1\u0026psc=1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:20:59Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|mizuno|2",
+                                                              "retailer":  "mizuno",
+                                                              "retailerName":  "Mizuno Canada",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "T10 Plus Kneepad",
+                                                              "price":  30,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  30,
+                                                              "shipping":  10,
+                                                              "shippingEstimated":  true,
+                                                              "total":  40,
+                                                              "url":  "https://can.mizuno.com/volleyball-t10-plus-kneepad",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:20:59Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Sport Chek",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.sportchek.ca/en/search-results.html?q=Mizuno%20T10%20Plus"
+                                                               },
+                                                               {
+                                                                   "name":  "Canadian Tire",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.canadiantire.ca/en/search-results.html?q=Mizuno%20T10%20Plus"
+                                                               },
+                                                               {
+                                                                   "name":  "Sportwheels (Nova Scotia)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20T10%20Plus"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "mizuno-lr6",
+                                           "name":  "Mizuno LR6 (Large)",
+                                           "typical":  50,
+                                           "target":  40,
+                                           "why":  "The one you know, so the fit is a sure thing, but it\u0027s the thinnest pad here. Mizuno style 480105. Amazon.ca ASINs B00114V4S6 (black), B001150J36 (white) and B01NABMUMY (navy); those titles don\u0027t all say Large, so only these are counted. Seen 1 Nov 2026: $48.93 Amazon.ca black or white Large, $56.07 navy; $41.98 Team Town (was $49.99), $51.98 with shipping; $50 Mizuno Canada; $44.99 Sportwheels. Team Town has sold it at $34.98-39.98 before, which is $44.98-49.98 with shipping.",
+                                           "targetOther":  32,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Amazon",
+                                                              "condition":  "new",
+                                                              "title":  "Mizuno LR6 Volleyball Kneepad",
+                                                              "price":  48.93,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  48.93,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  48.93,
+                                                              "url":  "https://www.amazon.ca/dp/B001150J36?th=1\u0026psc=1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:21:09Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Mizuno LR6 Volleyball Kneepad",
+                                                              "price":  48.93,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  48.93,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  48.93,
+                                                              "url":  "https://www.amazon.ca/dp/B00114V4S6?th=1\u0026psc=1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:21:09Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|teamtown|2",
+                                                              "retailer":  "teamtown",
+                                                              "retailerName":  "Team Town Sports",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "LR6 Volleyball Kneepads",
+                                                              "price":  41.98,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  41.98,
+                                                              "shipping":  10,
+                                                              "shippingEstimated":  false,
+                                                              "total":  51.98,
+                                                              "url":  "https://www.teamtownsports.com/en_CA/sports/volleyball/knee-pads/mizuno/lr6-volleyball-kneepads/9022267.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:21:09Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Mizuno LR6 Kneepads, Navy, Large",
+                                                              "price":  56.07,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  56.07,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  56.07,
+                                                              "url":  "https://www.amazon.ca/dp/B01NABMUMY?th=1\u0026psc=1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:21:09Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|mizuno|3",
+                                                              "retailer":  "mizuno",
+                                                              "retailerName":  "Mizuno Canada",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "LR6 Kneepad",
+                                                              "price":  50,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  50,
+                                                              "shipping":  10,
+                                                              "shippingEstimated":  true,
+                                                              "total":  60,
+                                                              "url":  "https://can.mizuno.com/volleyball-lr6-kneepad",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-01T22:21:09Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Sport Chek",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.sportchek.ca/en/search-results.html?q=Mizuno%20LR6"
+                                                               },
+                                                               {
+                                                                   "name":  "Canadian Tire",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.canadiantire.ca/en/search-results.html?q=Mizuno%20LR6"
+                                                               },
+                                                               {
+                                                                   "name":  "Sportwheels (Nova Scotia)",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20LR6"
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       }
+                                   ]
                      }
                  ],
     "bought":  [
-
+                   {
+                       "id":  "speakerphones",
+                       "title":  "Speakerphones",
+                       "since":  "2026-11-01T22:20:24Z"
+                   }
                ],
     "repo":  {
                  "owner":  "snarf1h",
