@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-02T00:40:19Z",
+    "generatedAt":  "2026-11-02T06:04:33Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -3042,7 +3042,7 @@ window.PRICE_DATA = {
                                            "name":  "Mizuno LR6 Pro (Large)",
                                            "typical":  60,
                                            "target":  45,
-                                           "why":  "Top pick. The same low-rise cut and sizing as your LR6s, with more cushioning (tri-density foam) and a grip texture to keep it in place, so your usual Large should carry over. Mizuno style 480211. Amazon.ca ASINs B0C54189S6 (white) and B0C541D5D2 (black). Seen 1 Nov 2026: $44.72 Amazon.ca white Large, $83.26 black Large; $50.98 Team Town in both colours (was $59.99), $60.98 with shipping; $60 Mizuno Canada.",
+                                           "why":  "Top pick. The same low-rise cut and sizing as your LR6s, with more cushioning (tri-density foam) and a grip texture to keep it in place, so your usual Large should carry over. Mizuno style 480211. Amazon.ca ASINs B0C54189S6 (white) and B0C541D5D2 (black). Seen 1 Nov 2026: $44.72 Amazon.ca white Large, sold and shipped by Amazon.ca but quoted for delivery Nov 22 to Dec 13; that listing\u0027s faster offers start at $83.87, from third-party sellers rated 44-72% positive. Black Large $83.26 (NelsonLife, a third-party seller); $50.98 Team Town in both colours (was $59.99), $60.98 with shipping; $60 Mizuno Canada.",
                                            "targetOther":  36,
                                            "offers":  [
                                                           {
@@ -3066,7 +3066,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-02T00:40:19Z",
+                                                              "lastSeen":  "2026-11-02T06:04:33Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3090,7 +3090,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-02T00:40:19Z",
+                                                              "lastSeen":  "2026-11-02T06:04:33Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3114,7 +3114,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-02T00:40:19Z",
+                                                              "lastSeen":  "2026-11-02T06:04:33Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3138,7 +3138,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-02T00:40:19Z",
+                                                              "lastSeen":  "2026-11-02T06:04:33Z",
                                                               "stale":  false
                                                           }
                                                       ],
