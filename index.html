@@ -72,6 +72,10 @@
   .links { display: flex; flex-wrap: wrap; gap: 8px; }
   .links a { border: 1px solid var(--hairline); background: var(--surface); border-radius: 8px; padding: 6px 10px; font-size: 13.5px; }
   .errs { color: var(--muted); font-size: 12.5px; margin-top: 10px; }
+  .dd { margin-top: 4px; font-size: 12.5px; }
+  .dd summary { cursor: pointer; color: var(--link); width: max-content; max-width: 100%; }
+  .dd .ddrow { margin-top: 4px; overflow-wrap: anywhere; }
+  tr.manual td { background: color-mix(in srgb, var(--hairline) 30%, transparent); }
 
   /* chart */
   .chart { padding: 12px 14px 8px; position: relative; }
@@ -194,9 +198,28 @@
     return '<svg class="spark" viewBox="0 0 ' + w + ' ' + h + '" role="img" aria-label="Recent price trend (new)"><path d="' + d + '" fill="none" stroke="var(--series-1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg>';
   }
 
+  // Stores the tracker can't check (they block automated checks): a drop-down under each item on the list, and rows
+  // at the end of the "every option" table. An item can carry exact product pages with a dated price note.
+  function linksDropdown(hp) {
+    var links = hp.manualLinks || [];
+    if (!links.length) return '';
+    return '<details class="dd"><summary>' + links.length + ' more store' + (links.length === 1 ? '' : 's') + ' to check yourself</summary>' +
+      links.map(function (l) {
+        return '<div class="ddrow"><a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.name) + ' ↗</a>' + (l.inStore ? ' <span class="badge tag">in-store</span>' : '') +
+          (l.note ? ' <span class="meta">seen ' + esc(l.note) + '</span>' : '') + '</div>';
+      }).join('') + '</details>';
+  }
+  function manualRow(l) {
+    return '<tr class="manual"><td><a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.name) + ' ↗</a><div>' +
+      (l.inStore ? '<span class="badge tag" title="Can be bought or picked up in person in Edmonton">in-store</span> ' : '') +
+      '<span class="badge warn" title="This store blocks automated checks, so the tracker can\'t see its price">not checked</span></div></td>' +
+      '<td><div class="t-notes">' + (l.note ? 'Seen ' + esc(l.note) + '. ' : 'Opens a search for this item. ') + 'Open the store for today\'s price.</div></td>' +
+      '<td class="num none">–</td><td class="num none">–</td><td class="num none">–</td><td><a href="' + esc(l.url) + '" target="_blank" rel="noopener">check ↗</a></td></tr>';
+  }
+
   function itemRow(hp, hist, subPrefix, extraBody) {
     return '<div class="row"><div class="name"><a href="#/h/' + esc(hp.id) + '">' + esc(hp.name) + '</a>' +
-      '<div class="sub">' + (subPrefix || '') + hp.offers.length + ' listing' + (hp.offers.length === 1 ? '' : 's') + ' · typical ' + money0(hp.typical) + ' · <a href="#/h/' + esc(hp.id) + '">all options →</a></div></div>' +
+      '<div class="sub">' + (subPrefix || '') + hp.offers.length + ' listing' + (hp.offers.length === 1 ? '' : 's') + ' · typical ' + money0(hp.typical) + ' · <a href="#/h/' + esc(hp.id) + '">all options →</a></div>' + linksDropdown(hp) + '</div>' +
       '<div>' + lineHtml(hp, best(hp, true), 'new') + lineHtml(hp, best(hp, false), 'other') + (extraBody || '') + '</div>' +
       '<div class="sparkcell">' + sparkline(hist[hp.id] || []) + '</div></div>';
   }
@@ -336,8 +359,9 @@
       '<p class="meta">3-year cost = price + ' + esc(mp.electricity.label) + '. Pre-tax.</p>';
   }
 
-  function offerTable(hp, offers, bestOffer) {
-    if (!offers.length) return '<p class="none">Nothing found right now.</p>';
+  function offerTable(hp, offers, bestOffer, manual) {
+    manual = manual || [];
+    if (!offers.length && !manual.length) return '<p class="none">Nothing found right now.</p>';
     var sorted = offers.slice().sort(function (a, b) { return (b.inStock - a.inStock) || (a.total - b.total); });
     return '<div class="card tablewrap"><table><thead><tr><th>Store</th><th>Listing</th><th class="num">Price</th><th class="num">Shipping</th><th class="num">Total</th><th>vs your line</th></tr></thead><tbody>' +
       sorted.map(function (o) {
@@ -350,7 +374,7 @@
           '<td class="num">' + money(o.priceCad) + (o.currency !== 'CAD' ? '<div class="t-notes">' + esc(o.currency) + ' ' + o.price.toFixed(2) + '</div>' : '') + '</td>' +
           '<td class="num">' + (o.shipping > 0 ? (o.shippingEstimated ? '~' : '') + money(o.shipping) : (o.shippingEstimated ? '~free' : 'free')) + '</td>' +
           '<td class="num total">' + money(o.total) + '</td><td>' + (o.inStock && !o.newCustomerOnly && !o.unverifiedSeller ? deltaHtml(o, hp) : '<span class="none">–</span>') + '</td></tr>';
-      }).join('') + '</tbody></table></div>';
+      }).join('') + manual.map(manualRow).join('') + '</tbody></table></div>';
   }
 
   function chartHtml(hp, series) {
@@ -416,10 +440,9 @@
       '<div class="card tile"><div class="k">Your no-brainer lines</div><div class="v">' + money0(hp.target) + ' <span style="font-size:15px;font-weight:500;color:var(--ink-2)">new</span></div><div class="s">' + money0(otherLine(hp)) + ' open-box / refurbished · typical ' + money0(hp.typical) + ' · pre-tax</div></div></div>' +
       (isPc ? specsHtml(mp, hp, bn) : '') +
       '<h2>Price history</h2>' + chartHtml(hp, hist[hp.id] || []) +
-      '<h2>New — every option</h2>' + offerTable(hp, hp.offers.filter(isNew), bn) +
+      '<h2>New — every option</h2>' + offerTable(hp, hp.offers.filter(isNew), bn, hp.manualLinks) +
+      ((hp.manualLinks || []).length ? '<p class="meta" style="margin:6px 0 0">Rows marked “not checked” are stores that block automated price checks: open them to see today’s price. In-store ones have Edmonton-area locations.</p>' : '') +
       '<h2>Open-box &amp; refurbished</h2>' + offerTable(hp, hp.offers.filter(function (o) { return !isNew(o); }), bo) +
-      '<h2>Stores to check yourself</h2><p class="meta" style="margin:0 0 8px">These stores block automated price checks, so open them directly. Those marked in-store have Edmonton locations.</p><div class="links">' +
-      hp.manualLinks.map(function (l) { return '<a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.name) + (l.inStore ? ' · in-store' : '') + ' ↗</a>'; }).join('') + '</div>' +
       (hp.errors && hp.errors.length ? '<div class="errs">Couldn’t reach on the last refresh: ' + hp.errors.map(function (e) { return esc(e.retailer); }).join(', ') + '. Last known prices are shown where available.</div>' : '');
     if ((hist[hp.id] || []).length) wireChart(hist[hp.id]);
   }
