@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-04T06:40:20Z",
+    "generatedAt":  "2026-11-04T07:06:15Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -2975,7 +2975,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:01:39Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2999,7 +2999,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:01:39Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3023,7 +3023,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:01:39Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3047,7 +3047,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:01:39Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3071,30 +3071,28 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:01:39Z",
                                                               "stale":  false
                                                           }
                                                       ],
                                            "manualLinks":  [
                                                                {
-                                                                   "name":  "Source for Sports (St. Albert store)",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.sourceforsports.ca/search?q=Mizuno%20LR6%20Pro%20knee%20pad"
-                                                               },
-                                                               {
                                                                    "name":  "Sport Chek",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.sportchek.ca/en/search-results.html?q=Mizuno%20LR6%20Pro%20knee%20pad"
+                                                                   "url":  "https://www.sportchek.ca/en/pdp/mizuno-lr6-volleyball-pro-knee-pads-80592276f.html",
+                                                                   "note":  "$59.99 on 3 Nov, sizes S/M/L; free 1-hour pickup"
                                                                },
                                                                {
-                                                                   "name":  "Canadian Tire",
+                                                                   "name":  "Source for Sports (St. Albert store)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.canadiantire.ca/en/search-results.html?q=Mizuno%20LR6%20Pro%20knee%20pad"
+                                                                   "url":  "https://www.sourceforsports.ca/products/mizuno-lr6-pro-volleyball-knee-pads",
+                                                                   "note":  "$59.99 on 1 Nov; call the St. Albert store about stock"
                                                                },
                                                                {
                                                                    "name":  "Sportwheels (Nova Scotia)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20LR6%20Pro%20knee%20pad"
+                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20LR6%20Pro%20knee%20pad",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -3130,7 +3128,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:02:49Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3154,7 +3152,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:02:49Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3178,7 +3176,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:02:49Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3202,30 +3200,34 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:02:49Z",
                                                               "stale":  false
                                                           }
                                                       ],
                                            "manualLinks":  [
                                                                {
-                                                                   "name":  "Source for Sports (St. Albert store)",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.sourceforsports.ca/search?q=Mizuno%20T10%20Plus"
-                                                               },
-                                                               {
                                                                    "name":  "Sport Chek",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.sportchek.ca/en/search-results.html?q=Mizuno%20T10%20Plus"
+                                                                   "url":  "https://www.sportchek.ca/en/pdp/mizuno-t10-plus-knee-pads-38595630f.html",
+                                                                   "note":  "$29.99 on 1 Nov; free 1-hour pickup"
                                                                },
                                                                {
                                                                    "name":  "Canadian Tire",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.canadiantire.ca/en/search-results.html?q=Mizuno%20T10%20Plus"
+                                                                   "url":  "https://www.canadiantire.ca/en/pdp/mizuno-t10-plus-adult-junior-unisex-slim-profile-volleyball-knee-pads-black-0847984p.html",
+                                                                   "note":  "$29.99 on 1 Nov (black)"
+                                                               },
+                                                               {
+                                                                   "name":  "Source for Sports (St. Albert store)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.sourceforsports.ca/products/mizuno-t10-plus-volleyball-kneepads",
+                                                                   "note":  "$29.99 on 1 Nov; call the St. Albert store about stock"
                                                                },
                                                                {
                                                                    "name":  "Sportwheels (Nova Scotia)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20T10%20Plus"
+                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20T10%20Plus",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -3261,7 +3263,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:06:15Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3285,7 +3287,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:06:15Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3310,7 +3312,7 @@ window.PRICE_DATA = {
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
                                                               "lastSeen":  "2026-11-04T06:40:20Z",
-                                                              "stale":  false
+                                                              "stale":  true
                                                           },
                                                           {
                                                               "sourceKey":  "shopify-catalog|unitedsport|4",
@@ -3334,7 +3336,7 @@ window.PRICE_DATA = {
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
                                                               "lastSeen":  "2026-11-04T06:40:20Z",
-                                                              "stale":  false
+                                                              "stale":  true
                                                           },
                                                           {
                                                               "sourceKey":  "page|teamtown|2",
@@ -3357,7 +3359,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:06:15Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3381,7 +3383,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:06:15Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3405,34 +3407,36 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:06:15Z",
                                                               "stale":  false
                                                           }
                                                       ],
                                            "manualLinks":  [
                                                                {
-                                                                   "name":  "Source for Sports (St. Albert store)",
-                                                                   "inStore":  true,
-                                                                   "url":  "https://www.sourceforsports.ca/search?q=Mizuno%20LR6"
-                                                               },
-                                                               {
                                                                    "name":  "Sport Chek",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.sportchek.ca/en/search-results.html?q=Mizuno%20LR6"
+                                                                   "url":  "https://www.sportchek.ca/en/pdp/mizuno-lr6-volleyball-knee-pads-38595622f.html",
+                                                                   "note":  "$49.99 on 1 Nov; free 1-hour pickup"
                                                                },
                                                                {
-                                                                   "name":  "Canadian Tire",
+                                                                   "name":  "Source for Sports (St. Albert store)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.canadiantire.ca/en/search-results.html?q=Mizuno%20LR6"
+                                                                   "url":  "https://www.sourceforsports.ca/products/mizuno-lr6-volleyball-kneepads",
+                                                                   "note":  "$49.99 on 1 Nov; call the St. Albert store about stock"
                                                                },
                                                                {
                                                                    "name":  "Sportwheels (Nova Scotia)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.sportwheels.ca/search?q=Mizuno%20LR6"
+                                                                   "url":  "https://www.sportwheels.ca/products/mizuno-lr6-kneepad",
+                                                                   "note":  "$44.99 on 1 Nov, plus shipping (free over $199)"
                                                                }
                                                            ],
                                            "errors":  [
-
+                                                          {
+                                                              "retailer":  "United Sport (Edmonton)",
+                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
+                                                              "at":  "2026-11-04T07:06:15Z"
+                                                          }
                                                       ]
                                        }
                                    ]
