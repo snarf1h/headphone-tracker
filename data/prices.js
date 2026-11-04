@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-04T07:06:15Z",
+    "generatedAt":  "2026-11-04T07:38:16Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -36,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -60,7 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,7 +84,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -228,7 +228,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -252,7 +252,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           }
                                       ],
@@ -260,34 +260,39 @@ window.PRICE_DATA = {
                                                {
                                                    "name":  "Walmart.ca",
                                                    "inStore":  true,
-                                                   "url":  "https://www.walmart.ca/en/search?q=Sennheiser%20Momentum%205%20Wireless"
+                                                   "url":  "https://www.walmart.ca/en/search?q=Sennheiser%20Momentum%205%20Wireless",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "Memory Express",
                                                    "inStore":  true,
-                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Sennheiser%20Momentum%205%20Wireless"
+                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Sennheiser%20Momentum%205%20Wireless",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "Visions",
                                                    "inStore":  true,
-                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Sennheiser%20Momentum%205%20Wireless"
+                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Sennheiser%20Momentum%205%20Wireless",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "London Drugs",
                                                    "inStore":  true,
-                                                   "url":  "https://www.londondrugs.com/search?q=Sennheiser%20Momentum%205%20Wireless"
+                                                   "url":  "https://www.londondrugs.com/search?q=Sennheiser%20Momentum%205%20Wireless",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "B\u0026H (US)",
                                                    "inStore":  false,
-                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Sennheiser%20Momentum%205%20Wireless"
+                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Sennheiser%20Momentum%205%20Wireless",
+                                                   "note":  null
                                                }
                                            ],
                            "errors":  [
                                           {
                                               "retailer":  "Sennheiser Canada",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-11-04T06:40:20Z"
+                                              "at":  "2026-11-04T07:38:16Z"
                                           }
                                       ]
                        },
@@ -320,7 +325,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -344,7 +349,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -368,7 +373,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -392,7 +397,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -416,7 +421,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -440,7 +445,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -464,7 +469,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -488,7 +493,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -512,7 +517,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -536,7 +541,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -560,7 +565,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -584,7 +589,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -608,7 +613,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -632,7 +637,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -656,7 +661,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -680,7 +685,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -704,7 +709,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -728,7 +733,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -752,7 +757,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -776,7 +781,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -800,7 +805,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -824,7 +829,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -848,7 +853,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -872,7 +877,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -896,7 +901,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -920,7 +925,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -930,12 +935,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "WH1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
-                                              "price":  498.99,
+                                              "price":  499.99,
                                               "currency":  "CAD",
-                                              "priceCad":  498.99,
+                                              "priceCad":  499.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  498.99,
+                                              "total":  499.99,
                                               "url":  "https://www.amazon.ca/dp/B0F4DMPMCM",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -944,7 +949,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           }
                                       ],
@@ -952,27 +957,32 @@ window.PRICE_DATA = {
                                                {
                                                    "name":  "Walmart.ca",
                                                    "inStore":  true,
-                                                   "url":  "https://www.walmart.ca/en/search?q=Sony%20WH-1000XM6"
+                                                   "url":  "https://www.walmart.ca/en/search?q=Sony%20WH-1000XM6",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "Memory Express",
                                                    "inStore":  true,
-                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Sony%20WH-1000XM6"
+                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Sony%20WH-1000XM6",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "Visions",
                                                    "inStore":  true,
-                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Sony%20WH-1000XM6"
+                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Sony%20WH-1000XM6",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "London Drugs",
                                                    "inStore":  true,
-                                                   "url":  "https://www.londondrugs.com/search?q=Sony%20WH-1000XM6"
+                                                   "url":  "https://www.londondrugs.com/search?q=Sony%20WH-1000XM6",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "B\u0026H (US)",
                                                    "inStore":  false,
-                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Sony%20WH-1000XM6"
+                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Sony%20WH-1000XM6",
+                                                   "note":  null
                                                }
                                            ],
                            "errors":  [
@@ -1008,7 +1018,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1032,7 +1042,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1056,7 +1066,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1080,7 +1090,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1104,7 +1114,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1128,7 +1138,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1152,7 +1162,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1176,7 +1186,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1200,7 +1210,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1224,7 +1234,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1248,7 +1258,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1272,31 +1282,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|5",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Midnight Violet",
-                                              "price":  499.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  499.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  499.99,
-                                              "url":  "https://www.staples.ca/products/3176369-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-midnight-violet",
-                                              "inStock":  false,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1320,7 +1306,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|5",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Midnight Violet",
+                                              "price":  499.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  499.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  499.99,
+                                              "url":  "https://www.staples.ca/products/3176369-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-midnight-violet",
+                                              "inStock":  false,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1344,7 +1354,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1368,7 +1378,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Driftwood Sand",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627188",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1392,7 +1426,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1416,7 +1450,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1440,7 +1474,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           },
                                           {
@@ -1464,7 +1498,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1472,27 +1506,32 @@ window.PRICE_DATA = {
                                                {
                                                    "name":  "Walmart.ca",
                                                    "inStore":  true,
-                                                   "url":  "https://www.walmart.ca/en/search?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen"
+                                                   "url":  "https://www.walmart.ca/en/search?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "Memory Express",
                                                    "inStore":  true,
-                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen"
+                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "Visions",
                                                    "inStore":  true,
-                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen"
+                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "London Drugs",
                                                    "inStore":  true,
-                                                   "url":  "https://www.londondrugs.com/search?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen"
+                                                   "url":  "https://www.londondrugs.com/search?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen",
+                                                   "note":  null
                                                },
                                                {
                                                    "name":  "B\u0026H (US)",
                                                    "inStore":  false,
-                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen"
+                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Bose%20QuietComfort%20Ultra%20Headphones%202nd%20Gen",
+                                                   "note":  null
                                                }
                                            ],
                            "errors":  [
@@ -1512,9 +1551,33 @@ window.PRICE_DATA = {
                                            "name":  "Frigidaire FMOS1846BS",
                                            "typical":  429,
                                            "target":  349,
-                                           "why":  "Top pick. 1.8 cu ft, 300 CFM, no sensor cooking. Fewest complaints of the shortlist (about 1% of ~3,500 reviews are 1-2 stars). 41.6 cm tall, the same as the current microwave. Seen 13 Oct 2026: $425 Leon\u0027s and Visions, $428 Home Depot, $429.99 Best Buy.",
+                                           "why":  "Top pick. 1.8 cu ft, 300 CFM, no sensor cooking. Fewest complaints of the shortlist (about 1% of ~3,500 reviews are 1-2 stars). 41.6 cm tall, the same as the current microwave. Seen 13 Oct 2026: $425 Leon\u0027s and Visions, $428 Home Depot, $429.99 Best Buy. Best Buy stopped selling it new around 22 Oct 2026; only its own open-box listing (SKU 16666003, $349.99, sold out on 4 Nov) is checked there now.",
                                            "targetOther":  279,
                                            "offers":  [
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "open-box",
+                                                              "title":  "Open Box - Frigidaire Over-The-Range Microwave - 1.8 Cu. Ft. - Stainless Steel - Perfect Condition",
+                                                              "price":  349.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  349.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  349.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/open-box-frigidaire-over-the-range-microwave-1-8-cu-ft-stainless-steel-perfect-condition/16666003",
+                                                              "inStock":  false,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          },
                                                           {
                                                               "sourceKey":  "homedepot|homedepot|2",
                                                               "retailer":  "homedepot",
@@ -1537,7 +1600,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1561,7 +1624,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1569,40 +1632,42 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=FMOS1846BS"
+                                                                   "url":  "https://www.thebrick.com/search?q=FMOS1846BS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=FMOS1846BS"
+                                                                   "url":  "https://www.leons.ca/search?q=FMOS1846BS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOS1846BS"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOS1846BS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOS1846BS"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOS1846BS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOS1846BS"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOS1846BS",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
-                                                          {
-                                                              "retailer":  "Best Buy",
-                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (404) Not Found.\"",
-                                                              "at":  "2026-11-04T06:40:20Z"
-                                                          }
+
                                                       ]
                                        },
                                        {
@@ -1610,11 +1675,11 @@ window.PRICE_DATA = {
                                            "name":  "Frigidaire FMOW1852AS",
                                            "typical":  449,
                                            "target":  369,
-                                           "why":  "The FMOS1846BS with sensor cooking and a recessed handle. 1.8 cu ft, 300 CFM. 3 of 239 reviews are 1-2 stars. 41.6 cm tall. Seen 13 Oct 2026: $445 The Brick, Leon\u0027s and Visions, $448 Home Depot, $449.99 Best Buy.",
+                                           "why":  "The FMOS1846BS with sensor cooking and a recessed handle. 1.8 cu ft, 300 CFM. 3 of 239 reviews are 1-2 stars. 41.6 cm tall. Seen 13 Oct 2026: $445 The Brick, Leon\u0027s and Visions, $448 Home Depot, $449.99 Best Buy. Best Buy stopped listing it around 22 Oct 2026 (Marketplace sellers only since), so it isn\u0027t checked there.",
                                            "targetOther":  295,
                                            "offers":  [
                                                           {
-                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "sourceKey":  "homedepot|homedepot|1",
                                                               "retailer":  "homedepot",
                                                               "retailerName":  "Home Depot",
                                                               "seller":  "",
@@ -1635,7 +1700,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1643,40 +1708,42 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=FMOW1852AS"
+                                                                   "url":  "https://www.thebrick.com/search?q=FMOW1852AS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=FMOW1852AS"
+                                                                   "url":  "https://www.leons.ca/search?q=FMOW1852AS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOW1852AS"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOW1852AS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOW1852AS"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOW1852AS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOW1852AS"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOW1852AS",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
-                                                          {
-                                                              "retailer":  "Best Buy",
-                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (404) Not Found.\"",
-                                                              "at":  "2026-11-04T06:40:20Z"
-                                                          }
+
                                                       ]
                                        },
                                        {
@@ -1684,11 +1751,11 @@ window.PRICE_DATA = {
                                            "name":  "Whirlpool YWMMS3230SZ",
                                            "typical":  429,
                                            "target":  359,
-                                           "why":  "1.9 cu ft with sensor cooking, 300 CFM. Consumer Reports rates Whirlpool\u0027s over-the-range reliability very good; a newer model with few reviews. 43.5 cm tall, so it hangs 2 cm lower than the current one. Seen 13 Oct 2026: $425 The Brick and Leon\u0027s, $428 Home Depot, $429.99 Best Buy (reg $529.99).",
+                                           "why":  "1.9 cu ft with sensor cooking, 300 CFM. Consumer Reports rates Whirlpool\u0027s over-the-range reliability very good; a newer model with few reviews. 43.5 cm tall, so it hangs 2 cm lower than the current one. Seen 13 Oct 2026: $425 The Brick and Leon\u0027s, $428 Home Depot, $429.99 Best Buy (reg $529.99). Best Buy stopped listing it around 22 Oct 2026, so it isn\u0027t checked there.",
                                            "targetOther":  287,
                                            "offers":  [
                                                           {
-                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "sourceKey":  "homedepot|homedepot|1",
                                                               "retailer":  "homedepot",
                                                               "retailerName":  "Home Depot",
                                                               "seller":  "",
@@ -1709,7 +1776,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE, SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1717,40 +1784,42 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=YWMMS3230SZ"
+                                                                   "url":  "https://www.thebrick.com/search?q=YWMMS3230SZ",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=YWMMS3230SZ"
+                                                                   "url":  "https://www.leons.ca/search?q=YWMMS3230SZ",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=YWMMS3230SZ"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=YWMMS3230SZ",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=YWMMS3230SZ"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=YWMMS3230SZ",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=YWMMS3230SZ"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=YWMMS3230SZ",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
-                                                          {
-                                                              "retailer":  "Best Buy",
-                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (404) Not Found.\"",
-                                                              "at":  "2026-11-04T06:40:20Z"
-                                                          }
+
                                                       ]
                                        },
                                        {
@@ -1782,7 +1851,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1807,8 +1876,8 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-03T18:40:20Z",
-                                                              "stale":  true
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
                                                           },
                                                           {
                                                               "sourceKey":  "bestbuy|bestbuy|1",
@@ -1831,7 +1900,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1839,40 +1908,42 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=GMOS1962AF"
+                                                                   "url":  "https://www.thebrick.com/search?q=GMOS1962AF",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=GMOS1962AF"
+                                                                   "url":  "https://www.leons.ca/search?q=GMOS1962AF",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=GMOS1962AF"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=GMOS1962AF",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=GMOS1962AF"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=GMOS1962AF",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=GMOS1962AF"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=GMOS1962AF",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
-                                                          {
-                                                              "retailer":  "Home Depot",
-                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The operation has timed out\"",
-                                                              "at":  "2026-11-04T06:40:20Z"
-                                                          }
+
                                                       ]
                                        },
                                        {
@@ -1905,8 +1976,8 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-03T18:40:20Z",
-                                                              "stale":  true
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
                                                           },
                                                           {
                                                               "sourceKey":  "bestbuy|bestbuy|1",
@@ -1929,7 +2000,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1937,40 +2008,42 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=FMOS174CBS"
+                                                                   "url":  "https://www.thebrick.com/search?q=FMOS174CBS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=FMOS174CBS"
+                                                                   "url":  "https://www.leons.ca/search?q=FMOS174CBS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOS174CBS"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=FMOS174CBS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOS174CBS"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=FMOS174CBS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOS174CBS"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=FMOS174CBS",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
-                                                          {
-                                                              "retailer":  "Home Depot",
-                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The operation has timed out\"",
-                                                              "at":  "2026-11-04T06:40:20Z"
-                                                          }
+
                                                       ]
                                        },
                                        {
@@ -2003,7 +2076,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2027,7 +2100,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2035,32 +2108,38 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=JVM1635SFC"
+                                                                   "url":  "https://www.thebrick.com/search?q=JVM1635SFC",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=JVM1635SFC"
+                                                                   "url":  "https://www.leons.ca/search?q=JVM1635SFC",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=JVM1635SFC"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=JVM1635SFC",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=JVM1635SFC"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=JVM1635SFC",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=JVM1635SFC"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=JVM1635SFC",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2072,11 +2151,11 @@ window.PRICE_DATA = {
                                            "name":  "Amana YAMV2307PFS",
                                            "typical":  329,
                                            "target":  279,
-                                           "why":  "Basic 1.6 cu ft, 300 CFM, no sensor cooking. About 4% of reviews are 1-2 stars. The tallest here (44.1 cm), so it hangs 2.6 cm lower than the current one. Seen 13 Oct 2026: $325 Leon\u0027s, $328 Home Depot, $329.99 Best Buy (reg $399.99).",
+                                           "why":  "Basic 1.6 cu ft, 300 CFM, no sensor cooking. About 4% of reviews are 1-2 stars. The tallest here (44.1 cm), so it hangs 2.6 cm lower than the current one. Seen 13 Oct 2026: $325 Leon\u0027s, $328 Home Depot, $329.99 Best Buy (reg $399.99). Best Buy stopped listing it around 22 Oct 2026, so it isn\u0027t checked there.",
                                            "targetOther":  223,
                                            "offers":  [
                                                           {
-                                                              "sourceKey":  "homedepot|homedepot|2",
+                                                              "sourceKey":  "homedepot|homedepot|1",
                                                               "retailer":  "homedepot",
                                                               "retailerName":  "Home Depot",
                                                               "seller":  "",
@@ -2097,7 +2176,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2105,40 +2184,42 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=YAMV2307PFS"
+                                                                   "url":  "https://www.thebrick.com/search?q=YAMV2307PFS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=YAMV2307PFS"
+                                                                   "url":  "https://www.leons.ca/search?q=YAMV2307PFS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=YAMV2307PFS"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=YAMV2307PFS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=YAMV2307PFS"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=YAMV2307PFS",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=YAMV2307PFS"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=YAMV2307PFS",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
-                                                          {
-                                                              "retailer":  "Best Buy",
-                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (404) Not Found.\"",
-                                                              "at":  "2026-11-04T06:40:20Z"
-                                                          }
+
                                                       ]
                                        },
                                        {
@@ -2170,7 +2251,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2194,7 +2275,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2202,32 +2283,38 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "The Brick",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.thebrick.com/search?q=over%20the%20range%20microwave%201.7"
+                                                                   "url":  "https://www.thebrick.com/search?q=over%20the%20range%20microwave%201.7",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Leon\u0027s",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.leons.ca/search?q=over%20the%20range%20microwave%201.7"
+                                                                   "url":  "https://www.leons.ca/search?q=over%20the%20range%20microwave%201.7",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Trail Appliances (all over-the-range)",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges"
+                                                                   "url":  "https://www.trailappliances.com/ab/categories/over-the-ranges",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=over%20the%20range%20microwave%201.7"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=over%20the%20range%20microwave%201.7",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Costco.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=over%20the%20range%20microwave%201.7"
+                                                                   "url":  "https://www.costco.ca/CatalogSearch?keyword=over%20the%20range%20microwave%201.7",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=over%20the%20range%20microwave%201.7"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=over%20the%20range%20microwave%201.7",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2272,7 +2359,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2280,27 +2367,32 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Memory Express",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=UGREEN%20FineTrack%202%20Duo%204%20Pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=UGREEN%20FineTrack%202%20Duo%204%20Pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "London Drugs",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                                   "url":  "https://www.londondrugs.com/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack"
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=UGREEN%20FineTrack%202%20Duo%204%20Pack",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2337,8 +2429,34 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|2",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "Ugreen Official Store (4.8 stars, 383 sold, 98.4% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "UGREEN FineTrack Mini Duo 2-in-1 Global Positioning Tracker, Smart Bluetooth Item   Locator,Anti-Lost Tag for Bags, Keys",
+                                                              "price":  27.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  27.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  27.99,
+                                                              "url":  "https://www.aliexpress.com/item/1005012784440166.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false,
+                                                              "stars":  4.8,
+                                                              "sold":  383
                                                           },
                                                           {
                                                               "sourceKey":  "aliexpress|aliexpress|2",
@@ -2362,7 +2480,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false,
                                                               "stars":  4.9,
                                                               "sold":  2000
@@ -2372,27 +2490,32 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=UGREEN%20FineTrack%202%20Duo"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=UGREEN%20FineTrack%202%20Duo",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Memory Express",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=UGREEN%20FineTrack%202%20Duo"
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=UGREEN%20FineTrack%202%20Duo",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=UGREEN%20FineTrack%202%20Duo"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=UGREEN%20FineTrack%202%20Duo",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "London Drugs",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=UGREEN%20FineTrack%202%20Duo"
+                                                                   "url":  "https://www.londondrugs.com/search?q=UGREEN%20FineTrack%202%20Duo",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=UGREEN%20FineTrack%202%20Duo"
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=UGREEN%20FineTrack%202%20Duo",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2428,7 +2551,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2436,27 +2559,32 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=Chipolo%20POP%204%20pack"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=Chipolo%20POP%204%20pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Memory Express",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Chipolo%20POP%204%20pack"
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Chipolo%20POP%204%20pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Chipolo%20POP%204%20pack"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Chipolo%20POP%204%20pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "London Drugs",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=Chipolo%20POP%204%20pack"
+                                                                   "url":  "https://www.londondrugs.com/search?q=Chipolo%20POP%204%20pack",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Chipolo%20POP%204%20pack"
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Chipolo%20POP%204%20pack",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2493,7 +2621,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Chipolo\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2517,7 +2645,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2541,7 +2669,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2565,7 +2693,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2573,27 +2701,32 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=Chipolo%20POP"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=Chipolo%20POP",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Memory Express",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Chipolo%20POP"
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Chipolo%20POP",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Chipolo%20POP"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=Chipolo%20POP",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "London Drugs",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=Chipolo%20POP"
+                                                                   "url":  "https://www.londondrugs.com/search?q=Chipolo%20POP",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Chipolo%20POP"
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=Chipolo%20POP",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2606,7 +2739,7 @@ window.PRICE_DATA = {
                          "id":  "mics",
                          "title":  "Wireless microphones",
                          "icon":  "🎤",
-                         "intro":  "DJI Mic Mini 2S kits (added 15 Oct 2026). No store had discounted them yet and camelcamelcamel shows the Amazon.ca prices unchanged since August, so the buy lines are set about 15% under the launch price, before GST; DJI\u0027s own sales usually run 10-20% off. Checked: Amazon.ca, Best Buy (sold by Best Buy; its total includes Best Buy\u0027s $12.99 shipping quote, but pickup at an Edmonton store is free), Staples, Canada Computers and The Camera Store (Calgary, free shipping over $99). DJI\u0027s own store shows US prices to automated checks, so it isn\u0027t tracked; Memory Express, London Drugs, Visions and Walmart block checks and are links on each item.",
+                         "intro":  "DJI Mic Mini 2S kits (added 15 Oct 2026). No store had discounted them yet and camelcamelcamel shows the Amazon.ca prices unchanged since August, so the buy lines are set about 15% under the launch price, before GST; DJI\u0027s own sales usually run 10-20% off. Checked: Amazon.ca, Best Buy (sold by Best Buy; its total includes Best Buy\u0027s $12.99 shipping quote, but pickup at an Edmonton store is free), Staples, Canada Computers and The Camera Store (Calgary, free shipping over $99). DJI\u0027s own store shows US prices to automated checks, so it isn\u0027t tracked; Memory Express, London Drugs, Visions and Walmart block checks and are links on each item. Three phone kits were added 4 Nov 2026 (Hollyland Lark M2S Duo, DJI Mic Mini 2 and RØDE Wireless Micro, each two mics with a USB-C phone receiver and a charging case); unlike the 2S, they record only through the phone, with no recording inside the mics.",
                          "items":  [
                                        {
                                            "id":  "dji-mic-mini-2s-1tx",
@@ -2637,7 +2770,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2661,7 +2794,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2685,7 +2818,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2709,7 +2842,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2733,7 +2866,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2741,32 +2874,38 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "Memory Express",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "London Drugs",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.londondrugs.com/search?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "DJI Store Canada",
                                                                    "inStore":  false,
-                                                                   "url":  "https://store.dji.com/ca/product/dji-mic-mini-2s"
+                                                                   "url":  "https://store.dji.com/ca/product/dji-mic-mini-2s",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2802,7 +2941,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2826,7 +2965,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2850,7 +2989,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2874,7 +3013,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2898,7 +3037,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2906,32 +3045,361 @@ window.PRICE_DATA = {
                                                                {
                                                                    "name":  "Memory Express",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "London Drugs",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.londondrugs.com/search?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.londondrugs.com/search?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Visions",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.visions.ca/catalogsearch/result/?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "Walmart.ca",
                                                                    "inStore":  true,
-                                                                   "url":  "https://www.walmart.ca/en/search?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.walmart.ca/en/search?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "DJI Store Canada",
                                                                    "inStore":  false,
-                                                                   "url":  "https://store.dji.com/ca/product/dji-mic-mini-2s"
+                                                                   "url":  "https://store.dji.com/ca/product/dji-mic-mini-2s",
+                                                                   "note":  null
                                                                },
                                                                {
                                                                    "name":  "B\u0026H (US)",
                                                                    "inStore":  false,
-                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=DJI%20Mic%20Mini%202S"
+                                                                   "url":  "https://www.bhphotovideo.com/c/search?q=DJI%20Mic%20Mini%202S",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "hollyland-lark-m2s-duo-usbc",
+                                           "name":  "Hollyland Lark M2S Duo (2 TX + USB-C RX + Charging Case)",
+                                           "typical":  139,
+                                           "target":  95,
+                                           "why":  "Best value phone kit: two 7 g mics, a USB-C phone receiver and a case that holds all three. 9 h per mic, 30 h with the case. No internal recording. Seen 4 Nov 2026: $124.70 RedOne Music (reg $139). In the US it has dropped to US$62.30 (about $87).",
+                                           "targetOther":  76,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|thecamerastore|5",
+                                                              "retailer":  "thecamerastore",
+                                                              "retailerName":  "The Camera Store (Calgary)",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Hollyland Lark M2S Wireless Mic",
+                                                              "price":  139,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  139,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  139,
+                                                              "url":  "https://www.thecamerastore.com/products/hollyland-lark-m2s-wireless-mic",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "JP Photo Video",
+                                                              "condition":  "new",
+                                                              "title":  "Hollyland Lark M2S Wireless Lavalier Microphone with USB-C Plug for iPhone 15/16 and Android, Titanium Clip, Plug-and-Play, Noise Cancelling, 300m Range, 27H Battery Life for Vlogging, YouTube",
+                                                              "price":  139,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  139,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  139,
+                                                              "url":  "https://www.amazon.ca/dp/B0DNQ8CLXR",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027JP Photo Video\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "RedOne Music",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://musicredone.com/products/hollyland-lark-m2s-duo-2-person-wireless-microphone-system-with-usb-c-connector-for-mobile-devices-2-4-ghz-space-gray",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Hollyland%20Lark%20M2S",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=Hollyland%20Lark%20M2S",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "dji-mic-mini-2-2tx-mobile",
+                                           "name":  "DJI Mic Mini 2 (2 TX + 1 Mobile RX + Charging Case)",
+                                           "typical":  119,
+                                           "target":  99,
+                                           "why":  "DJI\u0027s phone kit: two mics, the USB-C mobile receiver and a charging case. Longest battery here (11.5 h per mic, 48 h with the case). No internal recording, unlike the 2S. Seen 4 Nov 2026: $119 Amazon.ca (sold by Amazon.ca), $119 Dr Drone.",
+                                           "targetOther":  79,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|thecamerastore|5",
+                                                              "retailer":  "thecamerastore",
+                                                              "retailerName":  "The Camera Store (Calgary)",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2 (2 TX + 1 Mobile RX + Charging Case)",
+                                                              "price":  119,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  119,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  119,
+                                                              "url":  "https://www.thecamerastore.com/products/dji-mic-mini-2-2-tx-1-mobile-rx-charging-case",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Amazon",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2 (2 TX + 1 Mobile RX + Charging Case), Wireless Mic",
+                                                              "price":  119,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  119,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  119,
+                                                              "url":  "https://www.amazon.ca/dp/B0G39FV1HL",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|staples|3",
+                                                              "retailer":  "staples",
+                                                              "retailerName":  "Staples",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2 Wireless Microphone Kit with 2 Transmitters, Multi-Receiver and Charging Case",
+                                                              "price":  119.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  119.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  119.99,
+                                                              "url":  "https://www.staples.ca/products/3176685-en-dji-mic-mini-2-wireless-microphone-kit-with-2-transmitters-multi-receiver-and-charging-case",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|2",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "DJI Mic Mini 2 Wireless Microphone (2 TX + Mobile Receiver + Charging Case)",
+                                                              "price":  119.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  119.99,
+                                                              "shipping":  12.99,
+                                                              "shippingEstimated":  false,
+                                                              "total":  132.98,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/dji-mic-mini-2-wireless-microphone-2-tx-mobile-receiver-charging-case/19854433",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Dr Drone",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://drdrone.ca/collections/dji-mic-mini-2",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=DJI%20Mic%20Mini%202",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "London Drugs",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.londondrugs.com/search?q=DJI%20Mic%20Mini%202",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "DJI Store Canada",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://store.dji.com/ca/product/dji-mic-mini-2?set_region=CA",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "rode-wireless-micro-usbc",
+                                           "name":  "RØDE Wireless Micro (2 TX + USB-C RX + Charging Case)",
+                                           "typical":  139,
+                                           "target":  99,
+                                           "why":  "Third choice: smallest case (72 x 58 x 30 mm) and works with the phone\u0027s own recorder, but shortest battery (7 h per mic, 21 h with the case), no internal recording and a 6.6/10 SoundGuys score. Only worth it if it\u0027s cheaper than the other two. Seen 4 Nov 2026: $139 at Long \u0026 McQuade, Studio Economik and Music City. US low US$82.50 (about $115).",
+                                           "targetOther":  79,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|thecamerastore|5",
+                                                              "retailer":  "thecamerastore",
+                                                              "retailerName":  "The Camera Store (Calgary)",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Rode Wireless Micro",
+                                                              "price":  139,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  139,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  139,
+                                                              "url":  "https://www.thecamerastore.com/products/rode-wireless-micro",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "quick pix",
+                                                              "condition":  "new",
+                                                              "title":  "RØDE Wireless Micro - Compact Wireless Microphone, Two Mics with Charge Case for Smartphone Content Creation - USB-C, White",
+                                                              "price":  139,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  139,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  139,
+                                                              "url":  "https://www.amazon.ca/dp/B0DFXNYF6Y",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027quick pix\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "RØDE Wireless Micro - Compact Wireless Microphone, Two Mics with Charge Case for Smartphone Content Creation - USB-C, Black",
+                                                              "price":  139.97,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  139.97,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  139.97,
+                                                              "url":  "https://www.amazon.ca/dp/B0DFXQDTDT",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Long \u0026 McQuade (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.long-mcquade.com/410504/Pro-Audio-Recording/Wireless-Systems/Rode/Wireless-Micro-Ultra-Compact-Wireless-Microphone-USB-C-Black.htm",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Studio Economik",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.economik.com/search?q=RODE%20Wireless%20Micro",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=RODE%20Wireless%20Micro",
+                                                                   "note":  null
                                                                }
                                                            ],
                                            "errors":  [
@@ -2975,7 +3443,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:01:39Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3000,7 +3468,7 @@ window.PRICE_DATA = {
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
                                                               "lastSeen":  "2026-11-04T07:01:39Z",
-                                                              "stale":  false
+                                                              "stale":  true
                                                           },
                                                           {
                                                               "sourceKey":  "page|teamtown|2",
@@ -3023,7 +3491,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:01:39Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3047,7 +3515,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:01:39Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3071,7 +3539,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:01:39Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3096,7 +3564,11 @@ window.PRICE_DATA = {
                                                                }
                                                            ],
                                            "errors":  [
-
+                                                          {
+                                                              "retailer":  "United Sport (Edmonton)",
+                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
+                                                              "at":  "2026-11-04T07:38:16Z"
+                                                          }
                                                       ]
                                        },
                                        {
@@ -3114,12 +3586,12 @@ window.PRICE_DATA = {
                                                               "seller":  "Amazon",
                                                               "condition":  "new",
                                                               "title":  "Mizuno 480121.0000.10.ONE T10 Plus Volleyball Kneepad",
-                                                              "price":  27.28,
+                                                              "price":  27.23,
                                                               "currency":  "CAD",
-                                                              "priceCad":  27.28,
+                                                              "priceCad":  27.23,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  27.28,
+                                                              "total":  27.23,
                                                               "url":  "https://www.amazon.ca/dp/B00P9OJERW?th=1\u0026psc=1",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -3128,7 +3600,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:02:49Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3153,7 +3625,7 @@ window.PRICE_DATA = {
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
                                                               "lastSeen":  "2026-11-04T07:02:49Z",
-                                                              "stale":  false
+                                                              "stale":  true
                                                           },
                                                           {
                                                               "sourceKey":  "amazon|amazon-ca|1",
@@ -3176,7 +3648,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:02:49Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3200,7 +3672,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:02:49Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3231,7 +3703,11 @@ window.PRICE_DATA = {
                                                                }
                                                            ],
                                            "errors":  [
-
+                                                          {
+                                                              "retailer":  "United Sport (Edmonton)",
+                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
+                                                              "at":  "2026-11-04T07:38:16Z"
+                                                          }
                                                       ]
                                        },
                                        {
@@ -3263,7 +3739,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:06:15Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3287,7 +3763,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:06:15Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3311,8 +3787,8 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
-                                                              "stale":  true
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
                                                           },
                                                           {
                                                               "sourceKey":  "shopify-catalog|unitedsport|4",
@@ -3335,8 +3811,8 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T06:40:20Z",
-                                                              "stale":  true
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
+                                                              "stale":  false
                                                           },
                                                           {
                                                               "sourceKey":  "page|teamtown|2",
@@ -3359,7 +3835,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:06:15Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3383,7 +3859,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:06:15Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3407,7 +3883,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-04T07:06:15Z",
+                                                              "lastSeen":  "2026-11-04T07:38:16Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3432,11 +3908,7 @@ window.PRICE_DATA = {
                                                                }
                                                            ],
                                            "errors":  [
-                                                          {
-                                                              "retailer":  "United Sport (Edmonton)",
-                                                              "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                                              "at":  "2026-11-04T07:06:15Z"
-                                                          }
+
                                                       ]
                                        }
                                    ]
@@ -3460,7 +3932,7 @@ window.PRICE_DATA = {
                       "title":  "Levoit smart air purifiers on Amazon.ca",
                       "note":  "Every Levoit air purifier on Amazon.ca that can be controlled from a phone (VeSync app), one row per listing, ranked by discount. Discount = how far today\u0027s price is below Amazon\u0027s own reference price (\"List\" or \"Was\"), which can be optimistic. Your buy price is 10% below each model\u0027s lowest Amazon.ca price on record (camelcamelcamel history and this tracker, set 6 Oct 2026); an email goes out when a listing reaches it. Non-smart models, replacement filters, humidifiers, bundles and two-purifier packs are left out.",
                       "brandName":  "Levoit",
-                      "updatedAt":  "2026-11-04T06:40:20Z",
+                      "updatedAt":  "2026-11-04T07:38:16Z",
                       "error":  null,
                       "items":  [
                                     {
@@ -3474,7 +3946,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B088GYSHDQ",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  113.94,
@@ -3491,7 +3963,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BGPF71Q6",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  209.96,
@@ -3508,7 +3980,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0B252LDH7",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  516,
                                         "lowSeen":  573.74,
@@ -3525,7 +3997,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09BJMY8HL",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  369.98,
@@ -3542,7 +4014,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08R794ZMX",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  207,
                                         "lowSeen":  254.99,
@@ -3559,7 +4031,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BHT3DQ8D",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  388.34,
@@ -3576,7 +4048,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09NBXDXJW",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  141.72,
@@ -3593,7 +4065,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGVDBNJZ",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  215.11,
@@ -3610,7 +4082,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0F3HYL51Z",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  238.7,
@@ -3627,7 +4099,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGV8FLNX",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  283.99,
@@ -3644,7 +4116,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GYY98MR7",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  152.99,
@@ -3661,7 +4133,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GWLVKN9T",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  193.94,
@@ -3678,7 +4150,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BNDM2RNG",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  169.98,
@@ -3695,7 +4167,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GXKSC38S",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  291.76,
@@ -3712,7 +4184,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0H8P81F67",
-                                        "lastSeen":  "2026-11-04T06:40:20Z",
+                                        "lastSeen":  "2026-11-04T07:38:16Z",
                                         "stale":  false,
                                         "target":  null,
                                         "lowSeen":  359.99,
