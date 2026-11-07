@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-07T00:40:20Z",
+    "generatedAt":  "2026-11-07T06:40:20Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -36,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -60,7 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,7 +84,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -228,7 +228,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -268,12 +268,12 @@ window.PRICE_DATA = {
                                           {
                                               "retailer":  "Sennheiser Canada",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-11-07T00:40:20Z"
+                                              "at":  "2026-11-07T06:40:20Z"
                                           },
                                           {
                                               "retailer":  "Sennheiser Canada",
                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                              "at":  "2026-11-07T00:40:20Z"
+                                              "at":  "2026-11-07T06:40:20Z"
                                           }
                                       ]
                        },
@@ -306,7 +306,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -331,7 +331,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027Phantom Intl\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -341,12 +341,12 @@ window.PRICE_DATA = {
                                               "seller":  "",
                                               "condition":  "new",
                                               "title":  "WH1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
-                                              "price":  499.99,
+                                              "price":  498.99,
                                               "currency":  "CAD",
-                                              "priceCad":  499.99,
+                                              "priceCad":  498.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  499.99,
+                                              "total":  498.99,
                                               "url":  "https://www.amazon.ca/dp/B0F4DMPMCM",
                                               "inStock":  true,
                                               "inStore":  false,
@@ -355,7 +355,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -379,7 +379,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -403,7 +403,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -427,7 +427,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -451,7 +451,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -475,7 +475,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -499,7 +499,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -523,7 +523,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -547,7 +547,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -571,7 +571,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -595,7 +595,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -619,7 +619,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -643,7 +643,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -667,7 +667,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -691,7 +691,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -715,7 +715,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -739,7 +739,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -763,7 +763,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -787,7 +787,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -811,7 +811,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -835,7 +835,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -859,7 +859,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -883,7 +883,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -907,7 +907,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -931,7 +931,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -955,7 +955,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1024,7 +1024,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1049,31 +1049,31 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027TrustedTechCanada - (We Track all Product Serials)\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "page|bose|3",
-                                              "retailer":  "bose",
-                                              "retailerName":  "Bose.ca",
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra Headphones (2nd Gen)",
+                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, Midnight Violet - Limited Edition",
                                               "price":  599,
                                               "currency":  "CAD",
                                               "priceCad":  599,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  599,
-                                              "url":  "https://www.bose.ca/en/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+                                              "url":  "https://www.amazon.ca/dp/B0FDKPFLFP",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Free shipping."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1097,31 +1097,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, Desert Gold - Limited Edition",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599,
-                                              "url":  "https://www.amazon.ca/dp/B0FDKQZ18F",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1145,8 +1121,8 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-06T18:40:20Z",
-                                              "stale":  true
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
                                           },
                                           {
                                               "sourceKey":  "discover|newegg|6",
@@ -1169,8 +1145,8 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-06T18:40:20Z",
-                                              "stale":  true
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
                                           },
                                           {
                                               "sourceKey":  "discover|newegg|6",
@@ -1193,8 +1169,32 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-06T18:40:20Z",
-                                              "stale":  true
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|bose|3",
+                                              "retailer":  "bose",
+                                              "retailerName":  "Bose.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra Headphones (2nd Gen)",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599,
+                                              "url":  "https://www.bose.ca/en/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
                                           },
                                           {
                                               "sourceKey":  "discover|staples|5",
@@ -1217,31 +1217,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|5",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Black (2nd Gen)",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/24580011-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-black-2nd-gen",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1265,7 +1241,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1289,103 +1265,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Midnight Violet",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-midnight-violet/19390528",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Driftwood Sand",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-driftwood-sand/19390534",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - White",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-white/19390530",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
-                                              "inStock":  false,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1409,7 +1289,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - White",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-white/19390530",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1433,7 +1337,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
+                                              "inStock":  false,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1457,7 +1385,103 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Driftwood Sand",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-driftwood-sand/19390534",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|5",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Black (2nd Gen)",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.staples.ca/products/24580011-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-black-2nd-gen",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Midnight Violet",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-midnight-violet/19390528",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Cherry Chocolate",
+                                              "price":  612.1,
+                                              "currency":  "CAD",
+                                              "priceCad":  612.1,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  612.1,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627203",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1481,32 +1505,8 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-06T18:40:20Z",
-                                              "stale":  true
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Cherry Chocolate",
-                                              "price":  612.1,
-                                              "currency":  "CAD",
-                                              "priceCad":  612.1,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  612.1,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627203",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-11-06T18:40:20Z",
-                                              "stale":  true
+                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                              "stale":  false
                                           }
                                       ],
                            "manualLinks":  [
@@ -1542,11 +1542,7 @@ window.PRICE_DATA = {
                                                }
                                            ],
                            "errors":  [
-                                          {
-                                              "retailer":  "Newegg.ca",
-                                              "message":  "Edge timed out after 60s",
-                                              "at":  "2026-11-07T00:40:20Z"
-                                          }
+
                                       ]
                        }
                    ],
@@ -1586,7 +1582,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1611,7 +1607,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1635,7 +1631,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1711,7 +1707,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1787,7 +1783,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE, SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1862,7 +1858,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1887,7 +1883,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1911,7 +1907,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1987,7 +1983,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2011,7 +2007,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2087,7 +2083,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2111,7 +2107,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2187,7 +2183,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2262,7 +2258,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2286,7 +2282,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2370,7 +2366,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2440,7 +2436,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2464,7 +2460,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false,
                                                               "stars":  4.8,
                                                               "sold":  430
@@ -2473,7 +2469,7 @@ window.PRICE_DATA = {
                                                               "sourceKey":  "aliexpress|aliexpress|2",
                                                               "retailer":  "aliexpress",
                                                               "retailerName":  "AliExpress",
-                                                              "seller":  "UGREEN Direct Store (4.9 stars, 2,000+ sold, 98.7% positive feedback)",
+                                                              "seller":  "UGREEN Direct Store (4.8 stars, 2,000+ sold, 98.7% positive feedback)",
                                                               "condition":  "new",
                                                               "title":  "UGREEN FineTrack Mini Duo 2-in-1 Global Positioning Tracker, Smart Bluetooth Item   Locator,Anti-Lost Tag for Bags. Keys",
                                                               "price":  19.21,
@@ -2491,10 +2487,10 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
-                                                              "stars":  4.9,
+                                                              "stars":  4.8,
                                                               "sold":  2000
                                                           },
                                                           {
@@ -2519,7 +2515,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false,
                                                               "stars":  4.5,
                                                               "sold":  365
@@ -2590,7 +2586,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2651,7 +2647,7 @@ window.PRICE_DATA = {
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
                                                               "total":  39,
-                                                              "url":  "https://www.amazon.ca/dp/B0DZXTLD38",
+                                                              "url":  "https://www.amazon.ca/dp/B0DZXVLTCF",
                                                               "inStock":  true,
                                                               "inStore":  false,
                                                               "crossBorder":  false,
@@ -2660,31 +2656,31 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Chipolo\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
-                                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                                              "retailer":  "bestbuy",
-                                                              "retailerName":  "Best Buy",
-                                                              "seller":  "Best Buy",
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
                                                               "condition":  "new",
-                                                              "title":  "Chipolo POP Bluetooth Tracker Tag - Black - 1 Pack",
-                                                              "price":  39.99,
+                                                              "title":  "Chipolo POP Tracking Tag – Bluetooth key finder, luggage tracker",
+                                                              "price":  39,
                                                               "currency":  "CAD",
-                                                              "priceCad":  39.99,
+                                                              "priceCad":  39,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  39.99,
-                                                              "url":  "https://www.bestbuy.ca/en-ca/product/chipolo-pop-bluetooth-tracker-tag-black-1-pack/19483315",
+                                                              "total":  39,
+                                                              "url":  "https://www.amazon.ca/dp/B0DZXTLD38",
                                                               "inStock":  true,
-                                                              "inStore":  true,
+                                                              "inStore":  false,
                                                               "crossBorder":  false,
                                                               "requires":  "",
                                                               "notes":  [
-                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2708,7 +2704,31 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                                              "retailer":  "bestbuy",
+                                                              "retailerName":  "Best Buy",
+                                                              "seller":  "Best Buy",
+                                                              "condition":  "new",
+                                                              "title":  "Chipolo POP Bluetooth Tracker Tag - Black - 1 Pack",
+                                                              "price":  39.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  39.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  39.99,
+                                                              "url":  "https://www.bestbuy.ca/en-ca/product/chipolo-pop-bluetooth-tracker-tag-black-1-pack/19483315",
+                                                              "inStock":  true,
+                                                              "inStore":  true,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2732,7 +2752,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2809,7 +2829,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2833,7 +2853,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2857,7 +2877,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2881,7 +2901,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2905,7 +2925,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2980,7 +3000,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3004,7 +3024,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3028,7 +3048,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3052,7 +3072,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3076,7 +3096,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3151,7 +3171,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3175,7 +3195,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3232,7 +3252,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3256,7 +3276,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3280,7 +3300,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3304,7 +3324,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3367,7 +3387,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3391,7 +3411,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3415,7 +3435,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3480,7 +3500,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3504,7 +3524,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3528,7 +3548,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3552,7 +3572,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3580,7 +3600,7 @@ window.PRICE_DATA = {
                                                           {
                                                               "retailer":  "United Sport (Edmonton)",
                                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                                              "at":  "2026-11-07T00:40:20Z"
+                                                              "at":  "2026-11-07T06:40:20Z"
                                                           }
                                                       ]
                                        },
@@ -3599,12 +3619,12 @@ window.PRICE_DATA = {
                                                               "seller":  "Amazon",
                                                               "condition":  "new",
                                                               "title":  "Mizuno 480121.0000.10.ONE T10 Plus Volleyball Kneepad",
-                                                              "price":  27.12,
+                                                              "price":  27.09,
                                                               "currency":  "CAD",
-                                                              "priceCad":  27.12,
+                                                              "priceCad":  27.09,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  27.12,
+                                                              "total":  27.09,
                                                               "url":  "https://www.amazon.ca/dp/B00P9OJERW?th=1\u0026psc=1",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -3613,7 +3633,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3637,7 +3657,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3661,7 +3681,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3695,7 +3715,7 @@ window.PRICE_DATA = {
                                                           {
                                                               "retailer":  "United Sport (Edmonton)",
                                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                                              "at":  "2026-11-07T00:40:20Z"
+                                                              "at":  "2026-11-07T06:40:20Z"
                                                           }
                                                       ]
                                        },
@@ -3728,7 +3748,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3752,7 +3772,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3776,7 +3796,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3800,7 +3820,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3824,7 +3844,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-07T00:40:20Z",
+                                                              "lastSeen":  "2026-11-07T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3852,7 +3872,7 @@ window.PRICE_DATA = {
                                                           {
                                                               "retailer":  "United Sport (Edmonton)",
                                                               "message":  "Exception calling \"GetResponse\" with \"0\" argument(s): \"The remote server returned an error: (429) Too Many Requests.\"",
-                                                              "at":  "2026-11-07T00:40:20Z"
+                                                              "at":  "2026-11-07T06:40:20Z"
                                                           }
                                                       ]
                                        }
@@ -3877,7 +3897,7 @@ window.PRICE_DATA = {
                       "title":  "Levoit smart air purifiers on Amazon.ca",
                       "note":  "Every Levoit air purifier on Amazon.ca that can be controlled from a phone (VeSync app), one row per listing, ranked by discount. Discount = how far today\u0027s price is below Amazon\u0027s own reference price (\"List\" or \"Was\"), which can be optimistic. Your buy price is 10% below each model\u0027s lowest Amazon.ca price on record (camelcamelcamel history and this tracker, set 6 Oct 2026); an email goes out when a listing reaches it. Non-smart models, replacement filters, humidifiers, bundles and two-purifier packs are left out.",
                       "brandName":  "Levoit",
-                      "updatedAt":  "2026-11-07T00:40:20Z",
+                      "updatedAt":  "2026-11-07T06:40:20Z",
                       "error":  null,
                       "items":  [
                                     {
@@ -3891,7 +3911,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B088GYSHDQ",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  113.94,
@@ -3908,8 +3928,8 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09BJMY8HL",
-                                        "lastSeen":  "2026-11-06T18:40:20Z",
-                                        "stale":  true,
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
+                                        "stale":  false,
                                         "target":  290,
                                         "lowSeen":  369.98,
                                         "lowSeenAt":  "2026-10-06T16:42:50Z"
@@ -3925,7 +3945,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BNDM2RNG",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  169.98,
@@ -3942,7 +3962,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BGPF71Q6",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  209.96,
@@ -3959,7 +3979,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0B252LDH7",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  516,
                                         "lowSeen":  573.74,
@@ -3976,7 +3996,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08R794ZMX",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  207,
                                         "lowSeen":  254.99,
@@ -3993,7 +4013,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BHT3DQ8D",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  388.34,
@@ -4010,7 +4030,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09NBXDXJW",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  141.72,
@@ -4027,7 +4047,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGVDBNJZ",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  215.11,
@@ -4044,7 +4064,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0F3HYL51Z",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  238.7,
@@ -4061,7 +4081,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGV8FLNX",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  283.99,
@@ -4078,7 +4098,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0H2V91TQZ",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  194.99,
@@ -4095,7 +4115,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GYY98MR7",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  152.99,
@@ -4112,7 +4132,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GWLVKN9T",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  193.94,
@@ -4129,7 +4149,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GXKSC38S",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  291.76,
@@ -4138,7 +4158,7 @@ window.PRICE_DATA = {
                                     {
                                         "asin":  "B0H8P81F67",
                                         "model":  "Eleva 500X",
-                                        "title":  "Levoit HEPA Air Purifiers for Large Room Home Up to 2241 ft², Eleva 500X",
+                                        "title":  "HEPA Air Purifiers for Large Room Home Up to 2241 ft², Eleva 500X",
                                         "price":  359.99,
                                         "refPrice":  null,
                                         "refLabel":  null,
@@ -4146,7 +4166,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0H8P81F67",
-                                        "lastSeen":  "2026-11-07T00:40:20Z",
+                                        "lastSeen":  "2026-11-07T06:40:20Z",
                                         "stale":  false,
                                         "target":  null,
                                         "lowSeen":  359.99,
