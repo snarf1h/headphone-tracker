@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-11T00:40:24Z",
+    "generatedAt":  "2026-11-11T06:40:20Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -36,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -60,7 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,7 +84,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -228,7 +228,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -252,7 +252,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -276,7 +276,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -300,7 +300,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -369,7 +369,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -393,7 +393,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -417,7 +417,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -441,7 +441,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -465,7 +465,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -489,7 +489,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -513,55 +513,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones MidnightBlue",
-                                              "price":  598,
-                                              "currency":  "CAD",
-                                              "priceCad":  598,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  598,
-                                              "url":  "https://www.amazon.ca/dp/B0F3PT1VBL",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Silver",
-                                              "price":  598,
-                                              "currency":  "CAD",
-                                              "priceCad":  598,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  598,
-                                              "url":  "https://www.amazon.ca/dp/B0F3QJLD3B",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -585,127 +537,55 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "discover|canadacomputers|5",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Silver",
-                                              "price":  599.99,
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones MidnightBlue",
+                                              "price":  598,
                                               "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274900/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-silver-wh1000xm6-s.html",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "No Edmonton store; shipping estimated."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|6",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH1000XM6 Wireless Noise-Cancelling Headphones - Blue",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
+                                              "priceCad":  598,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/3129226-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-blue",
+                                              "total":  598,
+                                              "url":  "https://www.amazon.ca/dp/B0F3PT1VBL",
                                               "inStock":  true,
-                                              "inStore":  true,
+                                              "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "discover|staples|6",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Platinum Silver",
-                                              "price":  599.99,
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Silver",
+                                              "price":  598,
                                               "currency":  "CAD",
-                                              "priceCad":  599.99,
+                                              "priceCad":  598,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/3124722-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-platinum-silver",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|canadacomputers|5",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274892/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-black-wh1000xm6-b.html",
+                                              "total":  598,
+                                              "url":  "https://www.amazon.ca/dp/B0F3QJLD3B",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "No Edmonton store; shipping estimated."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|canadacomputers|5",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Pink",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/287445/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-pink-wh1000xm6-p.html",
-                                              "inStock":  false,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "No Edmonton store; shipping estimated."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -729,7 +609,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Silver",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274900/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-silver-wh1000xm6-s.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -738,14 +642,14 @@ window.PRICE_DATA = {
                                               "retailerName":  "Staples",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Wireless Noise Cancelling Headphones - Green",
+                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Platinum Silver",
                                               "price":  599.99,
                                               "currency":  "CAD",
                                               "priceCad":  599.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/3189942-en-sony-wh-1000xm6-over-ear-wireless-noise-cancelling-headphones-green",
+                                              "url":  "https://www.staples.ca/products/3124722-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-platinum-silver",
                                               "inStock":  true,
                                               "inStore":  true,
                                               "crossBorder":  false,
@@ -753,7 +657,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274892/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-black-wh1000xm6-b.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -777,31 +705,103 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/P",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Pink",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/287445/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-pink-wh1000xm6-p.html",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Wireless Noise Cancelling Headphones - Sandstone",
                                               "price":  599.99,
                                               "currency":  "CAD",
                                               "priceCad":  599.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  599.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-p",
+                                              "url":  "https://www.staples.ca/products/3189943-en-sony-wh-1000xm6-over-ear-wireless-noise-cancelling-headphones-sandstone",
                                               "inStock":  true,
-                                              "inStore":  false,
+                                              "inStore":  true,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                            "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Wireless Noise-Cancelling Headphones - Blue",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.staples.ca/products/3129226-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-blue",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Wireless Noise Cancelling Headphones - Green",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.staples.ca/products/3189942-en-sony-wh-1000xm6-over-ear-wireless-noise-cancelling-headphones-green",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -825,7 +825,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -849,7 +849,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -873,7 +873,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -897,7 +897,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -921,79 +921,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/L",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-l",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/T",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-t",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/S",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-s",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1017,7 +945,79 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/T",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-t",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/P",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-p",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/L",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-l",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1041,7 +1041,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/S",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-s",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1110,7 +1134,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1135,7 +1159,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027TrustedTechCanada - (We Track all Product Serials)\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1159,7 +1183,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1183,31 +1207,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Driftwood Sand",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627188",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1231,7 +1231,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Driftwood Sand",
+                                              "price":  599,
+                                              "currency":  "CAD",
+                                              "priceCad":  599,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627188",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1255,7 +1279,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1279,7 +1303,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1303,7 +1327,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1327,7 +1351,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1351,7 +1375,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1375,7 +1399,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1399,7 +1423,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1423,7 +1447,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1447,7 +1471,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1471,7 +1495,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1495,7 +1519,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1519,7 +1543,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1543,7 +1567,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1567,7 +1591,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1591,7 +1615,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1668,7 +1692,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1693,7 +1717,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1717,7 +1741,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1793,7 +1817,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1869,7 +1893,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE, SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1944,7 +1968,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1969,7 +1993,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1993,7 +2017,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2069,7 +2093,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2093,7 +2117,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2169,7 +2193,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2193,7 +2217,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2269,7 +2293,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2344,7 +2368,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2368,7 +2392,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2452,7 +2476,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2522,7 +2546,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2546,7 +2570,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false,
                                                               "stars":  4.8,
                                                               "sold":  466
@@ -2558,12 +2582,12 @@ window.PRICE_DATA = {
                                                               "seller":  "UGREEN Direct Store (4.9 stars, 2,000+ sold, 98.7% positive feedback)",
                                                               "condition":  "new",
                                                               "title":  "UGREEN FineTrack Mini Duo 2-in-1 Global Positioning Tracker, Smart Bluetooth Item   Locator,Anti-Lost Tag for Bags. Keys",
-                                                              "price":  19.35,
+                                                              "price":  19.43,
                                                               "currency":  "CAD",
-                                                              "priceCad":  19.35,
+                                                              "priceCad":  19.43,
                                                               "shipping":  12,
                                                               "shippingEstimated":  true,
-                                                              "total":  31.35,
+                                                              "total":  31.43,
                                                               "url":  "https://www.aliexpress.com/item/1005012823957853.html",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -2573,7 +2597,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
                                                               "stars":  4.9,
@@ -2645,7 +2669,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2715,7 +2739,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Chipolo\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2739,7 +2763,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2763,7 +2787,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2787,7 +2811,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2864,7 +2888,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2888,7 +2912,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2912,7 +2936,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2936,7 +2960,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2960,7 +2984,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3035,7 +3059,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3059,7 +3083,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3083,7 +3107,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3107,7 +3131,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3131,7 +3155,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3206,7 +3230,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3230,7 +3254,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3287,7 +3311,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3311,7 +3335,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3335,7 +3359,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3359,7 +3383,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3405,24 +3429,25 @@ window.PRICE_DATA = {
                                                               "sourceKey":  "amazon|amazon-ca|1",
                                                               "retailer":  "amazon-ca",
                                                               "retailerName":  "Amazon.ca",
-                                                              "seller":  "Amazon",
+                                                              "seller":  "quick pix",
                                                               "condition":  "new",
                                                               "title":  "RØDE Wireless Micro - Compact Wireless Microphone, Two Mics with Charge Case for Smartphone Content Creation - USB-C, Black",
-                                                              "price":  136.99,
+                                                              "price":  135,
                                                               "currency":  "CAD",
-                                                              "priceCad":  136.99,
+                                                              "priceCad":  135,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  136.99,
+                                                              "total":  135,
                                                               "url":  "https://www.amazon.ca/dp/B0DFXQDTDT",
                                                               "inStock":  true,
                                                               "inStore":  false,
                                                               "crossBorder":  false,
                                                               "requires":  "",
                                                               "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027quick pix\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3446,7 +3471,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3470,7 +3495,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3521,12 +3546,12 @@ window.PRICE_DATA = {
                                                               "seller":  "Amazon",
                                                               "condition":  "new",
                                                               "title":  "Mizuno LR6 Pro ECO Volleyball Knee Pads | Womens Large (L) | White",
-                                                              "price":  44.88,
+                                                              "price":  44.77,
                                                               "currency":  "CAD",
-                                                              "priceCad":  44.88,
+                                                              "priceCad":  44.77,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  44.88,
+                                                              "total":  44.77,
                                                               "url":  "https://www.amazon.ca/dp/B0C54189S6?th=1\u0026psc=1",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -3535,7 +3560,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3559,7 +3584,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3583,7 +3608,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3607,7 +3632,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3617,12 +3642,12 @@ window.PRICE_DATA = {
                                                               "seller":  "",
                                                               "condition":  "new",
                                                               "title":  "Mizuno LR6 Pro ECO Volleyball Knee Pads | Womens Large (L) | Black",
-                                                              "price":  89.76,
+                                                              "price":  90.75,
                                                               "currency":  "CAD",
-                                                              "priceCad":  89.76,
+                                                              "priceCad":  90.75,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  89.76,
+                                                              "total":  90.75,
                                                               "url":  "https://www.amazon.ca/dp/B0C541D5D2?th=1\u0026psc=1",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -3631,7 +3656,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3674,12 +3699,12 @@ window.PRICE_DATA = {
                                                               "seller":  "Amazon",
                                                               "condition":  "new",
                                                               "title":  "Mizuno 480121.0000.10.ONE T10 Plus Volleyball Kneepad",
-                                                              "price":  27.05,
+                                                              "price":  27.2,
                                                               "currency":  "CAD",
-                                                              "priceCad":  27.05,
+                                                              "priceCad":  27.2,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  27.05,
+                                                              "total":  27.2,
                                                               "url":  "https://www.amazon.ca/dp/B00P9OJERW?th=1\u0026psc=1",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -3688,7 +3713,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3712,7 +3737,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3736,7 +3761,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3760,7 +3785,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3823,7 +3848,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3847,7 +3872,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3871,7 +3896,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3895,7 +3920,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3919,7 +3944,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3943,7 +3968,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3967,7 +3992,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -4021,9 +4046,9 @@ window.PRICE_DATA = {
                                                               "price":  57.95,
                                                               "currency":  "CAD",
                                                               "priceCad":  57.95,
-                                                              "shipping":  0,
+                                                              "shipping":  15,
                                                               "shippingEstimated":  true,
-                                                              "total":  57.95,
+                                                              "total":  72.95,
                                                               "url":  "https://www.pishop.ca/product/raspberry-pi-5-touch-display-2-portrait/",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -4032,7 +4057,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -4075,30 +4100,6 @@ window.PRICE_DATA = {
                                            "targetOther":  39,
                                            "offers":  [
                                                           {
-                                                              "sourceKey":  "page|pishop|1",
-                                                              "retailer":  "pishop",
-                                                              "retailerName":  "PiShop.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "7inch IPS Integrated Touch Display, 1024x600, Thin and Light",
-                                                              "price":  57.95,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  57.95,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  true,
-                                                              "total":  57.95,
-                                                              "url":  "https://www.pishop.ca/product/7inch-ips-integrated-touch-display-1024x600-thin-and-light/",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
                                                               "sourceKey":  "amazon|amazon-ca|2",
                                                               "retailer":  "amazon-ca",
                                                               "retailerName":  "Amazon.ca",
@@ -4120,7 +4121,31 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UeeKKoo-CA\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "page|pishop|1",
+                                                              "retailer":  "pishop",
+                                                              "retailerName":  "PiShop.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch IPS Integrated Touch Display, 1024x600, Thin and Light",
+                                                              "price":  57.95,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  57.95,
+                                                              "shipping":  15,
+                                                              "shippingEstimated":  true,
+                                                              "total":  72.95,
+                                                              "url":  "https://www.pishop.ca/product/7inch-ips-integrated-touch-display-1024x600-thin-and-light/",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4144,7 +4169,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -4196,9 +4221,9 @@ window.PRICE_DATA = {
                                                               "price":  62.95,
                                                               "currency":  "CAD",
                                                               "priceCad":  62.95,
-                                                              "shipping":  0,
+                                                              "shipping":  15,
                                                               "shippingEstimated":  true,
-                                                              "total":  62.95,
+                                                              "total":  77.95,
                                                               "url":  "https://www.pishop.ca/product/7inch-hdmi-lcd-c-display-1024x600-ips/",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -4207,7 +4232,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4232,7 +4257,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027waveshare\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4256,7 +4281,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -4308,9 +4333,9 @@ window.PRICE_DATA = {
                                                               "price":  86.95,
                                                               "currency":  "CAD",
                                                               "priceCad":  86.95,
-                                                              "shipping":  0,
+                                                              "shipping":  15,
                                                               "shippingEstimated":  true,
-                                                              "total":  86.95,
+                                                              "total":  101.95,
                                                               "url":  "https://www.pishop.ca/product/raspberry-pi-touch-display-2/",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -4319,7 +4344,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -4371,9 +4396,9 @@ window.PRICE_DATA = {
                                                               "price":  110.95,
                                                               "currency":  "CAD",
                                                               "priceCad":  110.95,
-                                                              "shipping":  0,
+                                                              "shipping":  15,
                                                               "shippingEstimated":  true,
-                                                              "total":  110.95,
+                                                              "total":  125.95,
                                                               "url":  "https://www.pishop.ca/product/7-9inch-capacitive-touch-screen-lcd-400-1280-hdmi-ips-toughened-glass-cover/",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -4382,7 +4407,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4406,7 +4431,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4430,7 +4455,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -4479,12 +4504,12 @@ window.PRICE_DATA = {
                                                               "seller":  "SZ Discount Store (4.9 stars, 141 sold, 96.8% positive feedback)",
                                                               "condition":  "new",
                                                               "title":  "5 Inch IPS LCD HDMI 800 x 480 Capacitive Touch Screen LCD Display, Suitable For Sony PS4/Raspberry Pi/PC/Banana Pi",
-                                                              "price":  31.41,
+                                                              "price":  31.57,
                                                               "currency":  "CAD",
-                                                              "priceCad":  31.41,
+                                                              "priceCad":  31.57,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  31.41,
+                                                              "total":  31.57,
                                                               "url":  "https://www.aliexpress.com/item/1005007565361779.html",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -4493,7 +4518,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
                                                               "stars":  4.9,
@@ -4521,7 +4546,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Poover\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4545,7 +4570,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4569,7 +4594,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4593,7 +4618,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4617,7 +4642,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4641,7 +4666,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4665,7 +4690,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4689,7 +4714,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4713,7 +4738,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4722,7 +4747,7 @@ window.PRICE_DATA = {
                                                               "retailerName":  "Amazon.ca",
                                                               "seller":  "",
                                                               "condition":  "new",
-                                                              "title":  "Capacitive Touch 5inch Raspberry pi LCD HDMI Display Module 800 * 480 High Resolution HDMI Interface Screen Supports Multi mini-PCs Multi Systems",
+                                                              "title":  "More results Capacitive Touch 5inch Raspberry pi LCD HDMI Display Module 800 * 480 High Resolution HDMI Interface Screen Supports Multi mini-PCs Multi Systems",
                                                               "price":  68.55,
                                                               "currency":  "CAD",
                                                               "priceCad":  68.55,
@@ -4737,7 +4762,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4761,7 +4786,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4785,7 +4810,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -4831,28 +4856,82 @@ window.PRICE_DATA = {
                                                               "sourceKey":  "aliexpress|aliexpress|1",
                                                               "retailer":  "aliexpress",
                                                               "retailerName":  "AliExpress",
-                                                              "seller":  "ihanfo-lcd Store (4.8 stars, 1,000+ sold, 96.4% positive feedback)",
+                                                              "seller":  "IPistBit Official Store (4.6 stars, 151 sold, 98.4% positive feedback)",
                                                               "condition":  "new",
-                                                              "title":  "Raspberry Pi 7 Inch NONTouch Screen IPS 1024x600 HD LCD HDMI- Display  for RPI 4B 3B+ 3B PC Secondary Screen Portable Monitor",
-                                                              "price":  44.95,
+                                                              "title":  "Raspberry Pi 7 Inch Screen IPS LCD HDMI Display Touch Screen Monitor 1024*600 Response Time 2-3 Seconds",
+                                                              "price":  29.58,
                                                               "currency":  "CAD",
-                                                              "priceCad":  44.95,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  44.95,
-                                                              "url":  "https://www.aliexpress.com/item/1005005950193835.html",
+                                                              "priceCad":  29.58,
+                                                              "shipping":  12,
+                                                              "shippingEstimated":  true,
+                                                              "total":  41.58,
+                                                              "url":  "https://www.aliexpress.com/item/1005008190032045.html",
                                                               "inStock":  true,
                                                               "inStore":  false,
                                                               "crossBorder":  true,
-                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
+                                                              "requires":  "",
                                                               "notes":  [
-                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
+                                                                            "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false,
-                                                              "newCustomerOnly":  true,
+                                                              "stars":  4.6,
+                                                              "sold":  151
+                                                          },
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|1",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "IUoyoMon LCD Store (4.8 stars, 127 sold, 100% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "7 Inch Raspberry Pi 5/4/3/2/B/B+/A+ Monitor 1024x600 IPS Capacitive Touchscreen Drive Free HDMI Display For Win",
+                                                              "price":  31.38,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  31.38,
+                                                              "shipping":  12,
+                                                              "shippingEstimated":  true,
+                                                              "total":  43.38,
+                                                              "url":  "https://www.aliexpress.com/item/1005012258408371.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
+                                                                            "Listing does not advertise free shipping - $12 estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false,
                                                               "stars":  4.8,
-                                                              "sold":  1000
+                                                              "sold":  127
+                                                          },
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|1",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "IPistBit Official Store (4.5 stars, 800+ sold, 98.4% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "Raspberry Pi 7 Inch Screen, IPS TFT LCD HDMI Display Touch Screen Monitor 1024*600",
+                                                              "price":  32.18,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  32.18,
+                                                              "shipping":  12,
+                                                              "shippingEstimated":  true,
+                                                              "total":  44.18,
+                                                              "url":  "https://www.aliexpress.com/item/1005006471099177.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
+                                                                            "Listing does not advertise free shipping - $12 estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false,
+                                                              "stars":  4.5,
+                                                              "sold":  800
                                                           },
                                                           {
                                                               "sourceKey":  "amazon|amazon-ca|2",
@@ -4876,31 +4955,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Leycn\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|2",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Display Screen for, 7 Inch LCD HDMI Touchscreen Monitor with Ultra HD 1024x600 Display Screen and Capacitive Touch Screen",
-                                                              "price":  51.49,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  51.49,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  51.49,
-                                                              "url":  "https://www.amazon.ca/dp/B0CD7XR3MJ",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4924,7 +4979,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4948,7 +5003,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4972,7 +5027,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -4996,7 +5051,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5020,31 +5075,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|2",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Small Monitor 7 inch 1024x600 IPS Capacitive Touch 7\" HDMI Wide Screen Portable LCD Display with Speakers for Raspberry Pi Laptop White",
-                                                              "price":  69.99,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  69.99,
-                                                              "shipping":  0,
-                                                              "shippingEstimated":  false,
-                                                              "total":  69.99,
-                                                              "url":  "https://www.amazon.ca/dp/B0DP4SXS1R",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5068,7 +5099,31 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Small Monitor 7 inch 1024x600 IPS Capacitive Touch 7\" HDMI Wide Screen Portable LCD Display with Speakers for Raspberry Pi Laptop White",
+                                                              "price":  69.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  69.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  69.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0DP4SXS1R",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5092,7 +5147,31 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7inch HDMI LCD IPS Capacitive Touch Screen 1024×600 Display Monitor for Raspberry Pi 4B/3B+/3B/2B/B+/A+/Zero, BeagleBone Black, Windows 10/8.1/8/7",
+                                                              "price":  73.91,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  73.91,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  73.91,
+                                                              "url":  "https://www.amazon.ca/dp/B083V7WK15",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5116,7 +5195,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5140,7 +5219,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5164,7 +5243,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5188,7 +5267,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5212,7 +5291,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5236,7 +5315,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5245,14 +5324,14 @@ window.PRICE_DATA = {
                                                               "retailerName":  "Amazon.ca",
                                                               "seller":  "",
                                                               "condition":  "new",
-                                                              "title":  "7 inch HDMI LCD (H) 1024x600 IPS Capacitive Touch Screen Display LCD Supports Multi Mini-PCs Raspberry Pi BB Black Banana Pi Game Consoles @XYGStudy",
-                                                              "price":  83.01,
+                                                              "title":  "Eyoyo 7\" Screen for Raspberry Pi, 1024×600 IPS Touch HDMI Monitor",
+                                                              "price":  80.08,
                                                               "currency":  "CAD",
-                                                              "priceCad":  83.01,
-                                                              "shipping":  0,
+                                                              "priceCad":  80.08,
+                                                              "shipping":  6.33,
                                                               "shippingEstimated":  false,
-                                                              "total":  83.01,
-                                                              "url":  "https://www.amazon.ca/dp/B07KNMGPJL",
+                                                              "total":  86.41,
+                                                              "url":  "https://www.amazon.ca/dp/B0F9NWWG9L",
                                                               "inStock":  true,
                                                               "inStore":  false,
                                                               "crossBorder":  false,
@@ -5260,7 +5339,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5284,7 +5363,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5308,7 +5387,31 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 Inch IPS Screen, 170° Viewing Angle 1024X600 Backlight Thin Display, HDMi Display Signal USB Touch Signal Integrated 40Pin Interface One Line for Raspberry PI for Windows PC",
+                                                              "price":  89.97,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  89.97,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  89.97,
+                                                              "url":  "https://www.amazon.ca/dp/B0BPPJGNRG",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5332,7 +5435,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5356,7 +5459,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5380,7 +5483,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5404,7 +5507,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5428,7 +5531,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -5492,7 +5595,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027TUOPUONE CA\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5516,7 +5619,31 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "More results Waveshare 7.9inch Capacitive LCD HDMI Display,Mini Monitor,400×1280 Hardware Resolution IPS Touch Screen with Toughened Glass Cover Supports All Versions of Raspberry Pi Jetson Nano Windows",
+                                                              "price":  140.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  140.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  140.99,
+                                                              "url":  "https://www.amazon.ca/dp/B087CNJYB4",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -5565,12 +5692,12 @@ window.PRICE_DATA = {
                                                               "seller":  "IPistBit Official Store (5 stars, 106 sold, 98.4% positive feedback)",
                                                               "condition":  "new",
                                                               "title":  "8.8Inch 1920x480 HDMI Secondary Screen IPS LCD Display for PC Chassis CPU RAM GPU PC Case Monitor Display",
-                                                              "price":  47.79,
+                                                              "price":  47.96,
                                                               "currency":  "CAD",
-                                                              "priceCad":  47.79,
+                                                              "priceCad":  47.96,
                                                               "shipping":  12,
                                                               "shippingEstimated":  true,
-                                                              "total":  59.79,
+                                                              "total":  59.96,
                                                               "url":  "https://www.aliexpress.com/item/1005008270153447.html",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -5580,7 +5707,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
                                                               "stars":  5,
@@ -5590,32 +5717,7 @@ window.PRICE_DATA = {
                                                               "sourceKey":  "amazon|amazon-ca|2",
                                                               "retailer":  "amazon-ca",
                                                               "retailerName":  "Amazon.ca",
-                                                              "seller":  "Liccx",
-                                                              "condition":  "new",
-                                                              "title":  "PC Temperature Display, 8.8 Inch HD IPS 1920x480 Computer Temp Monitor with HDMI and USB Cable, PC CPU Data Monitor Sensor Panel Monitor (White)",
-                                                              "price":  113.27,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  113.27,
-                                                              "shipping":  13.99,
-                                                              "shippingEstimated":  false,
-                                                              "total":  127.26,
-                                                              "url":  "https://www.amazon.ca/dp/B0D31Q9Z1X",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                            "Sold by third-party seller \u0027Liccx\u0027 - check seller rating and warranty."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|2",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "",
+                                                              "seller":  "waveshare",
                                                               "condition":  "new",
                                                               "title":  "Waveshare 8.8inch IPS Side Monitor 480×1920 Resolution HDMI Display Port, No Touch, Supports Raspberry Pi/Jetson Nano/PC",
                                                               "price":  120.74,
@@ -5630,9 +5732,10 @@ window.PRICE_DATA = {
                                                               "crossBorder":  false,
                                                               "requires":  "",
                                                               "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027waveshare\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5656,7 +5759,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5680,7 +5783,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5704,7 +5807,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -5753,12 +5856,12 @@ window.PRICE_DATA = {
                                                               "seller":  "Thermalright Official Store (4.8 stars, 4,000+ sold, 98.3% positive feedback)",
                                                               "condition":  "new",
                                                               "title":  "Thermalright TROFEO VISION LCD IPS full-color LCD screen，9.16 inches/magnetic/1920*480 resolution/USB Type-C port Display screen",
-                                                              "price":  49.67,
+                                                              "price":  46.7,
                                                               "currency":  "CAD",
-                                                              "priceCad":  49.67,
+                                                              "priceCad":  46.7,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  49.67,
+                                                              "total":  46.7,
                                                               "url":  "https://www.aliexpress.com/item/1005010225586949.html",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -5767,7 +5870,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
                                                               "stars":  4.8,
@@ -5777,25 +5880,25 @@ window.PRICE_DATA = {
                                                               "sourceKey":  "amazon|amazon-ca|1",
                                                               "retailer":  "amazon-ca",
                                                               "retailerName":  "Amazon.ca",
-                                                              "seller":  "THERMALRIGHT.EUR",
+                                                              "seller":  "iHTP",
                                                               "condition":  "new",
-                                                              "title":  "Thermalright Trofeo Vision 9.16 LCD White, 9.16-inch Full-Color LCD Magnetic Display Screen, 1920x462 Resolution, Easy to Install,Master CPU/GPU Temperature(White)",
-                                                              "price":  68.59,
+                                                              "title":  "Thermalright Trofeo Vision LCD AIO Display 9.16” PC Monitor",
+                                                              "price":  62.9,
                                                               "currency":  "CAD",
-                                                              "priceCad":  68.59,
+                                                              "priceCad":  62.9,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  68.59,
-                                                              "url":  "https://www.amazon.ca/dp/B0GK195965",
+                                                              "total":  62.9,
+                                                              "url":  "https://www.amazon.ca/dp/B0G1BXWTYF",
                                                               "inStock":  true,
                                                               "inStore":  false,
                                                               "crossBorder":  false,
                                                               "requires":  "",
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                            "Sold by third-party seller \u0027THERMALRIGHT.EUR\u0027 - check seller rating and warranty."
+                                                                            "Sold by third-party seller \u0027iHTP\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5819,7 +5922,31 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 LCD White, 9.16-inch Full-Color LCD Magnetic Display Screen, 1920x462 Resolution, Easy to Install,Master CPU/GPU Temperature(White)",
+                                                              "price":  68.59,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.59,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.59,
+                                                              "url":  "https://www.amazon.ca/dp/B0GK195965",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5843,7 +5970,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5867,7 +5994,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5880,33 +6007,9 @@ window.PRICE_DATA = {
                                                               "price":  62.9,
                                                               "currency":  "CAD",
                                                               "priceCad":  62.9,
-                                                              "shipping":  6.33,
-                                                              "shippingEstimated":  false,
-                                                              "total":  69.23,
-                                                              "url":  "https://www.amazon.ca/dp/B0G1BXWTYF",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|1",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Thermalright Trofeo Vision LCD AIO Display 9.16” PC Monitor",
-                                                              "price":  67.09,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  67.09,
                                                               "shipping":  6.46,
                                                               "shippingEstimated":  false,
-                                                              "total":  73.55,
+                                                              "total":  69.36,
                                                               "url":  "https://www.amazon.ca/dp/B0G1BRCS7X",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -5915,7 +6018,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5939,7 +6042,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5963,7 +6066,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -5987,7 +6090,31 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 ARGB LCD Black 9.16’’ Magnetic IPS Display",
+                                                              "price":  88.66,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  88.66,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  88.66,
+                                                              "url":  "https://www.amazon.ca/dp/B0H8D9DCD7",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6011,7 +6138,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6035,7 +6162,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6059,7 +6186,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6083,7 +6210,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6107,7 +6234,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6116,14 +6243,14 @@ window.PRICE_DATA = {
                                                               "retailerName":  "Amazon.ca",
                                                               "seller":  "",
                                                               "condition":  "new",
-                                                              "title":  "Thermalright TR Trofeo Vision 9.16 LCD Black, 9.16-inch Full-Color LCD Magnetic Display Screen, 1920x480 Resolution, Easy to Install,Master CPU/GPU Temperature(Black)",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 LCD White, 9.16-inch Full-Color LCD Magnetic Display Screen, 1920x480 Resolution, Easy to Install,Master CPU/GPU Temperature(White)",
                                                               "price":  86.99,
                                                               "currency":  "CAD",
                                                               "priceCad":  86.99,
                                                               "shipping":  6.46,
                                                               "shippingEstimated":  false,
                                                               "total":  93.45,
-                                                              "url":  "https://www.amazon.ca/dp/B0H212W7W3",
+                                                              "url":  "https://www.amazon.ca/dp/B0H215WPK9",
                                                               "inStock":  true,
                                                               "inStore":  false,
                                                               "crossBorder":  false,
@@ -6131,31 +6258,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
-                                                              "stale":  false
-                                                          },
-                                                          {
-                                                              "sourceKey":  "amazon|amazon-ca|1",
-                                                              "retailer":  "amazon-ca",
-                                                              "retailerName":  "Amazon.ca",
-                                                              "seller":  "",
-                                                              "condition":  "new",
-                                                              "title":  "Thermalright Trofeo Vision 9.16 ARGB LCD Black 9.16’’ Magnetic IPS Display",
-                                                              "price":  88.66,
-                                                              "currency":  "CAD",
-                                                              "priceCad":  88.66,
-                                                              "shipping":  6.49,
-                                                              "shippingEstimated":  false,
-                                                              "total":  95.15,
-                                                              "url":  "https://www.amazon.ca/dp/B0H8D9DCD7",
-                                                              "inStock":  true,
-                                                              "inStore":  false,
-                                                              "crossBorder":  false,
-                                                              "requires":  "",
-                                                              "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                                        ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6179,7 +6282,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6203,7 +6306,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -6227,7 +6330,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "lastSeen":  "2026-11-11T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -6282,7 +6385,7 @@ window.PRICE_DATA = {
                       "title":  "Levoit smart air purifiers on Amazon.ca",
                       "note":  "Every Levoit air purifier on Amazon.ca that can be controlled from a phone (VeSync app), one row per listing, ranked by discount. Discount = how far today\u0027s price is below Amazon\u0027s own reference price (\"List\" or \"Was\"), which can be optimistic. Your buy price is 10% below each model\u0027s lowest Amazon.ca price on record (camelcamelcamel history and this tracker, set 6 Oct 2026); an email goes out when a listing reaches it. Non-smart models, replacement filters, humidifiers, bundles and two-purifier packs are left out.",
                       "brandName":  "Levoit",
-                      "updatedAt":  "2026-11-11T00:40:24Z",
+                      "updatedAt":  "2026-11-11T06:40:20Z",
                       "error":  null,
                       "items":  [
                                     {
@@ -6296,7 +6399,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0B252LDH7",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  516,
                                         "lowSeen":  573.74,
@@ -6313,7 +6416,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B088GYSHDQ",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  113.94,
@@ -6330,7 +6433,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09BJMY8HL",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  369.98,
@@ -6344,10 +6447,10 @@ window.PRICE_DATA = {
                                         "refPrice":  209.99,
                                         "refLabel":  "List",
                                         "discountPct":  19.1,
-                                        "coupon":  null,
+                                        "coupon":  "10% off coupon",
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BNDM2RNG",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  169.98,
@@ -6364,7 +6467,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BGPF71Q6",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  209.96,
@@ -6381,7 +6484,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08R794ZMX",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  207,
                                         "lowSeen":  254.99,
@@ -6398,7 +6501,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BHT3DQ8D",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  388.34,
@@ -6415,7 +6518,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGVDBNJZ",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  215.11,
@@ -6432,7 +6535,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0F3HYL51Z",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  238.7,
@@ -6449,7 +6552,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGV8FLNX",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  283.99,
@@ -6466,7 +6569,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09NBXDXJW",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  141.72,
@@ -6483,7 +6586,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0H2V91TQZ",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  194.99,
@@ -6500,7 +6603,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GYY98MR7",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  152.99,
@@ -6517,7 +6620,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GWLVKN9T",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  193.94,
@@ -6534,7 +6637,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GXKSC38S",
-                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  279.99,
@@ -6551,8 +6654,8 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0H8P81F67",
-                                        "lastSeen":  "2026-11-10T06:40:20Z",
-                                        "stale":  true,
+                                        "lastSeen":  "2026-11-11T06:40:20Z",
+                                        "stale":  false,
                                         "target":  null,
                                         "lowSeen":  359.99,
                                         "lowSeenAt":  "2026-10-08T12:40:18Z"
