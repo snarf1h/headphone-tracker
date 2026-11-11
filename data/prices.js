@@ -1,10 +1,10 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-10T18:40:20Z",
+    "generatedAt":  "2026-11-11T00:40:24Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
-               "usdCad":  1.4123,
-               "source":  "Bank of Canada 2026-11-09"
+               "usdCad":  1.4181,
+               "source":  "Bank of Canada 2026-11-10"
            },
     "headphones":  [
                        {
@@ -36,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -60,7 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,7 +84,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -228,7 +228,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -252,7 +252,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -276,7 +276,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -300,7 +300,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -369,14 +369,38 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
                                               "sourceKey":  "amazon|amazon-ca|2",
                                               "retailer":  "amazon-ca",
                                               "retailerName":  "Amazon.ca",
-                                              "seller":  "Phantom Intl",
+                                              "seller":  "Amazon",
+                                              "condition":  "new",
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Sandstone",
+                                              "price":  477.98,
+                                              "currency":  "CAD",
+                                              "priceCad":  477.98,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  477.98,
+                                              "url":  "https://www.amazon.ca/dp/B0GPT1FJBD",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
                                               "condition":  "new",
                                               "title":  "WH1000XM6 Noise Cancelling Wireless Earphones, Platinum Silver [2025] - Premium Audio, High-Resolution Sound with Multiple Noise Sensor Technology, Up to 30 Hours of Battery Life, Premium Folding",
                                               "price":  479.99,
@@ -391,10 +415,9 @@ window.PRICE_DATA = {
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                            "Sold by third-party seller \u0027Phantom Intl\u0027 - check seller rating and warranty."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -418,7 +441,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "WH1000XM6 Noise Cancelling Wireless Over-Ear Headphones Blue",
+                                              "price":  499.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  499.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  499.99,
+                                              "url":  "https://www.amazon.ca/dp/B0F7S442X8",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -442,31 +489,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black",
-                                              "price":  598,
-                                              "currency":  "CAD",
-                                              "priceCad":  598,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  598,
-                                              "url":  "https://www.amazon.ca/dp/B0F3PQHWTZ",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -490,31 +513,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "WH-1000XM6 The Best Wireless Noise Cancelling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, 30-Hour Battery, Olive Grey",
-                                              "price":  598,
-                                              "currency":  "CAD",
-                                              "priceCad":  598,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  598,
-                                              "url":  "https://www.amazon.ca/dp/B0H9B4W7MW",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -538,7 +537,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -562,31 +561,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "discover|canadacomputers|5",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "SONY WH-1000XM6 Wireless NC Over-Ear Headphones, Sandstone",
-                                              "price":  599.99,
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black",
+                                              "price":  598,
                                               "currency":  "CAD",
-                                              "priceCad":  599.99,
+                                              "priceCad":  598,
                                               "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/289958/sony-wh-1000xm6-wireless-nc-over-ear-headphones-sandstone-wh1000xm6-t.html",
-                                              "inStock":  false,
+                                              "shippingEstimated":  false,
+                                              "total":  598,
+                                              "url":  "https://www.amazon.ca/dp/B0F3PQHWTZ",
+                                              "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "No Edmonton store; shipping estimated."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -610,127 +609,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "No Edmonton store; shipping estimated."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|6",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Platinum Silver",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/3124722-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-platinum-silver",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|canadacomputers|5",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274892/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-black-wh1000xm6-b.html",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "No Edmonton store; shipping estimated."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|6",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/3124721-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-black",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|canadacomputers|5",
-                                              "retailer":  "canadacomputers",
-                                              "retailerName":  "Canada Computers",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Pink",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  599.99,
-                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/287445/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-pink-wh1000xm6-p.html",
-                                              "inStock":  false,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "No Edmonton store; shipping estimated."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|6",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Wireless Noise Cancelling Headphones - Sandstone",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.staples.ca/products/3189943-en-sony-wh-1000xm6-over-ear-wireless-noise-cancelling-headphones-sandstone",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -754,7 +633,103 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Platinum Silver",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.staples.ca/products/3124722-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-platinum-silver",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/274892/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-black-wh1000xm6-b.html",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Pink",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/287445/sony-wh-1000xm6-wireless-noise-cancelling-over-ear-headphones-pink-wh1000xm6-p.html",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|canadacomputers|5",
+                                              "retailer":  "canadacomputers",
+                                              "retailerName":  "Canada Computers",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "SONY WH-1000XM6 Wireless NC Over-Ear Headphones, Sandstone",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  599.99,
+                                              "url":  "https://www.canadacomputers.com/en/over-ear-headphones/289958/sony-wh-1000xm6-wireless-nc-over-ear-headphones-sandstone-wh1000xm6-t.html",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "No Edmonton store; shipping estimated."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -778,175 +753,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sandstone",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sandstone/19869816",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sand Pink",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sand-pink/19741473",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Silver",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-silver/19320385",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Black",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-black/19320383",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Blue",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-blue/19320384",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Olive Grey",
-                                              "price":  599.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  599.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-olive-grey/19997587",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/T",
+                                              "title":  "Sony WH1000XM6 Wireless Noise Cancelling Headphones - Black",
                                               "price":  599.99,
                                               "currency":  "CAD",
                                               "priceCad":  599.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  599.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-t",
+                                              "url":  "https://www.staples.ca/products/3124721-en-sony-wh1000xm6-wireless-noise-cancelling-headphones-black",
                                               "inStock":  true,
-                                              "inStore":  false,
+                                              "inStore":  true,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                            "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -970,7 +801,127 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sandstone",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sandstone/19869816",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sand Pink",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sand-pink/19741473",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Silver",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-silver/19320385",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Black",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-black/19320383",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Blue",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-blue/19320384",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -994,7 +945,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1003,14 +954,14 @@ window.PRICE_DATA = {
                                               "retailerName":  "Sony Canada",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/B",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/T",
                                               "price":  599.99,
                                               "currency":  "CAD",
                                               "priceCad":  599.99,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  599.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-b",
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-t",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
@@ -1018,7 +969,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1042,7 +993,55 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Olive Grey",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-olive-grey/19997587",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/B",
+                                              "price":  599.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  599.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  599.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-b",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1111,7 +1110,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1119,6 +1118,31 @@ window.PRICE_DATA = {
                                               "retailer":  "amazon-ca",
                                               "retailerName":  "Amazon.ca",
                                               "seller":  "TrustedTechCanada - (We Track all Product Serials)",
+                                              "condition":  "new",
+                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, White",
+                                              "price":  549.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  549.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  549.99,
+                                              "url":  "https://www.amazon.ca/dp/B0FDKRX5G9",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                            "Sold by third-party seller \u0027TrustedTechCanada - (We Track all Product Serials)\u0027 - check seller rating and warranty."
+                                                        ],
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
                                               "condition":  "new",
                                               "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, Driftwood Sand - Limited Edition",
                                               "price":  549.99,
@@ -1133,34 +1157,9 @@ window.PRICE_DATA = {
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                            "Sold by third-party seller \u0027TrustedTechCanada - (We Track all Product Serials)\u0027 - check seller rating and warranty."
-                                                        ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, Midnight Violet - Limited Edition",
-                                              "price":  599,
-                                              "currency":  "CAD",
-                                              "priceCad":  599,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  599,
-                                              "url":  "https://www.amazon.ca/dp/B0FDKPFLFP",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1184,7 +1183,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1208,7 +1207,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1232,7 +1231,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1256,7 +1255,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1280,7 +1279,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1304,7 +1303,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1328,7 +1327,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1352,7 +1351,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1376,7 +1375,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1400,7 +1399,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1424,7 +1423,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1448,7 +1447,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1472,7 +1471,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1496,7 +1495,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1520,7 +1519,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1544,7 +1543,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1568,7 +1567,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           },
                                           {
@@ -1592,7 +1591,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1669,7 +1668,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1694,7 +1693,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1718,7 +1717,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1794,7 +1793,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1870,7 +1869,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE, SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1945,7 +1944,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1970,7 +1969,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1994,7 +1993,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2070,7 +2069,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2094,7 +2093,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2170,7 +2169,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2194,7 +2193,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2270,7 +2269,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2345,7 +2344,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2358,9 +2357,9 @@ window.PRICE_DATA = {
                                                               "price":  229.99,
                                                               "currency":  "CAD",
                                                               "priceCad":  229.99,
-                                                              "shipping":  30.99,
+                                                              "shipping":  34.99,
                                                               "shippingEstimated":  false,
-                                                              "total":  260.98,
+                                                              "total":  264.98,
                                                               "url":  "https://www.bestbuy.ca/en-ca/product/insignia-over-the-range-microwave-1-7-cu-ft-stainless-steel-only-at-best-buy/16021540",
                                                               "inStock":  true,
                                                               "inStore":  true,
@@ -2369,7 +2368,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2453,7 +2452,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2523,14 +2522,14 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
                                                               "sourceKey":  "aliexpress|aliexpress|2",
                                                               "retailer":  "aliexpress",
                                                               "retailerName":  "AliExpress",
-                                                              "seller":  "Ugreen Official Store (4.8 stars, 457 sold, 98.4% positive feedback)",
+                                                              "seller":  "Ugreen Official Store (4.8 stars, 466 sold, 98.4% positive feedback)",
                                                               "condition":  "new",
                                                               "title":  "UGREEN FineTrack Mini Duo 2-in-1 Global Positioning Tracker, Smart Bluetooth Item   Locator,Anti-Lost Tag for Bags, Keys",
                                                               "price":  28.29,
@@ -2547,10 +2546,10 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false,
                                                               "stars":  4.8,
-                                                              "sold":  457
+                                                              "sold":  466
                                                           },
                                                           {
                                                               "sourceKey":  "aliexpress|aliexpress|2",
@@ -2574,7 +2573,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
                                                               "stars":  4.9,
@@ -2646,7 +2645,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2716,7 +2715,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Chipolo\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2740,7 +2739,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2764,7 +2763,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2788,7 +2787,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2865,7 +2864,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2889,7 +2888,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2913,7 +2912,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2937,7 +2936,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2950,9 +2949,9 @@ window.PRICE_DATA = {
                                                               "price":  149.99,
                                                               "currency":  "CAD",
                                                               "priceCad":  149.99,
-                                                              "shipping":  5.99,
+                                                              "shipping":  12.99,
                                                               "shippingEstimated":  false,
-                                                              "total":  155.98,
+                                                              "total":  162.98,
                                                               "url":  "https://www.bestbuy.ca/en-ca/product/dji-mic-mini-2s-wireless-microphone-1-tx-1-mobile-rx-charging-case/19968490",
                                                               "inStock":  true,
                                                               "inStore":  true,
@@ -2961,7 +2960,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3036,7 +3035,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3060,7 +3059,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3084,7 +3083,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3108,7 +3107,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3121,9 +3120,9 @@ window.PRICE_DATA = {
                                                               "price":  265.99,
                                                               "currency":  "CAD",
                                                               "priceCad":  265.99,
-                                                              "shipping":  5.99,
+                                                              "shipping":  12.99,
                                                               "shippingEstimated":  false,
-                                                              "total":  271.98,
+                                                              "total":  278.98,
                                                               "url":  "https://www.bestbuy.ca/en-ca/product/dji-mic-mini-2s-wireless-microphone-2-tx-1-rx-charging-case/19968488",
                                                               "inStock":  true,
                                                               "inStore":  true,
@@ -3132,7 +3131,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3207,7 +3206,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3217,22 +3216,21 @@ window.PRICE_DATA = {
                                                               "seller":  "Amazon",
                                                               "condition":  "new",
                                                               "title":  "Hollyland Lark M2S Wireless Lavalier Microphone with USB-C Plug for iPhone 15/16 and Android, Titanium Clip, Plug-and-Play, Noise Cancelling, 300m Range, 27H Battery Life for Vlogging, YouTube",
-                                                              "price":  139,
+                                                              "price":  125.04,
                                                               "currency":  "CAD",
-                                                              "priceCad":  139,
+                                                              "priceCad":  125.04,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  139,
+                                                              "total":  125.04,
                                                               "url":  "https://www.amazon.ca/dp/B0DNQ8CLXR",
-                                                              "inStock":  false,
+                                                              "inStock":  true,
                                                               "inStore":  false,
                                                               "crossBorder":  false,
                                                               "requires":  "",
                                                               "notes":  [
-                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
-                                                                            "Search results showed $139 but the product page shows $125.04 - treated as unavailable."
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3289,7 +3287,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3313,7 +3311,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3337,7 +3335,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3350,9 +3348,9 @@ window.PRICE_DATA = {
                                                               "price":  119.99,
                                                               "currency":  "CAD",
                                                               "priceCad":  119.99,
-                                                              "shipping":  5.99,
+                                                              "shipping":  12.99,
                                                               "shippingEstimated":  false,
-                                                              "total":  125.98,
+                                                              "total":  132.98,
                                                               "url":  "https://www.bestbuy.ca/en-ca/product/dji-mic-mini-2-wireless-microphone-2-tx-mobile-receiver-charging-case/19854433",
                                                               "inStock":  true,
                                                               "inStore":  true,
@@ -3361,7 +3359,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3424,7 +3422,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3448,7 +3446,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3458,12 +3456,12 @@ window.PRICE_DATA = {
                                                               "seller":  "",
                                                               "condition":  "new",
                                                               "title":  "RØDE Wireless Micro - Compact Wireless Microphone, Two Mics with Charge Case for Smartphone Content Creation - USB-C, White",
-                                                              "price":  139.99,
+                                                              "price":  139,
                                                               "currency":  "CAD",
-                                                              "priceCad":  139.99,
+                                                              "priceCad":  139,
                                                               "shipping":  0,
                                                               "shippingEstimated":  false,
-                                                              "total":  139.99,
+                                                              "total":  139,
                                                               "url":  "https://www.amazon.ca/dp/B0DFXNYF6Y",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -3472,7 +3470,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3537,7 +3535,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3561,7 +3559,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3585,7 +3583,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3609,7 +3607,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3633,7 +3631,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3690,7 +3688,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3714,7 +3712,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3738,7 +3736,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3762,7 +3760,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3825,7 +3823,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3849,7 +3847,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3873,7 +3871,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Edmonton shop at 7620 Gateway Blvd NW. The price shown is for free curbside pickup (ready in about 2 hours). Under $99, delivery costs $12 same-day in the Edmonton area (order before 10 AM) or $18 shipping."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3897,7 +3895,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Flat $10 shipping under $99. No Edmonton store found (its Alberta stores are in Calgary)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3921,7 +3919,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3945,7 +3943,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3969,7 +3967,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Mizuno\u0027s own store. Free shipping over $75. Below that the fee is set at checkout; its terms give a $10 minimum, so $10 is an estimate."
                                                                         ],
-                                                              "lastSeen":  "2026-11-10T18:40:20Z",
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3998,6 +3996,2272 @@ window.PRICE_DATA = {
                                                       ]
                                        }
                                    ]
+                     },
+                     {
+                         "id":  "dashboard-screens",
+                         "title":  "Small screens for the desk dashboard",
+                         "icon":  "🖥️",
+                         "intro":  "A small second screen for the Raspberry Pi 5 on the desk dashboard (added 10 Nov 2026). Five named picks (four that plug straight into the Pi, and Waveshare\u0027s 7.9-inch bar) and four any-brand cheap ones looked for on AliExpress and Amazon.ca. Buy lines are before GST and include shipping. The named ones sit about 15% under PiShop.ca\u0027s price that day; the any-brand lines are first guesses until real AliExpress prices come in. AliExpress counts only established sellers. PiShop.ca ships from Ottawa and prices shipping by weight in the cart, so its $15 is an estimate. Memory Express and the other stores below are links only.",
+                         "items":  [
+                                       {
+                                           "id":  "rpi-touch-display-2-5in",
+                                           "name":  "Raspberry Pi Touch Display 2, 5-inch",
+                                           "typical":  58,
+                                           "target":  49,
+                                           "why":  "The cheapest official screen. It plugs into the Pi\u0027s display ribbon port (DSI) and takes its power from the Pi, so there\u0027s no extra plug. 720x1280 with touch; fits about 3-4 rows. The Pi sits on the monitor\u0027s back, so it needs a longer Pi 5 display cable (about $5) and a way out of the Pi\u0027s case for the ribbon. Model SC1975. Seen 10 Nov 2026 at PiShop.ca, in stock: $57.95.",
+                                           "targetOther":  39,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|pishop|1",
+                                                              "retailer":  "pishop",
+                                                              "retailerName":  "PiShop.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Raspberry Pi 5\" Touch Display 2, Portrait",
+                                                              "price":  57.95,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  57.95,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  57.95,
+                                                              "url":  "https://www.pishop.ca/product/raspberry-pi-5-touch-display-2-portrait/",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Raspberry%20Pi%20Touch%20Display%202%205%20inch",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=Raspberry%20Pi%20Touch%20Display%202%205%20inch",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=Raspberry%20Pi%20Touch%20Display%202%205%20inch\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=Raspberry%20Pi%20Touch%20Display%202%205%20inch",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "waveshare-7in-thin-1024x600",
+                                           "name":  "Waveshare 7-inch thin and light (1024x600, HDMI)",
+                                           "typical":  58,
+                                           "target":  49,
+                                           "why":  "The cheapest HDMI screen. One HDMI cable to the Pi\u0027s free second port, plus USB for power and touch. 1024x600 IPS; fits about 5 rows. Waveshare part 22676. Seen 10 Nov 2026 at PiShop.ca, in stock: $57.95.",
+                                           "targetOther":  39,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|pishop|1",
+                                                              "retailer":  "pishop",
+                                                              "retailerName":  "PiShop.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch IPS Integrated Touch Display, 1024x600, Thin and Light",
+                                                              "price":  57.95,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  57.95,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  57.95,
+                                                              "url":  "https://www.pishop.ca/product/7inch-ips-integrated-touch-display-1024x600-thin-and-light/",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "UeeKKoo-CA",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7inch IPS LCD Capacitive Touch Display 1024x600, Integrated Thin and Light Screen with Adapter Board, for Raspberry Pi/Jetson Nano/Windows/PC, Support Windows/Linux/Android",
+                                                              "price":  70.7,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  70.7,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  70.7,
+                                                              "url":  "https://www.amazon.ca/dp/B0C7MRGJ2D",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027UeeKKoo-CA\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7inch QLED Touch Capacitive Display 1024x600 Pixel, Integrated Thin and Light LCD with Adapter Board, for Raspberry Pi/Jetson Nano/Windows/PC, Support Windows/Linux/Android",
+                                                              "price":  87.35,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  87.35,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  87.35,
+                                                              "url":  "https://www.amazon.ca/dp/B0BBCKVYSC",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Waveshare%207%20inch%20IPS%20integrated%20touch%20display%201024x600%20thin%20and%20light",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=Waveshare%207%20inch%20IPS%20integrated%20touch%20display%201024x600%20thin%20and%20light",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=Waveshare%207%20inch%20IPS%20integrated%20touch%20display%201024x600%20thin%20and%20light\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=Waveshare%207%20inch%20IPS%20integrated%20touch%20display%201024x600%20thin%20and%20light",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "waveshare-7in-hdmi-lcd-c",
+                                           "name":  "Waveshare 7-inch HDMI LCD (C) (1024x600)",
+                                           "typical":  63,
+                                           "target":  53,
+                                           "why":  "Waveshare\u0027s best-known 7-inch HDMI screen, with lots of Raspberry Pi guides. HDMI to the Pi\u0027s second port, USB for power and touch. 1024x600 IPS; fits about 5 rows. Waveshare part 11199. Seen 10 Nov 2026 at PiShop.ca, in stock: $62.95.",
+                                           "targetOther":  42,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|pishop|1",
+                                                              "retailer":  "pishop",
+                                                              "retailerName":  "PiShop.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch HDMI LCD (C) Display, 1024x600, IPS",
+                                                              "price":  62.95,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  62.95,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  62.95,
+                                                              "url":  "https://www.pishop.ca/product/7inch-hdmi-lcd-c-display-1024x600-ips/",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "waveshare",
+                                                              "condition":  "new",
+                                                              "title":  "[Latest Version] Waveshare 7 Inch Capacitive Touch Screen LCD(C) 1024 X 600 Resolution HDMI Interface Display Panel Supports Raspberry Pi 4B/3B+/Zero etc./PC Windows 11/10/8.1/7/Various Systems",
+                                                              "price":  90.29,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  90.29,
+                                                              "shipping":  6.11,
+                                                              "shippingEstimated":  false,
+                                                              "total":  96.4,
+                                                              "url":  "https://www.amazon.ca/dp/B015E8EDYQ",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027waveshare\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7inch HDMI LCD (C) Capacitive Touch Screen Display Supports Various Systems for Raspberry pi 4B/3B+/Zero etc./PC Windows with Bicolor Case",
+                                                              "price":  99.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  99.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  99.99,
+                                                              "url":  "https://www.amazon.ca/dp/B01HPV7M4I",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Waveshare%207inch%20HDMI%20LCD%20(C)%201024x600",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=Waveshare%207inch%20HDMI%20LCD%20(C)%201024x600",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=Waveshare%207inch%20HDMI%20LCD%20(C)%201024x600\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=Waveshare%207inch%20HDMI%20LCD%20(C)%201024x600",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "rpi-touch-display-2-7in",
+                                           "name":  "Raspberry Pi Touch Display 2, 7-inch",
+                                           "typical":  87,
+                                           "target":  74,
+                                           "why":  "The bigger official screen: the same ribbon cable and Pi power as the 5-inch. 720x1280 with touch; fits about 5 rows. Model SC1635. Seen 10 Nov 2026 at PiShop.ca, in stock: $86.95.",
+                                           "targetOther":  59,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|pishop|1",
+                                                              "retailer":  "pishop",
+                                                              "retailerName":  "PiShop.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Raspberry Pi Touch Display 2 - 7inch",
+                                                              "price":  86.95,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  86.95,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  86.95,
+                                                              "url":  "https://www.pishop.ca/product/raspberry-pi-touch-display-2/",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Raspberry%20Pi%20Touch%20Display%202%207%20inch",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=Raspberry%20Pi%20Touch%20Display%202%207%20inch",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=Raspberry%20Pi%20Touch%20Display%202%207%20inch\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=Raspberry%20Pi%20Touch%20Display%202%207%20inch",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "waveshare-7-9in-bar-400x1280",
+                                           "name":  "Waveshare 7.9-inch bar (400x1280, HDMI)",
+                                           "typical":  111,
+                                           "target":  94,
+                                           "why":  "The cheapest true bar screen in Canada, the long strip shape. HDMI to the Pi\u0027s second port, USB for power and touch. 400x1280 used sideways; fits about 3 rows. Waveshare part 17916 (not the DSI version). Seen 10 Nov 2026 at PiShop.ca, in stock: $110.95.",
+                                           "targetOther":  75,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "page|pishop|1",
+                                                              "retailer":  "pishop",
+                                                              "retailerName":  "PiShop.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7.9inch Capacitive Touch Screen LCD, 400x1280, HDMI, IPS, Toughened Glass Cover",
+                                                              "price":  110.95,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  110.95,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  true,
+                                                              "total":  110.95,
+                                                              "url":  "https://www.pishop.ca/product/7-9inch-capacitive-touch-screen-lcd-400-1280-hdmi-ips-toughened-glass-cover/",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Raspberry Pi shop in Ottawa. Ships by Canada Post Expedited or UPS, usually the same or next business day. Shipping is priced by weight in the cart, so $15 is an estimate."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Amazon",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7.9inch HDMI LCD 7.9\" 400x1280 Capacitive Touch Screen LCD IPS Display Monitor, Toughened Glass Cover Support Raspberry Pi/Jetson Nano/PC/Windows 10/Raspbian/Ubuntu/Kali/WIN10 IoT/Retropie",
+                                                              "price":  136.19,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  136.19,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  136.19,
+                                                              "url":  "https://www.amazon.ca/dp/B09JMXXQ8V",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7.9inch Capacitive LCD HDMI Display,Mini Monitor,400×1280 Hardware Resolution IPS Touch Screen with Toughened Glass Cover Supports All Versions of Raspberry Pi Jetson Nano Windows",
+                                                              "price":  140.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  140.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  140.99,
+                                                              "url":  "https://www.amazon.ca/dp/B087CNJYB4",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/products/waveshare-79-capacitive-touch-screen-lcd-4001280-hdmi-ips-toughened-glass-cover",
+                                                                   "note":  "$112.84 on 13 Oct, special order"
+                                                               },
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Waveshare%207.9%20inch%20400x1280%20HDMI",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=Waveshare%207.9%20inch%20400x1280%20HDMI\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=Waveshare%207.9%20inch%20400x1280%20HDMI",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "any-5in-hdmi-800x480",
+                                           "name":  "Any brand 5-inch HDMI screen (800x480)",
+                                           "typical":  35,
+                                           "target":  28,
+                                           "why":  "The cheapest kind there is. HDMI to the Pi\u0027s second port, USB for power (and touch, if it has it). 800x480; fits about 3 rows. Any brand: the tracker keeps the cheapest listings whose title names the size, resolution and HDMI, and on AliExpress only from established sellers (4.5+ stars, 100+ sold, 93%+ store feedback). The buy line is a first guess until real prices come in.",
+                                           "targetOther":  22,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|1",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "SZ Discount Store (4.9 stars, 141 sold, 96.8% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "5 Inch IPS LCD HDMI 800 x 480 Capacitive Touch Screen LCD Display, Suitable For Sony PS4/Raspberry Pi/PC/Banana Pi",
+                                                              "price":  31.41,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  31.41,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  31.41,
+                                                              "url":  "https://www.aliexpress.com/item/1005007565361779.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false,
+                                                              "newCustomerOnly":  true,
+                                                              "stars":  4.9,
+                                                              "sold":  141
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Poover",
+                                                              "condition":  "new",
+                                                              "title":  "Touch Screen for Raspberry Pi, 5 Inch 800x480 HDMI LCD HD Display Monitor for Raspberry Pi3 Pi2/B+",
+                                                              "price":  44.62,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  44.62,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  44.62,
+                                                              "url":  "https://www.amazon.ca/dp/B08LGXG5ZD",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027Poover\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "5inch Raspberry pi HDMI LCD Display Module Resistive Touch Screen 800 * 480 High Resolution HDMI Interface for Raspberry Pi Directly Connect",
+                                                              "price":  54.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  54.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  54.99,
+                                                              "url":  "https://www.amazon.ca/dp/B078N8SKYY",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "5\u0027\u0027 IPS Capacitive Touchscreen, 800x480 HDMI Monitor for Raspberry Pi 5 4 3 2 Zero BB, Driver-Free",
+                                                              "price":  49.34,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  49.34,
+                                                              "shipping":  5.97,
+                                                              "shippingEstimated":  false,
+                                                              "total":  55.31,
+                                                              "url":  "https://www.amazon.ca/dp/B0CP3DH3LN",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "waveshare 5inch HDMI LCD (H) Capacitive Touch Screen 800x480, Supports Raspberry Pi Jetson Nano BB Black Banana Pi PC Windows 10 Raspbian Ubuntu Kali WIN10 IoT Retropie HDMI/VGA Display Port",
+                                                              "price":  59.51,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  59.51,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  59.51,
+                                                              "url":  "https://www.amazon.ca/dp/B0BKP59FYD",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "TOP1 5 inch Resistive Touch Screen LCD 800 * 480 Pixels HDMI Display Port 5\" TFT LCD Panel Monitor Supports Raspberry Pi 4B/3B+/3A+/3B SPI Touch Port",
+                                                              "price":  61.43,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  61.43,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  61.43,
+                                                              "url":  "https://www.amazon.ca/dp/B092R5YKL8",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare Raspberry Pi 5 Inch LCD HDMI 800 x 480 High Resolution for Raspberry Pi A+/B+/2B/3B/3A+/3B+/Raspberry Pi 4",
+                                                              "price":  61.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  61.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  61.99,
+                                                              "url":  "https://www.amazon.ca/dp/B01HPV7D38",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "5inch HDMI LCD Resistive Touch Screen LCD, 800x480 Supports Raspberry Pi,Windows 10/8.1/8/7, BB Black, as Well as General Desktop Computers",
+                                                              "price":  63.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  63.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  63.99,
+                                                              "url":  "https://www.amazon.ca/dp/B09C4KBFXH",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Padarsey 5 inch Touch Screen 800x480 TFT LCD Display HDMI Interface Supports Raspberry Pi 2B 3B 3B+ BB Black, Banana Pi Windows 10 8 7",
+                                                              "price":  64.11,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  64.11,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  64.11,
+                                                              "url":  "https://www.amazon.ca/dp/B07RZYYNMZ",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "5inch HDMI LCD Resistive Touch Screen Display 800x480 High Resolution Monitor HDMI Interface Supports Raspberry Pi with Bicolor Holder Case Lower Power Consumption",
+                                                              "price":  64.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  64.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  64.99,
+                                                              "url":  "https://www.amazon.ca/dp/B078N9W99T",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Capacitive Touch 5inch Raspberry pi LCD HDMI Display Module 800 * 480 High Resolution HDMI Interface Screen Supports Multi mini-PCs Multi Systems",
+                                                              "price":  68.55,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.55,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.55,
+                                                              "url":  "https://www.amazon.ca/dp/B07C7FZHSV",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Hosyond 5 Inch IPS LCD Touch Screen Display Panel 800×480 Capacitive Screen HDMI Monitor for Raspberry Pi 5/4/3, BB Black, Windows 10 8 7",
+                                                              "price":  68.24,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.24,
+                                                              "shipping":  5.84,
+                                                              "shippingEstimated":  false,
+                                                              "total":  74.08,
+                                                              "url":  "https://www.amazon.ca/dp/B0B1MK3SQ2",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "waveshare 5inch TFT Touch Screen 800x480 HDMI/VGA Display Port for Raspberry Pi 4B/3B+/3B/Pi Zero/Zero W/WH",
+                                                              "price":  76.37,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  76.37,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  76.37,
+                                                              "url":  "https://www.amazon.ca/dp/B09QLCQC2W",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=5%20inch%20HDMI%20LCD%20800x480%20raspberry%20pi",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=5%20inch%20HDMI%20LCD%20800x480%20raspberry%20pi",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=5%20inch%20HDMI%20LCD%20800x480%20raspberry%20pi\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=5%20inch%20HDMI%20LCD%20800x480%20raspberry%20pi",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "any-7in-hdmi-1024x600",
+                                           "name":  "Any brand 7-inch HDMI screen (1024x600)",
+                                           "typical":  50,
+                                           "target":  40,
+                                           "why":  "The common 7-inch size, usually much cheaper than Waveshare\u0027s. HDMI to the Pi\u0027s second port, USB for power. 1024x600; fits about 5 rows. Any brand: the tracker keeps the cheapest listings whose title names the size, resolution and HDMI, and on AliExpress only from established sellers (4.5+ stars, 100+ sold, 93%+ store feedback). The buy line is a first guess until real prices come in.",
+                                           "targetOther":  32,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|1",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "ihanfo-lcd Store (4.8 stars, 1,000+ sold, 96.4% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "Raspberry Pi 7 Inch NONTouch Screen IPS 1024x600 HD LCD HDMI- Display  for RPI 4B 3B+ 3B PC Secondary Screen Portable Monitor",
+                                                              "price":  44.95,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  44.95,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  44.95,
+                                                              "url":  "https://www.aliexpress.com/item/1005005950193835.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false,
+                                                              "newCustomerOnly":  true,
+                                                              "stars":  4.8,
+                                                              "sold":  1000
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Leycn",
+                                                              "condition":  "new",
+                                                              "title":  "New! 7inch Touch Display with Dual Speakers, 1024x600 Ultra HD Capacitive Touchscreen HDMI Monitor, for Raspberry Pi Mac Banana Pi Windows, Plug \u0026 Play",
+                                                              "price":  49.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  49.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  49.99,
+                                                              "url":  "https://www.amazon.ca/dp/B09L7XNBJB",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027Leycn\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Display Screen for, 7 Inch LCD HDMI Touchscreen Monitor with Ultra HD 1024x600 Display Screen and Capacitive Touch Screen",
+                                                              "price":  51.49,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  51.49,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  51.49,
+                                                              "url":  "https://www.amazon.ca/dp/B0CD7XR3MJ",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7Inch Touchscreen Monitor for Ultra HD 1024x600 Portable HDMI Monitor Touch Screen for Display, Support for Raspbian/Ubuntu/Kodi/IOT",
+                                                              "price":  58.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  58.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  58.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0B2QW89DR",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 Inch LCD Touch Screen, 1024x600 IPS Display with Stand, HDMI Portable Monitor for Raspberry Pi 5/4B/3B+/3B/B+/Zero/400, BB Black, Windows 10 8 7, Free Driver",
+                                                              "price":  55.64,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  55.64,
+                                                              "shipping":  6.3,
+                                                              "shippingEstimated":  false,
+                                                              "total":  61.94,
+                                                              "url":  "https://www.amazon.ca/dp/B0CRRB1GFN",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 Inch HDMI Monitor 1024x600 IPS LCD Screen White Wall Mount HDMI Display with Speakers for PC Raspberry Pi 4 3",
+                                                              "price":  68.98,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.98,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.98,
+                                                              "url":  "https://www.amazon.ca/dp/B0CDS4NSLG",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "GeeekPi 7 Inch Screen for Raspberry Pi, 1024x600 IPS LCD Display, HDMI Portable Monitor for Raspberry Pi 5/Pi 4B/3B+/3B/B+/Zero/400, Win11/10/8/7 (Non-Touch)",
+                                                              "price":  68.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0CHRD7CQ3",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch Touch IPS Portable Monitor with Dual Speakers, Audio Jack, 1024X600 Capacitive Touchscreen Metal Case, HDMI USB Computer Display for Windows Raspberry Pi Ubuntu Mac, Drive-Free",
+                                                              "price":  69.98,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  69.98,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  69.98,
+                                                              "url":  "https://www.amazon.ca/dp/B09K4DBBHB",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Small Monitor 7 inch 1024x600 IPS Capacitive Touch 7\" HDMI Wide Screen Portable LCD Display with Speakers for Raspberry Pi Laptop White",
+                                                              "price":  69.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  69.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  69.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0DP4SXS1R",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 Inch Portable Monitor 1024x600 IPS Mini HDMI Display Small Travel Monitor for Laptop PC Raspberry Pi Plug \u0026 Play with Metal Case \u0026 Dual Speakers",
+                                                              "price":  69.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  69.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  69.99,
+                                                              "url":  "https://www.amazon.ca/dp/B0B79XN86K",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "TOP1 7inch Capacitive Touch Screen LCD (H), 1024×600 Pixels, HDMI-compatibled, IPS Display, Computer Monitor, Supports Raspberry Pi/Jetson Nano/Windows 11/10/8.1/8/7 and Game Console",
+                                                              "price":  73.91,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  73.91,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  73.91,
+                                                              "url":  "https://www.amazon.ca/dp/B01HH6CMDC",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "for Raspberry Pi 7inch HDMI LCD (C) Rev4.1, 7\" 1024×600 Capacitive Touch Screen IPS Display Monitor for Raspberry Pi 4B/3B+/3B/2B/B+/A+/Zero W/WH/BeagleBone Black/Banana Pi, PC Windows 10/8.1/8/7",
+                                                              "price":  74.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  74.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  74.99,
+                                                              "url":  "https://www.amazon.ca/dp/B09NL73YJR",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "wisecoco 7 Inch Touchscreen Monitor for Raspberry Pi HDMI IPS 1024 x 600 Mini LCD Display for RPI Pi 5/4B/3B 2 Zero B B+ Windows Driver-Free",
+                                                              "price":  72.45,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  72.45,
+                                                              "shipping":  7.22,
+                                                              "shippingEstimated":  false,
+                                                              "total":  79.67,
+                                                              "url":  "https://www.amazon.ca/dp/B0BRMWMK6X",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch HDMI LCD (H) 1024x600 Monitor IPS Screen Capacitive Touch Display Supports Raspberry Pi Jetson Nano BeagleBone Black Banana Pi \u0026 Microsoft XBOX360, Sony PS4,Nintendo Switch",
+                                                              "price":  79.67,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  79.67,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  79.67,
+                                                              "url":  "https://www.amazon.ca/dp/B07D5TTRZD",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch HDMI LCD 1024x600 IPS Capacitive Touch Screen,HDMI/VGA Display Interface Support All Version Raspberry Pi 4B/3B+/3B/2B/Zero/Zero W/Zero WH,Jetson Nano BB Black Banana Pi Windows 10/8.1/8/7",
+                                                              "price":  79.67,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  79.67,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  79.67,
+                                                              "url":  "https://www.amazon.ca/dp/B07X2BTCR1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7 Inch HDMI LCD 1024x600 IPS Capacitive Touch Screen Monitor for Raspberry Pi 4B/3B+/3B/2B/A+/Zero W/WH/Jetson Nano/Banana Pi/Windows 10/8.1/8/7",
+                                                              "price":  79.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  79.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  79.99,
+                                                              "url":  "https://www.amazon.ca/dp/B09JMM7Z9Q",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch HDMI LCD Raspberry pi Capacitive Touch Screen Display 1024 * 600 Monitor for Raspberry pi/BeagleBone Black/Banana Pi with Bicolor Holder Case Supports Various Systems",
+                                                              "price":  82,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  82,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  82,
+                                                              "url":  "https://www.amazon.ca/dp/B078NB3BZ9",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 inch HDMI LCD (H) 1024x600 IPS Capacitive Touch Screen Display LCD Supports Multi Mini-PCs Raspberry Pi BB Black Banana Pi Game Consoles @XYGStudy",
+                                                              "price":  83.01,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  83.01,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  83.01,
+                                                              "url":  "https://www.amazon.ca/dp/B07KNMGPJL",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 Inch HDMI Touch Screen Monitor, 1024x600 IPS LCD for Raspberry Pi",
+                                                              "price":  87.84,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  87.84,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  87.84,
+                                                              "url":  "https://www.amazon.ca/dp/B0H6KDTWDQ",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 inch Touch Screen IPS LCD Display, Mini HDMI Portable Monitor 1024x600 for Raspberry Pi/Laptop/PC/Game Console",
+                                                              "price":  89.69,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  89.69,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  89.69,
+                                                              "url":  "https://www.amazon.ca/dp/B0D1KHZSL2",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7inch HDMI LCD (H) (with case) Capacitive Touch Screen 1024x600 IPS Display Monitor with Toughened Glass Cover Support All Raspberry Pi 4B/3B+/3B/2B/Zero/Jetson Nano/Banana Pi/Windows 10/8/7",
+                                                              "price":  92.15,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  92.15,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  92.15,
+                                                              "url":  "https://www.amazon.ca/dp/B081VZW9JC",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7inch HDMI LCD (H) (with case), Pi5 Screen,1024x600 Resolution Monitor IPS Capacitive Touch Monitor with Toughened Glass Cover Supports Raspberry Pi 5/4B/3B+/3B.../Jetson Nano/PC Windows",
+                                                              "price":  95.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  95.99,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  95.99,
+                                                              "url":  "https://www.amazon.ca/dp/B077PLVZCX",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Hosyond 7 Inch IPS LCD Touch Screen Monitor Display 1024×600 Capacitive Screen HDMI Monitor for Raspberry Pi 3B+/4B, BB Black, Windows 10 8 7",
+                                                              "price":  90.14,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  90.14,
+                                                              "shipping":  6.63,
+                                                              "shippingEstimated":  false,
+                                                              "total":  96.77,
+                                                              "url":  "https://www.amazon.ca/dp/B0BKGCB18T",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "7 inch Portable Small HDMI VGA Monitor ; Mini Screen Second Monitor for PC/TV/Raspberry PI/Camera ; IPS 1024x600 Pixel Support HDMI 1080P Input ;178 Full Viewing w/Speaker Earphone Jack",
+                                                              "price":  94.49,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  94.49,
+                                                              "shipping":  7.65,
+                                                              "shippingEstimated":  false,
+                                                              "total":  102.14,
+                                                              "url":  "https://www.amazon.ca/dp/B06XQJVXHL",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 7inch HDMI LCD (H) 1024x600 IPS Capacitive Touch Screen LCD Display HDMI Module for Raspberry Pi, Jetson Nano, BB Black, Banana Pi, Microsoft XBOX360 and Nintendo Switch",
+                                                              "price":  102.97,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  102.97,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  102.97,
+                                                              "url":  "https://www.amazon.ca/dp/B07P8P3X6M",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=7%20inch%20HDMI%20LCD%201024x600%20IPS%20raspberry%20pi",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=7%20inch%20HDMI%20LCD%201024x600%20IPS%20raspberry%20pi",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=7%20inch%20HDMI%20LCD%201024x600%20IPS%20raspberry%20pi\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=7%20inch%20HDMI%20LCD%201024x600%20IPS%20raspberry%20pi",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "any-7-9in-bar-400x1280",
+                                           "name":  "Any brand 7.84-7.9-inch bar (400x1280, HDMI)",
+                                           "typical":  70,
+                                           "target":  55,
+                                           "why":  "The same bar shape as Waveshare\u0027s 7.9-inch, from cheaper makers. HDMI to the Pi\u0027s second port, USB for power. 400x1280 used sideways; fits about 3 rows. Any brand: the tracker keeps the cheapest listings whose title names the size, resolution and HDMI, and on AliExpress only from established sellers (4.5+ stars, 100+ sold, 93%+ store feedback). The buy line is a first guess until real prices come in.",
+                                           "targetOther":  44,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "TUOPUONE CA",
+                                                              "condition":  "new",
+                                                              "title":  "TOP1 7.9inch Capacitive Touch Screen LCD for Raspberry Pi/Jetson Nano/PC HDMI IPS Display Computer Monitor 400×1280 Pixels Toughened Glass Cover",
+                                                              "price":  123.83,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  123.83,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  123.83,
+                                                              "url":  "https://www.amazon.ca/dp/B094Z8MBHS",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027TUOPUONE CA\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "waveshare 7.9inch HDMI LCD 7.9\" 400x1280 Capacitive Touch Screen LCD IPS Display Monitor, Toughened Glass Cover Support Raspberry Pi/Jetson Nano/PC/Windows 10/Raspbian/Ubuntu/Kali/WIN10 IoT/Retropie",
+                                                              "price":  136.19,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  136.19,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  136.19,
+                                                              "url":  "https://www.amazon.ca/dp/B09JMXXQ8V",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=7.9%20inch%20400x1280%20HDMI%20bar%20display",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=7.9%20inch%20400x1280%20HDMI%20bar%20display",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=7.9%20inch%20400x1280%20HDMI%20bar%20display\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=7.9%20inch%20400x1280%20HDMI%20bar%20display",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "any-8-8in-bar-1920x480",
+                                           "name":  "Any brand 8.8-inch bar (1920x480, HDMI)",
+                                           "typical":  75,
+                                           "target":  60,
+                                           "why":  "A longer, sharper bar. Many 8.8-inch bars are USB-only sensor panels that the Pi can\u0027t use as a screen, so the title must say HDMI. 1920x480; fits about 3 rows in bigger text. Any brand: the tracker keeps the cheapest listings whose title names the size, resolution and HDMI, and on AliExpress only from established sellers (4.5+ stars, 100+ sold, 93%+ store feedback). The buy line is a first guess until real prices come in.",
+                                           "targetOther":  48,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|1",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "IPistBit Official Store (5 stars, 106 sold, 98.4% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "8.8Inch 1920x480 HDMI Secondary Screen IPS LCD Display for PC Chassis CPU RAM GPU PC Case Monitor Display",
+                                                              "price":  47.79,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  47.79,
+                                                              "shipping":  12,
+                                                              "shippingEstimated":  true,
+                                                              "total":  59.79,
+                                                              "url":  "https://www.aliexpress.com/item/1005008270153447.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
+                                                                            "Listing does not advertise free shipping - $12 estimated."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false,
+                                                              "newCustomerOnly":  true,
+                                                              "stars":  5,
+                                                              "sold":  106
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "Liccx",
+                                                              "condition":  "new",
+                                                              "title":  "PC Temperature Display, 8.8 Inch HD IPS 1920x480 Computer Temp Monitor with HDMI and USB Cable, PC CPU Data Monitor Sensor Panel Monitor (White)",
+                                                              "price":  113.27,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  113.27,
+                                                              "shipping":  13.99,
+                                                              "shippingEstimated":  false,
+                                                              "total":  127.26,
+                                                              "url":  "https://www.amazon.ca/dp/B0D31Q9Z1X",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027Liccx\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Waveshare 8.8inch IPS Side Monitor 480×1920 Resolution HDMI Display Port, No Touch, Supports Raspberry Pi/Jetson Nano/PC",
+                                                              "price":  120.74,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  120.74,
+                                                              "shipping":  7.06,
+                                                              "shippingEstimated":  false,
+                                                              "total":  127.8,
+                                                              "url":  "https://www.amazon.ca/dp/B09JP2565M",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "8.8inch 480x1920 IPS Long Strip Display Stretched Bar HDMI Compatible Display Aida64 Monitor USB 5V Power Second Display Case",
+                                                              "price":  108.86,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  108.86,
+                                                              "shipping":  22.27,
+                                                              "shippingEstimated":  false,
+                                                              "total":  131.13,
+                                                              "url":  "https://www.amazon.ca/dp/B0B1LCHZVP",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "CUIFATI 8.8 Inch Touchscreen Secondary Monitor, Stretched Bar LCD Display 1920 * 480 HDMI USBC, Portable Touch Screen for Laptop Computer Wins GPU CPU RAM Monitoring",
+                                                              "price":  132.04,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  132.04,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  132.04,
+                                                              "url":  "https://www.amazon.ca/dp/B0FLDZ8G22",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|2",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "waveshare for All Raspberry Pi/AI Computer Jetson Nano/PC Windows 11/10 / 8.1/8 / 7, 8.8\" IPS Side Monitor 480x1920 No Touch HDMI Display Port Built-in HiFi Speaker, with CNC Process Alloy Enclosure",
+                                                              "price":  147.83,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  147.83,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  147.83,
+                                                              "url":  "https://www.amazon.ca/dp/B09T5KCDRW",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=8.8%20inch%201920x480%20HDMI%20bar%20display",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=8.8%20inch%201920x480%20HDMI%20bar%20display",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=8.8%20inch%201920x480%20HDMI%20bar%20display\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=8.8%20inch%201920x480%20HDMI%20bar%20display",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       },
+                                       {
+                                           "id":  "thermalright-trofeo-vision-9-16",
+                                           "name":  "Thermalright Trofeo Vision 9.16-inch (1920x462, USB)",
+                                           "typical":  69,
+                                           "target":  54,
+                                           "why":  "Not an HDMI screen: a USB panel that software sends pictures to. On the Pi that\u0027s the community TRCC Linux tool (lists this model as tested; has a Raspberry Pi install guide and a command to push a PNG), and it needs a USB-C to USB-A cable because the screen\u0027s own cable goes to a PC motherboard header. Its real resolution is 1920x462. Frans found it on Amazon.ca (ASIN B0FX7SH64X, black): $62.90 on 10 Nov 2026 (was $69.20), sold by iHTP and shipped by Amazon, returnable until 31 Jan 2027. The white one was $62.90 too, with slower delivery.",
+                                           "targetOther":  43,
+                                           "offers":  [
+                                                          {
+                                                              "sourceKey":  "aliexpress|aliexpress|2",
+                                                              "retailer":  "aliexpress",
+                                                              "retailerName":  "AliExpress",
+                                                              "seller":  "Thermalright Official Store (4.8 stars, 4,000+ sold, 98.3% positive feedback)",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TROFEO VISION LCD IPS full-color LCD screen，9.16 inches/magnetic/1920*480 resolution/USB Type-C port Display screen",
+                                                              "price":  49.67,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  49.67,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  49.67,
+                                                              "url":  "https://www.aliexpress.com/item/1005010225586949.html",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  true,
+                                                              "requires":  "New AliExpress accounts only (one-time welcome deal) - existing customers pay the regular price",
+                                                              "notes":  [
+                                                                            "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false,
+                                                              "newCustomerOnly":  true,
+                                                              "stars":  4.8,
+                                                              "sold":  4000
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "THERMALRIGHT.EUR",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 LCD White, 9.16-inch Full-Color LCD Magnetic Display Screen, 1920x462 Resolution, Easy to Install,Master CPU/GPU Temperature(White)",
+                                                              "price":  68.59,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.59,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.59,
+                                                              "url":  "https://www.amazon.ca/dp/B0GK195965",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items.",
+                                                                            "Sold by third-party seller \u0027THERMALRIGHT.EUR\u0027 - check seller rating and warranty."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 LCD Black, 9.16-inch Full-Color LCD Magnetic Display Screen, 1920x462 Resolution, Easy to Install,Master CPU/GPU Temperature(Black)",
+                                                              "price":  68.59,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.59,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.59,
+                                                              "url":  "https://www.amazon.ca/dp/B0GK15JJN1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 LCD White, 1920x462 Resolution-Support Switching Between Multiple Dynamic Images/Videos,Magnetic Display Screen-9.16in,Customize Display-Image/Video",
+                                                              "price":  68.9,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.9,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.9,
+                                                              "url":  "https://www.amazon.ca/dp/B0GHQ19FQX",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 LCD Black, 1920x462 Resolution-Support Switching Between Multiple Dynamic Images/Videos,Magnetic Display Screen-9.16in,Customize Display-Image/Video",
+                                                              "price":  68.9,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  68.9,
+                                                              "shipping":  0,
+                                                              "shippingEstimated":  false,
+                                                              "total":  68.9,
+                                                              "url":  "https://www.amazon.ca/dp/B0GHQ1HDR1",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision LCD AIO Display 9.16” PC Monitor",
+                                                              "price":  62.9,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  62.9,
+                                                              "shipping":  6.33,
+                                                              "shippingEstimated":  false,
+                                                              "total":  69.23,
+                                                              "url":  "https://www.amazon.ca/dp/B0G1BXWTYF",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision LCD AIO Display 9.16” PC Monitor",
+                                                              "price":  67.09,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  67.09,
+                                                              "shipping":  6.46,
+                                                              "shippingEstimated":  false,
+                                                              "total":  73.55,
+                                                              "url":  "https://www.amazon.ca/dp/B0G1BRCS7X",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 LCD Weiß,1920x480 Auflösung-Unterstützung Schalten Zwischen Mehreren Dynamischen Bildern/Videos,Magnet-Display-Bildschirm-9.16in,Anpassen Sie Display-Bild/Video",
+                                                              "price":  79.16,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  79.16,
+                                                              "shipping":  6.49,
+                                                              "shippingEstimated":  false,
+                                                              "total":  85.65,
+                                                              "url":  "https://www.amazon.ca/dp/B0FX9H9QZZ",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 LCD Black, 1920x462 Resolution-Support Switching Between Multiple Dynamic Images/Videos,Magnetic Display Screen-9.16in,Customize Display-Image/Video",
+                                                              "price":  80.3,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  80.3,
+                                                              "shipping":  6.46,
+                                                              "shippingEstimated":  false,
+                                                              "total":  86.76,
+                                                              "url":  "https://www.amazon.ca/dp/B0GC6NQFDT",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 LCD White, 1920x480 Resolution-Support Switching Between Multiple Dynamic Images/Videos,Magnetic Display Screen-9.16in,Customize Display-Image/Video",
+                                                              "price":  80.3,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  80.3,
+                                                              "shipping":  6.49,
+                                                              "shippingEstimated":  false,
+                                                              "total":  86.79,
+                                                              "url":  "https://www.amazon.ca/dp/B0GC5QMJRB",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 ARGB LCD White LCD Display 9.16-inch",
+                                                              "price":  83.42,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  83.42,
+                                                              "shipping":  6.46,
+                                                              "shippingEstimated":  false,
+                                                              "total":  89.88,
+                                                              "url":  "https://www.amazon.ca/dp/B0H8CNK8MD",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 White LCD, 23.27 cm Color LCD Magnetic Display, 1920x480 Resolution, Easy to Install, CPU/GPU Master Temperature (White)",
+                                                              "price":  83.93,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  83.93,
+                                                              "shipping":  6.48,
+                                                              "shippingEstimated":  false,
+                                                              "total":  90.41,
+                                                              "url":  "https://www.amazon.ca/dp/B0FX81PKYX",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 ARGB LCD Black LCD Display 9.16-inch",
+                                                              "price":  84.34,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  84.34,
+                                                              "shipping":  6.45,
+                                                              "shippingEstimated":  false,
+                                                              "total":  90.79,
+                                                              "url":  "https://www.amazon.ca/dp/B0HC2BQS9B",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 ARGB LCD White-ARGB Magnetic LCD Screen",
+                                                              "price":  85.42,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  85.42,
+                                                              "shipping":  6.46,
+                                                              "shippingEstimated":  false,
+                                                              "total":  91.88,
+                                                              "url":  "https://www.amazon.ca/dp/B0H8CPB6Q6",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 ARGB LCD Black-ARGB Magnetic LCD Screen",
+                                                              "price":  85.42,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  85.42,
+                                                              "shipping":  6.46,
+                                                              "shippingEstimated":  false,
+                                                              "total":  91.88,
+                                                              "url":  "https://www.amazon.ca/dp/B0H8CPK6K3",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 LCD Black, 9.16-inch Full-Color LCD Magnetic Display Screen, 1920x480 Resolution, Easy to Install,Master CPU/GPU Temperature(Black)",
+                                                              "price":  86.99,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  86.99,
+                                                              "shipping":  6.46,
+                                                              "shippingEstimated":  false,
+                                                              "total":  93.45,
+                                                              "url":  "https://www.amazon.ca/dp/B0H212W7W3",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 ARGB LCD Black 9.16’’ Magnetic IPS Display",
+                                                              "price":  88.66,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  88.66,
+                                                              "shipping":  6.49,
+                                                              "shippingEstimated":  false,
+                                                              "total":  95.15,
+                                                              "url":  "https://www.amazon.ca/dp/B0H8D9DCD7",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 ARGB LCD White 9.16’’ Magnetic IPS Display",
+                                                              "price":  88.66,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  88.66,
+                                                              "shipping":  6.66,
+                                                              "shippingEstimated":  false,
+                                                              "total":  95.32,
+                                                              "url":  "https://www.amazon.ca/dp/B0H8DFL396",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright Trofeo Vision 9.16 ARGB LCD Black LCD Display 9.16-inch",
+                                                              "price":  94.27,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  94.27,
+                                                              "shipping":  6.76,
+                                                              "shippingEstimated":  false,
+                                                              "total":  101.03,
+                                                              "url":  "https://www.amazon.ca/dp/B0H8CKHLQN",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          },
+                                                          {
+                                                              "sourceKey":  "amazon|amazon-ca|1",
+                                                              "retailer":  "amazon-ca",
+                                                              "retailerName":  "Amazon.ca",
+                                                              "seller":  "",
+                                                              "condition":  "new",
+                                                              "title":  "Thermalright TR Trofeo Vision 9.16 ARGB LCD White-ARGB Magnetic LCD Screen",
+                                                              "price":  97.51,
+                                                              "currency":  "CAD",
+                                                              "priceCad":  97.51,
+                                                              "shipping":  6.45,
+                                                              "shippingEstimated":  false,
+                                                              "total":  103.96,
+                                                              "url":  "https://www.amazon.ca/dp/B0HC2CQMRN",
+                                                              "inStock":  true,
+                                                              "inStore":  false,
+                                                              "crossBorder":  false,
+                                                              "requires":  "",
+                                                              "notes":  [
+                                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                                        ],
+                                                              "lastSeen":  "2026-11-11T00:40:24Z",
+                                                              "stale":  false
+                                                          }
+                                                      ],
+                                           "manualLinks":  [
+                                                               {
+                                                                   "name":  "Memory Express (Edmonton)",
+                                                                   "inStore":  true,
+                                                                   "url":  "https://www.memoryexpress.com/Search/Products?Search=Thermalright%20Trofeo%20Vision%209.16",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "RobotShop",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://ca.robotshop.com/search?q=Thermalright%20Trofeo%20Vision%209.16",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "BuyaPi.ca",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.buyapi.ca/?s=Thermalright%20Trofeo%20Vision%209.16\u0026post_type=product",
+                                                                   "note":  null
+                                                               },
+                                                               {
+                                                                   "name":  "Canada Computers",
+                                                                   "inStore":  false,
+                                                                   "url":  "https://www.canadacomputers.com/en/search?s=Thermalright%20Trofeo%20Vision%209.16",
+                                                                   "note":  null
+                                                               }
+                                                           ],
+                                           "errors":  [
+
+                                                      ]
+                                       }
+                                   ]
                      }
                  ],
     "bought":  [
@@ -4018,7 +6282,7 @@ window.PRICE_DATA = {
                       "title":  "Levoit smart air purifiers on Amazon.ca",
                       "note":  "Every Levoit air purifier on Amazon.ca that can be controlled from a phone (VeSync app), one row per listing, ranked by discount. Discount = how far today\u0027s price is below Amazon\u0027s own reference price (\"List\" or \"Was\"), which can be optimistic. Your buy price is 10% below each model\u0027s lowest Amazon.ca price on record (camelcamelcamel history and this tracker, set 6 Oct 2026); an email goes out when a listing reaches it. Non-smart models, replacement filters, humidifiers, bundles and two-purifier packs are left out.",
                       "brandName":  "Levoit",
-                      "updatedAt":  "2026-11-10T18:40:20Z",
+                      "updatedAt":  "2026-11-11T00:40:24Z",
                       "error":  null,
                       "items":  [
                                     {
@@ -4032,7 +6296,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0B252LDH7",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  516,
                                         "lowSeen":  573.74,
@@ -4049,7 +6313,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B088GYSHDQ",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  113.94,
@@ -4066,7 +6330,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09BJMY8HL",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  369.98,
@@ -4083,7 +6347,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BNDM2RNG",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  169.98,
@@ -4100,7 +6364,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BGPF71Q6",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  209.96,
@@ -4117,7 +6381,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08R794ZMX",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  207,
                                         "lowSeen":  254.99,
@@ -4134,7 +6398,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BHT3DQ8D",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  388.34,
@@ -4151,7 +6415,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGVDBNJZ",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  215.11,
@@ -4168,7 +6432,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0F3HYL51Z",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  238.7,
@@ -4185,7 +6449,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGV8FLNX",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  283.99,
@@ -4202,7 +6466,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09NBXDXJW",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  141.72,
@@ -4219,8 +6483,8 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0H2V91TQZ",
-                                        "lastSeen":  "2026-11-10T06:40:20Z",
-                                        "stale":  true,
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
+                                        "stale":  false,
                                         "target":  175,
                                         "lowSeen":  194.99,
                                         "lowSeenAt":  "2026-10-06T16:45:38Z"
@@ -4236,7 +6500,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GYY98MR7",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  152.99,
@@ -4253,7 +6517,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GWLVKN9T",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  193.94,
@@ -4270,7 +6534,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GXKSC38S",
-                                        "lastSeen":  "2026-11-10T18:40:20Z",
+                                        "lastSeen":  "2026-11-11T00:40:24Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  279.99,
