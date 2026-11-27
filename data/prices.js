@@ -1,5 +1,5 @@
 window.PRICE_DATA = {
-    "generatedAt":  "2026-11-27T00:40:21Z",
+    "generatedAt":  "2026-11-27T06:40:20Z",
     "location":  "Edmonton, AB",
     "gstRate":  0.05,
     "fx":  {
@@ -36,7 +36,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -60,7 +60,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -84,7 +84,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -108,7 +108,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping. Student discounts via UNiDAYS / Student Beans come and go - check before buying."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -132,7 +132,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -156,7 +156,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -180,7 +180,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -204,7 +204,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -228,7 +228,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -252,7 +252,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -304,6 +304,30 @@ window.PRICE_DATA = {
                                               "sourceKey":  "amazon|amazon-ca|2",
                                               "retailer":  "amazon-ca",
                                               "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "refurbished",
+                                              "title":  "WH-1000XM6 The Best Wireless Noise Canceling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, 30-Hour Battery, Black (Renewed)",
+                                              "price":  194.74,
+                                              "currency":  "CAD",
+                                              "priceCad":  194.74,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  194.74,
+                                              "url":  "https://www.amazon.ca/dp/B0FBTYSRQ3",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
                                               "seller":  "Phantom Intl",
                                               "condition":  "new",
                                               "title":  "WH1000XM6 Wireless Noise Cancelling Over-Ear Headphones, Black",
@@ -322,79 +346,7 @@ window.PRICE_DATA = {
                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                             "Sold by third-party seller \u0027Phantom Intl\u0027 - check seller rating and warranty."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "page|costco|4",
-                                              "retailer":  "costco",
-                                              "retailerName":  "Costco.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Wireless Noise Cancelling Headphones, Silver",
-                                              "price":  478,
-                                              "currency":  "CAD",
-                                              "priceCad":  478,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  478,
-                                              "url":  "https://www.costco.ca/sony-wh-1000xm6-wireless-noise-cancelling-headphones.product.4000377234.html",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "WH-1000XM6 The Best Wireless Noise Cancelling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, 30-Hour Battery, Olive Grey",
-                                              "price":  478,
-                                              "currency":  "CAD",
-                                              "priceCad":  478,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  478,
-                                              "url":  "https://www.amazon.ca/dp/B0H9B4W7MW",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones MidnightBlue",
-                                              "price":  478,
-                                              "currency":  "CAD",
-                                              "priceCad":  478,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  478,
-                                              "url":  "https://www.amazon.ca/dp/B0F3PT1VBL",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -418,79 +370,79 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/B",
-                                              "price":  479.99,
+                                              "title":  "WH-1000XM6 The Best Noise Cancelling Wireless Headphones MidnightBlue",
+                                              "price":  478,
                                               "currency":  "CAD",
-                                              "priceCad":  479.99,
+                                              "priceCad":  478,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-b",
+                                              "total":  478,
+                                              "url":  "https://www.amazon.ca/dp/B0F3PT1VBL",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/L",
-                                              "price":  479.99,
+                                              "title":  "WH-1000XM6 The Best Wireless Noise Cancelling Headphones, HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, 30-Hour Battery, Olive Grey",
+                                              "price":  478,
                                               "currency":  "CAD",
-                                              "priceCad":  479.99,
+                                              "priceCad":  478,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-l",
+                                              "total":  478,
+                                              "url":  "https://www.amazon.ca/dp/B0H9B4W7MW",
                                               "inStock":  true,
                                               "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "page|sony|3",
-                                              "retailer":  "sony",
-                                              "retailerName":  "Sony Canada",
+                                              "sourceKey":  "page|costco|4",
+                                              "retailer":  "costco",
+                                              "retailerName":  "Costco.ca",
                                               "seller":  "",
                                               "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 - WH1000XM6/T",
-                                              "price":  479.99,
+                                              "title":  "Sony WH-1000XM6 Wireless Noise Cancelling Headphones, Silver",
+                                              "price":  478,
                                               "currency":  "CAD",
-                                              "priceCad":  479.99,
+                                              "priceCad":  478,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-t",
+                                              "total":  478,
+                                              "url":  "https://www.costco.ca/sony-wh-1000xm6-wireless-noise-cancelling-headphones.product.4000377234.html",
                                               "inStock":  true,
-                                              "inStore":  false,
+                                              "inStore":  true,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                            "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -514,7 +466,79 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/B",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-b",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/T",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-t",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "page|sony|3",
+                                              "retailer":  "sony",
+                                              "retailerName":  "Sony Canada",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 - WH1000XM6/L",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-l",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sony\u0027s own Canadian store. Free shipping."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -538,7 +562,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -562,7 +586,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -586,7 +610,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -610,7 +634,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -634,55 +658,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sony\u0027s own Canadian store. Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sandstone",
-                                              "price":  479.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  479.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sandstone/19869816",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Blue",
-                                              "price":  479.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  479.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-blue/19320384",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -706,79 +682,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Silver",
-                                              "price":  479.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  479.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-silver/19320385",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Olive Grey",
-                                              "price":  479.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  479.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-olive-grey/19997587",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|staples|6",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
-                                              "condition":  "new",
-                                              "title":  "Sony WH1000XM6 Best Wireless Noise Cancelling Headphones - Pink",
-                                              "price":  479.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  479.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  479.99,
-                                              "url":  "https://www.staples.ca/products/3165915-en-sony-wh1000xm6-best-wireless-noise-cancelling-headphones-pink",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -802,7 +706,127 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Silver",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-silver/19320385",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Blue",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-blue/19320384",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Olive Grey",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-olive-grey/19997587",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Sony WH-1000XM6 Over-Ear Noise Cancelling Bluetooth Headphones - Sandstone",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-sandstone/19869816",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|6",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Sony WH1000XM6 Best Wireless Noise Cancelling Headphones - Pink",
+                                              "price":  479.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  479.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  479.99,
+                                              "url":  "https://www.staples.ca/products/3165915-en-sony-wh1000xm6-best-wireless-noise-cancelling-headphones-pink",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -826,7 +850,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -850,7 +874,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -874,7 +898,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -898,7 +922,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -967,7 +991,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -991,31 +1015,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "amazon|amazon-ca|2",
-                                              "retailer":  "amazon-ca",
-                                              "retailerName":  "Amazon.ca",
-                                              "seller":  "Amazon",
-                                              "condition":  "new",
-                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, White",
-                                              "price":  499,
-                                              "currency":  "CAD",
-                                              "priceCad":  499,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  499,
-                                              "url":  "https://www.amazon.ca/dp/B0FDKRX5G9",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Free shipping with Prime on Amazon-fulfilled items."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1039,31 +1039,55 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "Amazon",
                                               "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
+                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, White",
                                               "price":  499,
                                               "currency":  "CAD",
                                               "priceCad":  499,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
                                               "total":  499,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
-                                              "inStock":  false,
-                                              "inStore":  true,
+                                              "url":  "https://www.amazon.ca/dp/B0FDKRX5G9",
+                                              "inStock":  true,
+                                              "inStore":  false,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "amazon|amazon-ca|2",
+                                              "retailer":  "amazon-ca",
+                                              "retailerName":  "Amazon.ca",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, Driftwood Sand - Limited Edition",
+                                              "price":  499,
+                                              "currency":  "CAD",
+                                              "priceCad":  499,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  499,
+                                              "url":  "https://www.amazon.ca/dp/B0FDKQ2FG6",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping with Prime on Amazon-fulfilled items."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1087,7 +1111,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1111,31 +1135,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "bestbuy|bestbuy|1",
-                                              "retailer":  "bestbuy",
-                                              "retailerName":  "Best Buy",
-                                              "seller":  "Best Buy",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - 30 Hour Playtime, Cherry Chocolate",
-                                              "price":  499,
-                                              "currency":  "CAD",
-                                              "priceCad":  499,
-                                              "shipping":  0,
-                                              "shippingEstimated":  false,
-                                              "total":  499,
-                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-30-hour-playtime-cherry-chocolate/20091776",
-                                              "inStock":  true,
-                                              "inStore":  true,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1159,31 +1159,55 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
-                                              "sourceKey":  "discover|staples|5",
-                                              "retailer":  "staples",
-                                              "retailerName":  "Staples",
-                                              "seller":  "",
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
                                               "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Black (2nd Gen)",
-                                              "price":  499.99,
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - Desert Gold",
+                                              "price":  499,
                                               "currency":  "CAD",
-                                              "priceCad":  499.99,
+                                              "priceCad":  499,
                                               "shipping":  0,
                                               "shippingEstimated":  false,
-                                              "total":  499.99,
-                                              "url":  "https://www.staples.ca/products/24580011-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-black-2nd-gen",
+                                              "total":  499,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-desert-gold/19415358",
+                                              "inStock":  false,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "bestbuy|bestbuy|1",
+                                              "retailer":  "bestbuy",
+                                              "retailerName":  "Best Buy",
+                                              "seller":  "Best Buy",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Over-Ear Noise Cancelling Bluetooth Headphones - 30 Hour Playtime, Cherry Chocolate",
+                                              "price":  499,
+                                              "currency":  "CAD",
+                                              "priceCad":  499,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  499,
+                                              "url":  "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-30-hour-playtime-cherry-chocolate/20091776",
                                               "inStock":  true,
                                               "inStore":  true,
                                               "crossBorder":  false,
                                               "requires":  "",
                                               "notes":  [
-                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                            "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1207,7 +1231,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1231,7 +1255,31 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|staples|5",
+                                              "retailer":  "staples",
+                                              "retailerName":  "Staples",
+                                              "seller":  "",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra 2nd Gen Wireless Noise Canceling Over-Ear Headphones - Black (2nd Gen)",
+                                              "price":  499.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  499.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  false,
+                                              "total":  499.99,
+                                              "url":  "https://www.staples.ca/products/24580011-en-bose-quietcomfort-ultra-2nd-gen-wireless-noise-canceling-over-ear-headphones-black-2nd-gen",
+                                              "inStock":  true,
+                                              "inStore":  true,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Free shipping over $50; store pickup in Edmonton."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1255,103 +1303,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping over $50; store pickup in Edmonton."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Olive Green",
-                                              "price":  505.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  505.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  505.99,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627204",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Black",
-                                              "price":  505.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  505.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  505.99,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627184",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Driftwood Sand",
-                                              "price":  505.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  505.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  505.99,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627188",
-                                              "inStock":  true,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
-                                              "stale":  false
-                                          },
-                                          {
-                                              "sourceKey":  "discover|newegg|6",
-                                              "retailer":  "newegg",
-                                              "retailerName":  "Newegg.ca",
-                                              "seller":  "Newegg",
-                                              "condition":  "new",
-                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Cherry Chocolate",
-                                              "price":  505.99,
-                                              "currency":  "CAD",
-                                              "priceCad":  505.99,
-                                              "shipping":  0,
-                                              "shippingEstimated":  true,
-                                              "total":  505.99,
-                                              "url":  "https://www.newegg.ca/p/N82E16826627203",
-                                              "inStock":  false,
-                                              "inStore":  false,
-                                              "crossBorder":  false,
-                                              "requires":  "",
-                                              "notes":  [
-                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
-                                                        ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1375,7 +1327,103 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Black",
+                                              "price":  505.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  505.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  505.99,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627184",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Olive Green",
+                                              "price":  505.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  505.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  505.99,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627204",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Headphones - Cherry Chocolate",
+                                              "price":  505.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  505.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  505.99,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627203",
+                                              "inStock":  false,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
+                                              "stale":  false
+                                          },
+                                          {
+                                              "sourceKey":  "discover|newegg|6",
+                                              "retailer":  "newegg",
+                                              "retailerName":  "Newegg.ca",
+                                              "seller":  "Newegg",
+                                              "condition":  "new",
+                                              "title":  "Bose QuietComfort Ultra (2nd Gen) Noise Cancelling Over-Ear Wireless Bluetooth Headphones with Mic/Remote - Driftwood Sand",
+                                              "price":  505.99,
+                                              "currency":  "CAD",
+                                              "priceCad":  505.99,
+                                              "shipping":  0,
+                                              "shippingEstimated":  true,
+                                              "total":  505.99,
+                                              "url":  "https://www.newegg.ca/p/N82E16826627188",
+                                              "inStock":  true,
+                                              "inStore":  false,
+                                              "crossBorder":  false,
+                                              "requires":  "",
+                                              "notes":  [
+                                                            "Shipping is usually free on headphones sold by Newegg; confirm at checkout."
+                                                        ],
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1399,7 +1447,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           },
                                           {
@@ -1423,7 +1471,7 @@ window.PRICE_DATA = {
                                               "notes":  [
                                                             "Free shipping."
                                                         ],
-                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                               "stale":  false
                                           }
                                       ],
@@ -1500,7 +1548,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1525,7 +1573,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1549,7 +1597,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1625,7 +1673,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1701,7 +1749,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE, SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1776,7 +1824,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Members only. Online price includes shipping; the Edmonton warehouse price is often lower - worth checking in person."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1801,7 +1849,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY; BUY MORE SAVE MORE."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1825,7 +1873,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -1901,7 +1949,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -1925,7 +1973,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2001,7 +2049,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2025,7 +2073,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2101,7 +2149,7 @@ window.PRICE_DATA = {
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store.",
                                                                             "Home Depot promotion: FREE DELIVERY."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2176,7 +2224,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Price at the Edmonton South store (#7065). The appliances here showed free delivery in Oct 2026; otherwise pick up in store."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2189,9 +2237,9 @@ window.PRICE_DATA = {
                                                               "price":  199.99,
                                                               "currency":  "CAD",
                                                               "priceCad":  199.99,
-                                                              "shipping":  30.99,
+                                                              "shipping":  29.99,
                                                               "shippingEstimated":  false,
-                                                              "total":  230.98,
+                                                              "total":  229.98,
                                                               "url":  "https://www.bestbuy.ca/en-ca/product/insignia-over-the-range-microwave-1-7-cu-ft-stainless-steel-only-at-best-buy/16021540",
                                                               "inStock":  true,
                                                               "inStore":  true,
@@ -2200,7 +2248,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2284,7 +2332,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2354,7 +2402,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027UGREEN GROUP LIMITED\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2378,7 +2426,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false,
                                                               "stars":  4.9,
                                                               "sold":  600
@@ -2390,12 +2438,12 @@ window.PRICE_DATA = {
                                                               "seller":  "UGREEN Direct Store (4.8 stars, 2,000+ sold, 98.5% positive feedback)",
                                                               "condition":  "new",
                                                               "title":  "UGREEN FineTrack Mini Duo 2-in-1 Global Positioning Tracker, Smart Bluetooth Item   Locator,Anti-Lost Tag for Bags. Keys",
-                                                              "price":  19.48,
+                                                              "price":  19.51,
                                                               "currency":  "CAD",
-                                                              "priceCad":  19.48,
+                                                              "priceCad":  19.51,
                                                               "shipping":  12,
                                                               "shippingEstimated":  true,
-                                                              "total":  31.48,
+                                                              "total":  31.51,
                                                               "url":  "https://www.aliexpress.com/item/1005012823957853.html",
                                                               "inStock":  true,
                                                               "inStore":  false,
@@ -2405,7 +2453,7 @@ window.PRICE_DATA = {
                                                                             "Marketplace listing - lowest variant price shown; confirm the exact model and shipping before buying. Long delivery, limited warranty.",
                                                                             "Listing does not advertise free shipping - $12 estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false,
                                                               "newCustomerOnly":  true,
                                                               "stars":  4.8,
@@ -2477,7 +2525,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2547,7 +2595,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Chipolo\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2571,7 +2619,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2595,7 +2643,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2619,7 +2667,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2696,7 +2744,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2720,7 +2768,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2744,7 +2792,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2768,7 +2816,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2792,7 +2840,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -2867,7 +2915,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2891,7 +2939,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2915,7 +2963,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2939,7 +2987,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "No Edmonton store; shipping estimated."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -2963,7 +3011,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3038,7 +3086,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3063,7 +3111,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027Hollyland Global Store\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3120,7 +3168,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping over $50; store pickup in Edmonton."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3144,7 +3192,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3168,7 +3216,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3192,7 +3240,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Sold by Best Buy itself - returnable at an Edmonton store; free store pickup. Marketplace (third-party) listings are excluded."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3256,7 +3304,7 @@ window.PRICE_DATA = {
                                                                             "Free shipping with Prime on Amazon-fulfilled items.",
                                                                             "Sold by third-party seller \u0027quick pix\u0027 - check seller rating and warranty."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3280,7 +3328,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Free shipping with Prime on Amazon-fulfilled items."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           },
                                                           {
@@ -3304,7 +3352,7 @@ window.PRICE_DATA = {
                                                               "notes":  [
                                                                             "Calgary camera shop. Free Canada Post shipping over $99 (otherwise $15-30)."
                                                                         ],
-                                                              "lastSeen":  "2026-11-27T00:40:21Z",
+                                                              "lastSeen":  "2026-11-27T06:40:20Z",
                                                               "stale":  false
                                                           }
                                                       ],
@@ -3363,7 +3411,7 @@ window.PRICE_DATA = {
                       "title":  "Levoit smart air purifiers on Amazon.ca",
                       "note":  "Every Levoit air purifier on Amazon.ca that can be controlled from a phone (VeSync app), one row per listing, ranked by discount. Discount = how far today\u0027s price is below Amazon\u0027s own reference price (\"List\" or \"Was\"), which can be optimistic. Your buy price is 10% below each model\u0027s lowest Amazon.ca price on record (camelcamelcamel history and this tracker, set 6 Oct 2026); an email goes out when a listing reaches it. Non-smart models, replacement filters, humidifiers, bundles and two-purifier packs are left out.",
                       "brandName":  "Levoit",
-                      "updatedAt":  "2026-11-27T00:40:21Z",
+                      "updatedAt":  "2026-11-27T06:40:20Z",
                       "error":  null,
                       "items":  [
                                     {
@@ -3377,7 +3425,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BGPF71Q6",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  199.99,
@@ -3394,7 +3442,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B088GYSHDQ",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  113.94,
@@ -3428,7 +3476,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09BJMY8HL",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  369.98,
@@ -3445,7 +3493,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BNDM2RNG",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  169.98,
@@ -3462,7 +3510,7 @@ window.PRICE_DATA = {
                                         "coupon":  "Save $18.00 with coupon",
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GXKSC38S",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  175,
                                         "lowSeen":  226.67,
@@ -3479,7 +3527,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0BHT3DQ8D",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  290,
                                         "lowSeen":  388.34,
@@ -3496,7 +3544,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B08R794ZMX",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  207,
                                         "lowSeen":  254.99,
@@ -3513,7 +3561,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GYY98MR7",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  140.79,
@@ -3530,7 +3578,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0H144QD45",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  126,
                                         "lowSeen":  158.39,
@@ -3547,7 +3595,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0B252LDH7",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  516,
                                         "lowSeen":  573.74,
@@ -3564,7 +3612,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B09NBXDXJW",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  98,
                                         "lowSeen":  141.72,
@@ -3581,7 +3629,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGV8FLNX",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  180,
                                         "lowSeen":  283.99,
@@ -3598,7 +3646,7 @@ window.PRICE_DATA = {
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0GWLVKN9T",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  138,
                                         "lowSeen":  151.11,
@@ -3608,14 +3656,14 @@ window.PRICE_DATA = {
                                         "asin":  "B0CGVDBNJZ",
                                         "model":  "Vital 100S-P",
                                         "title":  "Air Purifier for Home Large Room Bedroom Up to 1110 Ft² with Air Quality Monitor, Smart WiFi, Washable Pre-Filter, HEPA Sleep Mode for Pets, Allergies, Dust, Pollen, Vital 100S-P, Black",
-                                        "price":  249.48,
+                                        "price":  252.22,
                                         "refPrice":  null,
                                         "refLabel":  null,
                                         "discountPct":  0,
                                         "coupon":  null,
                                         "deal":  null,
                                         "url":  "https://www.amazon.ca/dp/B0CGVDBNJZ",
-                                        "lastSeen":  "2026-11-27T00:40:21Z",
+                                        "lastSeen":  "2026-11-27T06:40:20Z",
                                         "stale":  false,
                                         "target":  143,
                                         "lowSeen":  215.11,
